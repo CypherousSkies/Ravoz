@@ -87,25 +87,22 @@ Rules!
 
 ## Grammar
 
-### Parts of Speech
-
-These categories bare some explaining so lets pick them apart:
-
+### Parts of Speech:
 - **Terminators**: These are intransitive verbs and nouns, things which (generally) form the beginning or end of a sentence.
 
 - **Relations**: These (as the name suggests) are verbs which form a relation between two (or more) loci (so things like "A loves B")
 
-        - As a note the irregular relation is called a **path**, which while not entirely its own grammatical category, is interesting in its own right. It may function as a relation (depicting change from something to something else) or a kind of special terminator (placing something within a range).
+	- As a note the irregular relation (`ō`) is called a **path**, which while not entirely its own grammatical category, is interesting in its own right. It may function as a relation (depicting change from something to something else) or a kind of special terminator (placing something within a range).
 
 - **Particles**: In addition to serving as grammatical modifiers (conjugation, clarifying medium, & kind), they may serve as terminators or relations to relations (e.g. how "liked that" in "I liked that she grabbed flowers" forms a relation between "I" and "grabbed")
 
 - **Decorations**: Grammatically, decorations are much like relations, just far less regular.
 
-        - `ì` syllables are pronouns (which are rarely written) which serve as placeholder connections in linear or complex texts (in practice they are a special kind of relation which function like terminators)
+	- `ì` syllables are pronouns (which are rarely written) which serve as placeholder connections in linear or complex texts (in practice they are a special kind of relation which function like terminators)
 
-        - `à` syllables are numbers and domain markers, which are written above or below a line to give more information (in practice a kind of particle which cannot serve as a terminator)
+	- `à` syllables are numbers and domain markers, which are written above or below a line to give more information (in practice a kind of particle which cannot serve as a terminator)
 
-        - `ò` syllables are grouping words (including prepositions, parentheses, and [[#Cartouches]]) with a various ways of being written
+	- `ò` syllables are grouping words (including prepositions, parentheses, and [[#Cartouches]]) with a various ways of being written
 
 
 ### Word order
