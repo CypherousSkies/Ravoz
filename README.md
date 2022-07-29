@@ -7,6 +7,8 @@ Rāvòz is the successor to Thék'ŋānòsh (itself a stylistic derivative of [O
 
 Rāvòz is a work-in-progress and will be posted here _eventually_. When I post it, I'm happy to watch it take on a life of its own among speakers and writers, but for now it's a deeply personal project designed to help me work through some spirituality feelings. That said, don't take it _too_ seriously. Much of it struggles with being the result of too-tight design decisions and a general lack of destination. When Rāvòz launches, I'll be making a discord to talk about/in the language and I'm more than happy to answer questions about it!
 
+Discord: https://discord.gg/GaP6X7YGUd
+
 What follows is an outline of the highlights of my design documents.
 
 ## Goals
