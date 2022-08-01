@@ -135,7 +135,7 @@ Word order is largely free, as relation functions are marked fairly clearly, how
 4. Shortenings
 	- Have a long word? shorten it by omitting clarifying information with `zò`, then capping it by restating the vowel (so for nouns use `á`) and the usual cap.
 	- Examples:
-		- `rāvòtipábábpi'ádi` can be shortened to `rāvòzò'ádi`
+		- `rāvòtipábábsiv'ádi` can be shortened to `rāvòzò'ádi`
 		- `míbàtišoŋōhnōxfosòvovòŋōfsozo'íbi` (roughly, the path the sun traces through the sky) shortens to `míbàtiŋōhzò'íbi`
 
 \* for canonical poly-locus words, there may be a preferred order, though this is not grammatically mandatory.
