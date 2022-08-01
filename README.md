@@ -1,4 +1,4 @@
-# Rāvòtipábàbsi'ádi
+# Rāvòtipábàbsiv'ádi
 > perceive-DIR-ENI-\[information-spiritual-PER\]-N-ANI
 > "The spiritual language (which is a tool) which allows (through personal experience) the perception of the enigmatic (unknowables, spirits, gods)"
 
