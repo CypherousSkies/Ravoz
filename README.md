@@ -2,7 +2,7 @@
 > perceive-DIR-ENI-\[information-spiritual-PER\]-N-ANI
 > "The spiritual language (which is a tool) which allows (through personal experience) the perception of the enigmatic (unknowables, spirits, gods)"
 
-`rāvòtipábàbsi'ádi` (or just `rāvòzò'ádi` for short, anglicized Rāvòz) is a spiritual artlang with a non-linear writing system.
+`rāvòtipábàbsiv'ádi` (or just `rāvòzò'ádi` for short, anglicized Rāvòz) is a spiritual artlang with a non-linear writing system.
 Rāvòz is the successor to Thék'ŋānòsh (itself a stylistic derivative of [Ouwi](https://ouwi.org/index.html) and functional derivative of [UNLWS](https://s.ai/nlws/)), which was simpler and more "complete" (having a closed set of "simple" words), but it didn't *sound* quite right. Also, after the Great Vowel Collapse (don't ask), it became kinda messy to work with. So we're restarting with mostly similar intentions, and hopefully better-fated ends.
 
 Rāvòz is a work-in-progress and will be posted here _eventually_. When I post it, I'm happy to watch it take on a life of its own among speakers and writers, but for now it's a deeply personal project designed to help me work through some spirituality feelings. That said, don't take it _too_ seriously. Much of it struggles with being the result of too-tight design decisions and a general lack of destination. When Rāvòz launches, I'll be making a discord to talk about/in the language and I'm more than happy to answer questions about it!
