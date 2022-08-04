@@ -1,0 +1,2 @@
+# Graphs
+These are glyphs which are like [[Relations]] but hold a distinct grammatical category as they indicate degree, usually with the help of either a distributive stack (series of dots) or axis (rel line with [[Numbers|quantity marker]]).

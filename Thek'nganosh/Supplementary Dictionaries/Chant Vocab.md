@@ -1,0 +1,23 @@
+# [[The Chant]] Vocab
+- Brutalist (adj) `ngo2she2rzo2sh` or `ngo2rzo2she2sh` (`ngo2`DI(`she2`\-`rzo2`)S`sh`)
+	- Lit: example of artificial secularism
+- Building (n)  `ngo2 tho1` (`ngo2`DI`tho1`)
+	- artificial place
+- Corridor (n)
+	- artificial passage
+- Atrium (n)
+	- big open inside meeting place
+- Door (n)
+	- passage-blocker
+- Tunnel (n)
+	- nature (conj artificial) passage
+- Figure (n)
+	- person (conj no light)
+- Window (n)
+	- light-passthrough thing
+- Tree (n)
+	- big tough wild plant
+- Massive (adj)
+	- endless (conj finite)
+- Forest (n)
+	- many trees becoming a whole

@@ -1,0 +1,2 @@
+# Ceremonial Script
+This is based on the [[New Ithkuil#Writing System|Ithkuil II NLWS]] and is essentially a bubble version of the main script, imagining connections as overlapping cartouches. In this script particles without external binding points are written as shapes within the boundary of the cartouche.

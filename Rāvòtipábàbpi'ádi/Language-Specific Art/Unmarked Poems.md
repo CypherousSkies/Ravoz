@@ -1,0 +1,6 @@
+# Unmarked Poems
+Something that is uniquely possible in this language is taking a text and stripping it of all consonant markings (and thus direct meaning), leaving a "skeleton" of meaning behind. This means you can play a kind a game where you "color" in the glyphs, creating a particular meaning from the skeleton. This can be an interesting experience in subjectivity as you collapse the near-infinite space of possible meanings of the graph into a single sentence which is meaningful to you, though I'll need to play with it to fully understand.
+
+An interesting consequence of this art-form is that it is easily automated, being a simple process of picking random consonants for each glyph and reading out the result. I think that in a certain sense, this could form a kind of prayer — each day starting with a different random phrase which should make some kind of sense, though it may be silly or contradictory. For those wondering, the number of possible colorings of a particular poem is $21^n$ where $n$ is the number of glyphs which take consonant markings.
+
+## Important 
