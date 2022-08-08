@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "UNLWS/02 Lexicon.md",
+            "file": "Rāvòtipábàbpi'ádi/Vocab Docs/TTRPG.md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linear Language Reference/Vulcan/Vulcan.md",
+            "file": "Rāvòtipábàbpi'ádi/Core Vocab/ō-Paths.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNLWS/02 Lexicon.md",
+                "file": "Rāvòtipábàbpi'ádi/Vocab Docs/TTRPG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "23964c29e81cc9c1",
   "lastOpenFiles": [
-    "UNLWS/03 High-Level Concepts.md",
+    "Rāvòtipábàbpi'ádi/Vocab Docs/Spiritual Practices.md",
+    "Rāvòtipábàbpi'ádi/Vocab Docs/TTRPG.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/ó-Questions & Unknowns.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/á-Nouns.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/ō-Paths.md",
+    "Rāvòtipábàbpi'ádi/Main Grammar Doc/Writing.md",
+    "Rāvòtipábàbpi'ádi/Main Grammar Doc/Phonology.md",
     "Linear Language Reference/Vulcan/Vulcan.md",
-    "Linear Language Reference/Láadan/Láadan.md",
-    "Linear Language Reference/Ithkuil IV/New Ithkuil.md",
-    "UNLWS/Lexicon/Terminators.md",
-    "UNLWS/Lexicon/Relations.md",
-    "UNLWS/Lexicon/Numbers.md",
-    "UNLWS/Lexicon/Line Decorations.md",
-    "UNLWS/Lexicon/Graphs.md",
-    "UNLWS/00 UNLWS.md"
+    "README.md",
+    "UNLWS/02 Lexicon.md"
   ]
 }
