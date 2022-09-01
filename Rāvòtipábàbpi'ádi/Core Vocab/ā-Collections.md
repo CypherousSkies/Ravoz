@@ -38,3 +38,6 @@ t | object of communication (text) | tool of communication (story, pen) | conver
 r | bystander | animate observer | person observer | enigmatic observer | that which is perceived | that which can be perceived
 l | implicative bystander | implicative participant | one who makes the implication | enigmatic implicator (dream logic) | that which is implied | that which is formed of implication (reason) 
 ř | causal bystander | actor without free will | actor with free will | divine intervention | that which is caused | that which is causal from other things
+
+## A note on Causation
+I'm choosi `řā` 

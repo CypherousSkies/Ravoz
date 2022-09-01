@@ -14,11 +14,15 @@ Dialogue and commentary on garden clusters carried out in linear time.
 - **reincarnation** (4-6),(7-8): 
 - **self-interaction** (8-10):
 - **lesson** (10-end): summarize, emphasize cyclic nature
+## Vocab
+`šomípi'áti` the Egg (near future enigmatic life-raiser)
 
 ## Translation
 ### Clusters
 **family**: `lì vò vāfgàbpi kozā pášàpi. pášàz miv mavgogo lì. mìz řā vāfgàbpi fapà nò koko nò zogo`
+\[you gsep romantic-term-not-per\]  defective-sexual  thinkingbeing-2-sh (children). thinkingbeing-2-sh `m`-pro-def thinkingmed-good-good you. `m`-pro cause romantic-term-not-per emotionsense-ranged if \[badbad\] if \[new?/far?-good\]
 **accident**: `rò lì řodōšòzíōfav'ōh ŋádi sò ŋápi mò řā mò vō fòbi rò āg mìv vò nìv. lìbi řípi. nìz mò ŋā žāg rì.`
-**me**: `rì `
-**you**: `lì `
+\<you\>
+**me**: `rì koŋapà titi. rì ŋapà fāfpi tiŋábi.`
+**you**: `lì xàfàšàsà nōf. lìti dodo, žagogo. lì kàbbo páti, ō šomípi'áti sò mò má hī rì.`
 **egg:** `nìti dīro lì mò bògí mò voŋā rì. móropi lì.`
