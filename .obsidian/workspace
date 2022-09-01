@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rāvòtipábàbpi'ádi/Core Vocab/ī-Reflexive Relations.md",
+                "file": "Rāvòtipábàbpi'ádi/Core Vocab/a-Media.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,12 +38,8 @@
         "id": "ca014269c84f3256",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Rāvòtipábàbpi'ádi/Vocab Docs/UNLWS-Ravoz Dictionary.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -71,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "touch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rāvòtipábàbpi'ádi/Core Vocab/ī-Reflexive Relations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,14 +116,14 @@
   "active": "3a5a30e378dcc303",
   "lastOpenFiles": [
     "Rāvòtipábàbpi'ádi/Vocab Docs/UNLWS-Ravoz Dictionary.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/ī-Reflexive Relations.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/a-Media.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/ō-Paths.md",
     "Rāvòtipábàbpi'ádi/Core Vocab/o-Adjectives & Conjugation.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/í-States of Being.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/ì-Pronouns.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/à-Domain Markers & Numbers.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/i-Animacy & Certainty.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/ā-Collections.md",
     "Rāvòtipábàbpi'ádi/Core Vocab/á-Nouns.md",
-    "UNLWS/Lexicon/Line Decorations.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/ò-Grouping.md",
-    "Rāvòtipábàbpi'ádi/Works/The Chant/The Chant Text.md",
-    "Rāvòtipábàbpi'ádi/Works/The Chant/The Chant Translation Notes.md"
+    "Rāvòtipábàbpi'ádi/Core Vocab/ì-Pronouns.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/ī-Reflexive Relations.md"
   ]
 }

@@ -10,7 +10,7 @@ This terminator covers most nouns, and usually takes an [[i-Animacy & Certainty|
 C | Unmarked | Inanimate | Animate | Person | Enigmatic
 -|-|-|-|-|-
 m | Entity | Be an inanimate being (stone), a sleeping/dead being | Be an animate being, a plant/mushroom | Be a entity with a personality (humanoid, animals) | Be a God/spirit, non-human (enigmatic) entity
-n | Creature | Be a stationary creature (plant, barnacle) | Be a land motive creature | Be a sky creature (incl clouds) | Be an extremophile (deep cave dweller, space creature, water bear) 
+n | Creature | Be a stationary creature (plant, barnacle) | Be a motive creature | Be a sky creature (incl clouds) | Be an extremophile (deep cave dweller, space creature, water bear) 
 ŋ | Location | Be a place | Be a functional space (e.g. meeting hall, forest) | Be a home, place of rest, safety | Be a holy place
 b | Tapestry | Be an empty/damaged tapestry | Be a (story) tapestry, storytelling medium | Be a storyteller, weaver | Be a prophet, god-storyteller 
 d | Story | Be a forgotten story | Be a story, tapestry of connected ideas | Be an interactive story, theater production, game | Be a non-narrative story, tapestry of difficult (if not impossible) to follow ideas
