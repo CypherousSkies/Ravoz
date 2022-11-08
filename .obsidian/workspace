@@ -4,43 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "69cc5e54d7269bf8",
+        "id": "23964c29e81cc9c1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Rāvòtipábàbpi'ádi/Works/The Egg/The Egg Translation Notes.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "d5d09d9cba6003ae",
         "type": "split",
         "children": [
           {
-            "id": "23964c29e81cc9c1",
+            "id": "ca014269c84f3256",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rāvòtipábàbpi'ádi/Core Vocab/a-Media.md",
+                "file": "Rāvòtipábàbpi'ádi/Core Vocab/ó-Questions & Unknowns.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1df01bf6076f8c12",
+            "id": "84807a51337d94c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Rāvòtipábàbpi'ádi/Core Vocab/o-Adjectives & Conjugation.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
         "direction": "horizontal"
-      },
-      {
-        "id": "ca014269c84f3256",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
       }
     ],
     "direction": "vertical"
@@ -67,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "touch",
+                "query": "conversa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -96,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Rāvòtipábàbpi'ádi/Core Vocab/ó-Questions & Unknowns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,17 +118,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3a5a30e378dcc303",
+  "active": "ca014269c84f3256",
   "lastOpenFiles": [
-    "Rāvòtipábàbpi'ádi/Vocab Docs/UNLWS-Ravoz Dictionary.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/a-Media.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/ō-Paths.md",
+    "Rāvòtipábàbpi'ádi/Works/The Egg/The Egg Translation Notes.md",
     "Rāvòtipábàbpi'ádi/Core Vocab/o-Adjectives & Conjugation.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/à-Domain Markers & Numbers.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/i-Animacy & Certainty.md",
     "Rāvòtipábàbpi'ádi/Core Vocab/ā-Collections.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/á-Nouns.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/ó-Questions & Unknowns.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/ò-Grouping.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/í-States of Being.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/ī-Reflexive Relations.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/à-Domain Markers & Numbers.md",
     "Rāvòtipábàbpi'ádi/Core Vocab/ì-Pronouns.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/ī-Reflexive Relations.md"
+    "Rāvòtipábàbpi'ádi/Core Vocab/á-Nouns.md"
   ]
 }

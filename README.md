@@ -13,7 +13,7 @@ What follows is an outline of the highlights of my design documents.
 
 ## How to use this Repo
 
-This repo represents my current, up-to-date notes about Ravoz and relevant topics in an [Obsidian](https://obsidian.md/) mind map/wiki. I've done my best to cite my sources and keep things up to date but most of the non-Ravoz sections (especially on UNLWS) haven't been updated since Ravoz was Thek'nganosh.
+This repo represents my current, up-to-date notes about Ravoz and relevant topics in an [Obsidian](https://obsidian.md/) mind map/wiki. I've done my best to cite my sources and keep things up to date but most of the non-Ravoz sections (especially on UNLWS) haven't been updated since [[Rāvòzò'ádi|Ravoz]] was [[Thek'nganosh|Thek'nganosh]].
 
 ## Goals
 - Build a non-linear, dyslexic-friendly writing system

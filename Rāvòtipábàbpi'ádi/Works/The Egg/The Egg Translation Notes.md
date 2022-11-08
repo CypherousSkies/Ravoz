@@ -20,9 +20,13 @@ Dialogue and commentary on garden clusters carried out in linear time.
 ## Translation
 ### Clusters
 **family**: `lì vò vāfgàbpi kozā pášàpi. pášàz miv mavgogo lì. mìz řā vāfgàbpi fapà nò koko nò zogo`
-\[you gsep romantic-term-not-per\]  defective-sexual  thinkingbeing-2-sh (children). thinkingbeing-2-sh `m`-pro-def thinkingmed-good-good you. `m`-pro cause romantic-term-not-per emotionsense-ranged if \[badbad\] if \[new?/far?-good\]
-**accident**: `rò lì řodōšòzíōfav'ōh ŋádi sò ŋápi mò řā mò vō fòbi rò āg mìv vò nìv. lìbi řípi. nìz mò ŋā žāg rì.`
+\[you gsep romantic-term-not-per\]  defective-sexual  thinkingbeing-2-sh (children). thinkingbeing-2-sh `m`-pro-def thinkingmed-good-good you. `m`-pro cause romantic-term-not-per emotionsense-ranged if \[bad-bad\] if \[new/young-good\]
+**accident**: `rò lì řodōšòzíōfav'ōh ŋádi sò ŋápi mò řā mò vōfòbi rò āg mìv vò nìv. lìbi řípi. nìz mò ŋā žāg rì.`
 \<you\>
+(you \[incomplete-cleartravel isep artificial-travel-emotional-rel2rel\]-travel place-ani pathsep place-per ((-cause-)) operatingtravel-irreversible-inani) or `m`-pro gsep `n`-pro. you-inani nothingness-per. `n`-pro ((-consonantcol trust me.
 **me**: `rì koŋapà titi. rì ŋapà fāfpi tiŋábi.`
-**you**: `lì xàfàšàsà nōf. lìti dodo, žagogo. lì kàbbo páti, ō žomípi'áti sò mò má hī rì.`
+I defective-vibesmed-pasrang enig-enig. I vibesmed-pasrang comunity-per enig-place-inani.
+**you**: `lì zàšàhàšàšà nōf. lìti dodo, žagogo. lì kàbbo páti, ō žomípi'áti sò mò má hī rì.`
+You (3\*2^4=48) time-unit. you-enig big-big, extrasen-good-good. you 
 **egg:** `nìti dīro lì mò bògí mò voŋā rì. móropi lì.`
+`n`-enig have-total you ((-cyclic-ranginteract-)) farfuture-consonant I. story?-complete-per you.

@@ -7,7 +7,7 @@ C | Meaning | Written form
 m | carouche | (
 n | counterfactual (if) cartouche | dotted curve
 ŋ | dream/fairytale counterfactual | dot-dash curve
-b | cyclical | ???
+b | cyclical | self-binding
 d | that cartouche | n/a
 p | that branch | n/a
 t | foreign word marker | double line interior curves
