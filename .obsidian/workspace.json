@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "f07b2a6a7e03bfb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d64b002af4d4d23f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23964c29e81cc9c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rāvòtipábàbpi'ádi/Vocab Docs/UNLWS-Ravoz Dictionary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d5d09d9cba6003ae",
+        "type": "split",
+        "children": [
+          {
+            "id": "0ec56aa693ae8c6f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ca014269c84f3256",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Rāvòtipábàbpi'ádi/Core Vocab/ì-Pronouns.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "86cdeca07d3ad92f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "84807a51337d94c5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Rāvòtipábàbpi'ádi/Core Vocab/ò-Grouping.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d29154847007b90",
+    "type": "split",
+    "children": [
+      {
+        "id": "b605f224cf19eb07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a5a30e378dcc303",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5214199aa68f50c5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "diction",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 256.5
+  },
+  "right": {
+    "id": "2fbd7f4accba6a66",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab754656a72149de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab8eb50ce8e3a340",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Rāvòtipábàbpi'ádi/Vocab Docs/UNLWS-Ravoz Dictionary.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3a5a30e378dcc303",
+  "lastOpenFiles": [
+    "Rāvòtipábàbpi'ádi/Core Vocab/i-Animacy & Certainty.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/ì-Pronouns.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/ī-Reflexive Relations.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/í-States of Being.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/ò-Grouping.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/á-Nouns.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/a-Media.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/ā-Collections.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/à-Domain Markers & Numbers.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/o-Adjectives & Conjugation.md"
+  ]
+}
