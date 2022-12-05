@@ -12,8 +12,8 @@ n | reality-fabric | be space | be time | be magic | be that which Is
 ŋ | water | saltwater | freshwater | ice | ???
 b | state of matter | be a solid | be a liquid | be a gas | be a plasma
 d | chaos | be unordered | be chaotic but theoretically predictable | be truly chaotic | be Unkowable Beyond Names
-p | 
-t | 
+p | clear/permiable
+t | opaque/impermiable
 s | green, natural | land, a natural place | leaf, grass, a natural collector | tree, vine, a natural grower/grasper | mycilial network
 f | red, hurt | pained | burnt/one-off hurt | angry/long-term hurt | ?  
 š | yellow, sick | cold, allergies | passive illness (feel sick but no spreading symptoms) | active illness (coughing) | spiritual illness

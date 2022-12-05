@@ -19,7 +19,7 @@ z | light sense | short range heat sense | touch heat sense | sight | illuminate
 r | paint
 l | ink/watercolor
 ř | needlepoint
-g |
+g | protection medium | direct passive protection (door) | direct active protection (things piled against the door) | indirect passive protection (one-off prevention) | indirect active protection (brushing teeth)
 k |
 h |
 x |

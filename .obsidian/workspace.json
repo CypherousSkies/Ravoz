@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rāvòtipábàbpi'ádi/Vocab Docs/UNLWS-Ravoz Dictionary.md",
+                "file": "Thek'nganosh/Ouwi.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,8 +35,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Rāvòtipábàbpi'ádi/Core Vocab/ì-Pronouns.md",
-                    "mode": "preview",
+                    "file": "Rāvòtipábàbpi'ádi/Works/The Egg/Egg Text.md",
+                    "mode": "source",
                     "source": false
                   }
                 }
@@ -53,8 +53,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Rāvòtipábàbpi'ádi/Core Vocab/ò-Grouping.md",
-                    "mode": "preview",
+                    "file": "Rāvòtipábàbpi'ádi/Core Vocab/á-Nouns.md",
+                    "mode": "source",
                     "source": false
                   }
                 }
@@ -91,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "diction",
+                "query": "forei",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rāvòtipábàbpi'ádi/Vocab Docs/UNLWS-Ravoz Dictionary.md",
+                "file": "Thek'nganosh/Ouwi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3a5a30e378dcc303",
+  "active": "23964c29e81cc9c1",
   "lastOpenFiles": [
-    "Rāvòtipábàbpi'ádi/Core Vocab/i-Animacy & Certainty.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/ì-Pronouns.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/ī-Reflexive Relations.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/í-States of Being.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/ò-Grouping.md",
+    "Rāvòtipábàbpi'ádi/Main Grammar Doc/Writing.md",
     "Rāvòtipábàbpi'ádi/Core Vocab/á-Nouns.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/a-Media.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/ā-Collections.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/à-Domain Markers & Numbers.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/o-Adjectives & Conjugation.md"
+    "Rāvòtipábàbpi'ádi/Main Grammar Doc/Phonology.md",
+    "README.md",
+    "Rāvòtipábàbpi'ádi/Works/The Egg/The Egg Translation Notes.md",
+    "Rāvòtipábàbpi'ádi/Works/The Egg/Egg Text.md",
+    "Rāvòtipábàbpi'ádi/The Rāvòzò'ádi Project.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/ó-Questions & Unknowns.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/o-Adjectives & Conjugation.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/í-States of Being.md"
   ]
 }

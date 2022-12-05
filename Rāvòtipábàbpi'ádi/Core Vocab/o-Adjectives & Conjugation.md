@@ -10,7 +10,7 @@ Read as `Aŋo` or `A ŋor` or `ŋor A` meaning ""
 
 **Double-intersection (tense/mood)**:
 @@ŋoA
-Read as `ŋoA` or `A ŋol` or `ŋol A`meaning ""
+Read as `ŋoA` or `A ŋol` or `ŋol A` meaning ""
 
 C | Term, SI | DI
 -|-|-

@@ -16,7 +16,7 @@ f | irreversible marker | half arrow on the path
 š | internal locus grouping | n/a
 ž | nested locus marker | n/a
 v | group separator | n/a
-z | omission/shortening marker | -)) ((-
+z | omission/shortening marker | (c-
 r | parenthetical A | -< >-
 l | parenthetical B | \_L ⅂$^{-}$
 ř | parenthetical C | \[ \]

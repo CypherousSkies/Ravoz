@@ -29,7 +29,7 @@ v | often put together (ginger & garlic) | passively choose (e.g. opt-out) | act
 z | always together (e.g. light & heat) | integrated part of (e.g. arm) | integrated conscious part of (e.g. gestalt, partner) | that which is integrated but does not necessarily incorporate itself into the whole (e.g. a transplanted organ being rejected by the host) 
 r | ? | passively think about, imagine | actively think about (e.g. nemesis, squish) | that which is thought about but doesn't necessarily reciprocate (e.g. a one-way squish)
 l | reflection | direct reflection | analogous reflection | that which is analogous but isn't necessarily a good representative (e.g. a square is a rectangle but a rectangle isn't necessarily a square)
-ř | ~~painful pairing (e.g. open wound & salt)~~ | ~~unintentionally painful (e.g. accident)~~ | ~~intentionally painful (e.g. punch)~~ | ~~that which is pained but doesn't necessarily reciprocate~~
+ř | signified | passive signifier | active signifier (indexical) | signals the meaning of or one-directional signifying (e.g. the concept of a chair is not the only thing that could be signified by "Alice sat down," although it may be the most reasonable at the moment)
 g | collocated | next to | intertwined with | a within b
 k | dispersed | connected, but not physically close | ranged connection | that which is connect with but isn't necessarily able to reciprocate (e.g. a radio that can only receive) 
 h | identical to | approximately the same as | intentionally similar to (e.g. impersonation) | that which is made to be like

@@ -2,8 +2,8 @@
 > \[perceive-DIR\]-\[ENI-TERM\]-\[PER-SPI-information\]-N-ANI
 > "The spiritual language (which is a tool) which allows (through personal experience) the perception of the enigmatic (unknowables, spirits, gods)"
 
-`rāvòtipábàbpidifò` (or just `rāvòzò'ádi` for short, anglicized Rāvòz) is a non-linear spiritual artlang.
-It's a successor to [[Thek'nganosh|Thék'ŋānòsh]], which is both simpler and mostly complete, however it doesn't quite *sound* right, and after the Great Vowel Collapse, became kinda messy to work with. So we're restarting with mostly similar intentions, and hopefully better-fated ends
+The `rāvòtipábàbpidifò` project (or just `rāvòzò'ádi` for short, anglicized Rāvòz) is a non-linear spiritual artlang.
+It's a successor to [[Thek'nganosh|Thék'ŋānòsh]], which is both simpler and mostly complete, however it doesn't quite *sound* right, and after the Great Vowel Collapse (don't ask), became kinda messy to work with. So we're restarting with mostly similar intentions, and hopefully better-fated ends
 
 ## Goals
 The goals are as follows:
