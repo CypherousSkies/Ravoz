@@ -4,7 +4,8 @@ There are 3 vowels — `a`, `i`, `o` — and three tones — rising (first, `á`
 All vowel-tone pairs are represented by [[#Glyphs]] (unit of written information) and is modified by at least one consonant. In general, changing tone corresponds to terminators, constant tone to relations, and no tone to particles.
 Additionally, in transliteration it is also acceptable to write in the direction of the changing tones with acute and grave markings, though this has makes no semantic difference (except perhaps as a meta-textual spoken-only way to emphasize a reversal of time). (edit 5/12/22: i have no idea what this paragraph means so feel free to discard it)
 
-I am also considering an [[Ouwi]]-style dialect which replaces tones with a variety of non-tonal vowels. I'm happy to hear feedback/suggestions on this, but the spoken part of the language was never really going to be the biggest part. 
+### Atonal dialect
+I am also considering making an [[Ouwi]]-style dialect which replaces tones with a variety of non-tonal vowels. I'm also considering giving alternatives for the retroflex sounds for those that find them difficult. I'm happy to hear feedback/suggestions on this, but the spoken part of the language was never really going to be the most important feature of the language. 
 
 ## Consonants
 \- | labial |  coronal | retroflex |  velar 
