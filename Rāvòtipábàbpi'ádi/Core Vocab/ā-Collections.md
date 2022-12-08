@@ -33,7 +33,7 @@ n | opposite but in the same way | different in a shared direction | intentional
 ŋ | consonant without trying | consonant by another's/passive action | consonant with active effort, acquaintance | consonant/patron god/spirit | idealize consonance | pastel/consonant
 b | coexist | coexist (host) | coexist (symbiote) | coexist (possession) | become | that which coexists
 d | object of belief/spiritual practice (totem) | tool of belief/practice | believer/practitioner | god/spirit worshiper? | that which is worshiped | belief
-p | physically connected part | | | | sum of the parts | component
+p | connected part | | | | sum of the parts | component/central
 t | object of communication (text) | tool of communication (story, pen) | conversational participant | what was discussed | conversation
 r | bystander | animate observer | person observer | enigmatic observer | that which is perceived | that which can be perceived
 l | implicative bystander | implicative participant | one who makes the implication | enigmatic implicator (dream logic) | that which is implied | that which is formed of implication (reason) 

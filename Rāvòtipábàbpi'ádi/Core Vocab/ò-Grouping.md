@@ -4,7 +4,7 @@ Double parenthetical (e.g. `ròrò […] ròrò`) indicates that the wording is 
 
 C | Meaning | Written form
 -|-|-
-m | carouche | (
+m | carouche | -(
 n | counterfactual (if) cartouche | dotted curve
 ŋ | dream/fairytale counterfactual | dot-dash curve
 b | cyclical | self-binding
@@ -16,11 +16,11 @@ f | irreversible marker | half arrow on the path
 š | internal locus grouping | n/a
 ž | nested locus marker | n/a
 v | group separator | n/a
-z | omission/shortening marker | (c-
+z | omission/shortening marker | ((-
 r | parenthetical A | -< >-
 l | parenthetical B | \_L ⅂$^{-}$
 ř | parenthetical C | \[ \]
-g | caution parenthetical | \|\| \|\|
-k | quotation | \|L ⅂\|
-h | here | n/a
-x | there | n/a
+g | caution parenthetical | -\|\| \|\|-
+k | quotation/signal the form of | -\|L ⅂\|- / (c-
+h | here/this (when spoken)/signal meaning of | -)
+x | there/that (when spoken)/signal meaning of | -)
