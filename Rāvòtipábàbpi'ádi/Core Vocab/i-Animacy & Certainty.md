@@ -1,5 +1,5 @@
 This particle marks animacy, assigns actions, mood, and certainty.
-Particle is unmarked, term is syllable final `f`, rel2rel is syllable final `v`
+Particle is unmarked, term is syllable final `f`, rel2rel is syllable final `v`, reverse rel2rel is `m`(?)
 
 C | Particle | Term | Rel2Rel | short
 -|-|-|-|-

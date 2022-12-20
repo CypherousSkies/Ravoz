@@ -1,9 +1,9 @@
-# Rāvòtifsibàbpá'ádi
-> \[perceive-DIR\]-\[ENI-TERM\]-\[PER-SPI-information\]-N-ANI
-> "The spiritual language (which is a tool) which allows (through personal experience) the perception of the enigmatic (unknowables, spirits, gods)"
+# Rāvòtifsimpábàb'ádi Losim
+> perceive-group_separator(directional emphasis)-\[enigmatic-terminator\]-\[\[personal_perception-reverse_rel\]-spiritual_domain-information\]-function_mark-noun-animate partial-personal_perception-reverse_rel
+> "The partial experience (project) which is spiritual language (which is a tool) which allows (through personal experience) the perception of the enigmatic (unknowables, spirits, gods)"
 
-The `rāvòtipábàbpidifò` project (or just `rāvòzò'ádi` for short, anglicized Rāvòz) is a non-linear spiritual artlang.
-It's a successor to [[Thek'nganosh|Thék'ŋānòsh]], which is both simpler and mostly complete, however it doesn't quite *sound* right, and after the Great Vowel Collapse (don't ask), became kinda messy to work with. So we're restarting with mostly similar intentions, and hopefully better-fated ends
+The `rāvòtifsimpábàb'ádi` project (or just `rāvòzò'ádi` or `rāvòz'ádi` for short, anglicized Rāvòz) is a non-linear spiritual artlang.
+It's a successor to [[Thek'nganosh|Thék'ŋānòsh]], which is both simpler and mostly complete, however it doesn't quite *sound* right, and after the Great Vowel Collapse (don't ask), became kinda messy to work with. So we're restarting with mostly similar intentions, and hopefully better-fated ends.
 
 ## Goals
 The goals are as follows:

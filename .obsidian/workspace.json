@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rāvòtipábàbpi'ádi/Core Vocab/ī-Reflexive Relations.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -53,7 +53,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Rāvòtipábàbpi'ádi/Core Vocab/ò-Grouping.md",
+                    "file": "Rāvòtipábàbpi'ádi/The Rāvòzò'ádi Project.md",
                     "mode": "source",
                     "source": false
                   }
@@ -91,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "think",
+                "query": "attemp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rāvòtipábàbpi'ádi/Core Vocab/ī-Reflexive Relations.md",
+                "file": "Rāvòtipábàbpi'ádi/The Rāvòzò'ádi Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "23964c29e81cc9c1",
+  "active": "84807a51337d94c5",
   "lastOpenFiles": [
-    "Rāvòtipábàbpi'ádi/Core Vocab/ā-Collections.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/ī-Reflexive Relations.md",
-    "Rāvòtipábàbpi'ádi/Main Grammar Doc/Writing.md",
+    "README.md",
     "Rāvòtipábàbpi'ádi/The Rāvòzò'ádi Project.md",
-    "Rāvòtipábàbpi'ádi/Vocab Docs/UNLWS-Ravoz Dictionary.md",
+    "Rāvòtipábàbpi'ádi/Images/Ravotisopabsiv'adi.svg",
     "Rāvòtipábàbpi'ádi/Core Vocab/ò-Grouping.md",
     "Rāvòtipábàbpi'ádi/Core Vocab/ó-Questions & Unknowns.md",
     "Rāvòtipábàbpi'ádi/Main Grammar Doc/Phonology.md",
-    "UNLWS/05 Tense, Aspect, Modality.md",
-    "UNLWS/03 High-Level Concepts.md"
+    "Rāvòtipábàbpi'ádi/Images/Consonants Table.svg",
+    "Rāvòtipábàbpi'ádi/Core Vocab/o-Adjectives & Conjugation.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/i-Animacy & Certainty.md",
+    "Rāvòtipábàbpi'ádi/Main Grammar Doc/Writing.md"
   ]
 }
