@@ -1,4 +1,4 @@
-# The Rāvòtipábàbsiv'ádi Project
+# The Rāvòtifsimpábàb'ádi Project
 **Rāvòtifsimpábàb'ádi Losim**
 > perceive-group_separator(directional emphasis)-\[enigmatic-terminator\]-\[\[personal_perception-reverse_rel\]-spiritual_domain-information\]-function_mark-noun-animate partial-personal_perception-reverse_rel
 > "The partial experience (project) which is spiritual language (which is a tool) which allows (through personal experience) the perception of the enigmatic (unknowables, spirits, gods)"
