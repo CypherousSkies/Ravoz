@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rāvòtipábàbpi'ádi/The Rāvòzò'ádi Project.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rāvòtipábàbpi'ádi/The Rāvòzò'ádi Project.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,6 +149,7 @@
   },
   "active": "23964c29e81cc9c1",
   "lastOpenFiles": [
+    "Rāvòtipábàbpi'ádi/The Rāvòzò'ádi Project.md",
     "README.md",
     "Rāvòtipábàbpi'ádi/Main Grammar Doc/Grammar.md",
     "Rāvòtipábàbpi'ádi/Main Grammar Doc/Writing.md",
@@ -157,7 +158,6 @@
     "Rāvòtipábàbpi'ádi/Core Vocab/ā-Collections.md",
     "Rāvòtipábàbpi'ádi/Works/good-bad-things-exploded.svg",
     "Rāvòtipábàbpi'ádi/Core Vocab/i-Animacy & Certainty.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/ī-Reflexive Relations.md",
-    "Rāvòtipábàbpi'ádi/Vocab Docs/UNLWS-Ravoz Dictionary.md"
+    "Rāvòtipábàbpi'ádi/Core Vocab/ī-Reflexive Relations.md"
   ]
 }
