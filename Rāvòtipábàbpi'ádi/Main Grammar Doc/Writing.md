@@ -1,6 +1,6 @@
 # Writing System
 ## Glyphs
-Glyphs are constructed around a tone-vowel pair, which determines the function domain of that root.
+Glyphs are constructed around a tone-vowel pair, which determines the function domain of that root. (The rules for combining glyphs are discussed in [[Grammar#Non-Linear "Grammar"]])
 
 type | triangle (i) | circle (a) | irregular (o) 
 -|-|-|-
@@ -20,17 +20,17 @@ type | i | a | o
 \- | [[ī-Reflexive Relations]] | [[ā-Collections]] | [[ō-Paths]]
 \\ | [[ì-Pronouns]] | [[à-Domain Markers & Numbers]] | [[ò-Grouping]]
 
-Their polysyllabic cartouches are formed as follows:
+Their polysyllabic cartouches are formed as follows: (these are written around a collection of glyphs to indicate that they are to be read as a combined unit and have resulting binding points)
 
 type | i | a | o
 -|-|-|-
-. | ? | ? | chained intersection
+. | down-loop crossed by containing circle | down-hourglass crossed by containing circle | chained intersection
 / | )>- | @\_ | ?
 \- | ? | ? | ?
 \\ | o- or -\|> | n/a | n/a
 I haven't had need of the ones marked `?` yet so I'll fill them in as is useful
 
-### Parts of Speech
+### Parts of "Speech"
 These categories bare some explaining so lets pick them apart:
 - **Terminators**: These are intransitive verbs and nouns, things which (generally) form the beginning or end of a sentence.
 - **Relations**: These (as the name suggests) are verbs which form a relation between two (or more) loci (so things like "A loves B")
@@ -39,7 +39,7 @@ These categories bare some explaining so lets pick them apart:
 - **Decorations**: Grammatically, decorations are much like relations, just far less regular.
 	- `ì` syllables are pronouns (which are rarely written) which serve as placeholder connections in linear or complex texts (in practice they are a special kind of relation which function like terminators)
 	- `à` syllables are numbers and domain markers, which are written above or below a line to give more information (in practice a kind of particle which cannot serve as a terminator)
-	- `ò` syllables are grouping words (including prepositions, parentheses, and [[#Cartouches]]) with a various ways of being written
+	- `ò` syllables are grouping words (including prepositions, and parentheses) with a various ways of being written
 ### Consonant Markings
 [[#Unmarked Glyphs|Usually]], a glyph will need a consonant marking before becoming meaningful. As a result we have a bunch of markings to decorate glyphs, thus imparting meaning. These markings are featural, but because rendering images in a table is hard, I'll leave it to the reader to group the consonant markings on an IPA table (for some help, refer to [[Phonology#Consonants]]).
 While order is not terribly important, I am limited to linear lists when writing in english, so I will present the consonants in a cannonical order (which then form [[#Vowel Stories]]):

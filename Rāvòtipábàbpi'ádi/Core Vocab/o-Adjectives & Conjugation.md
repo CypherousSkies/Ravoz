@@ -1,4 +1,4 @@
-This particle can also be a terminator, single-intersecting particle, or a double intersecting particle:
+This particle can also be a terminator, single-intersecting particle, or a double intersecting decoration:
 
 **Terminating (intransitive)**:
 @@ŋo A

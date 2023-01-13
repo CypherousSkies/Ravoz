@@ -21,7 +21,7 @@ f | fixture of a community (e.g. meeting space) | tool/trade of the community | 
 ž | pair with (e.g. shoes) | passively trusted being | close friend | trusted spirit/god | want to trust | want to trust | squish/want to trust | want to trust | trusted
 v | romantic thing (e.g. flowers) | romantic tool | romantic partner | look upon aphrodite and weep | romantically objectify (idealize)/romanticize | likes | romantic result (shared home) | take this one up with aphrodite | romantic partner/relationship 
 z | sexual thing | sexual tool (e.g. strap-on) | sexual partner | whatever zeus does | sexually objectify/sexualize | sexually desires | sexual result (pregananant, bio children) | listen if you fuck a goose i'm not responsible for what happens next | sexual partner/relationship
-g | 
+g | raw food | cooking tool | chef | ??? | cooked food | cutlery | person who eats the prepared food | ??? | food/drink/feast/cook
 k | 
 h | 
 x | 

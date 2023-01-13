@@ -95,8 +95,5 @@ UNLWS | Ravoz | Gloss
 ![](https://docs.google.com/drawings/d/srrFkY-4UyL3sMa3a3vN6iA/image?parent=e/2PACX-1vSj8D-SWskhAUDuhm6mIFehpJ7TQN4NVXFbi86GF1n2DoXg_ODN3jdLWyL_mPq23ukTEux1bhkyk44u&rev=9&drawingRevisionAccessToken=ObMIBSdHV93DMQ&h=51&w=29&ac=1) | | X be angry
 ![](https://docs.google.com/drawings/d/s5vYjDv7Ac3Q8Ku2r8Ve4kg/image?parent=e/2PACX-1vSj8D-SWskhAUDuhm6mIFehpJ7TQN4NVXFbi86GF1n2DoXg_ODN3jdLWyL_mPq23ukTEux1bhkyk44u&rev=71&drawingRevisionAccessToken=TYaPf15hLZquQA&h=41&w=32&ac=1) | | X be disgusted
 ![](https://docs.google.com/drawings/d/s_sLRyFLA_aoNs7jX_Sc9tQ/image?parent=e/2PACX-1vSj8D-SWskhAUDuhm6mIFehpJ7TQN4NVXFbi86GF1n2DoXg_ODN3jdLWyL_mPq23ukTEux1bhkyk44u&rev=29&drawingRevisionAccessToken=yupInc0JrLD7qA&h=47&w=32&ac=1) | | X be contemptuous
-
-
-
-
-
+![](https://docs.google.com/drawings/d/sJzMplJb2cL4xXvhCMsTMgg/image?parent=e/2PACX-1vSj8D-SWskhAUDuhm6mIFehpJ7TQN4NVXFbi86GF1n2DoXg_ODN3jdLWyL_mPq23ukTEux1bhkyk44u&rev=4&drawingRevisionAccessToken=-0BMHfZ1Mk6fYw&h=49&w=62&ac=1) | X `tābòkò'a` | X be the medium of communication in which this is expressed (autonym)
+![](https://docs.google.com/drawings/d/spk7FAvETJ0nbV5opqKUPlg/image?parent=e/2PACX-1vSj8D-SWskhAUDuhm6mIFehpJ7TQN4NVXFbi86GF1n2DoXg_ODN3jdLWyL_mPq23ukTEux1bhkyk44u&rev=3&drawingRevisionAccessToken=-HbLOA4iYPRerQ&h=71&w=100&ac=1) | Y `vò` X C`tā` S | Y communicate S to X, across modality or encoding C

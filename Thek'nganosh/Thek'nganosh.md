@@ -1,4 +1,4 @@
-# Thétk ngā nòsh
+# Thétk'ngā nòsh
 `The3tknga1no2sh` (anglicized "Thek'nganosh") translates as "Understanding all of infinity through belief/on no authority".
 This is spiritual artlang with a non-linear writing system, primarily about telling stories and using them to communicate ideas in a spiritually significant way.
 

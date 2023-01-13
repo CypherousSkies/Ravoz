@@ -9,11 +9,11 @@ l | You, the audience | You, the referent of the speaker | You, the person beyon
 name | physicality | character/aspect | person beyond the text | god/spirit
 
 ## Names
-Names have a particular structure to them: the first syllable of a name is always a pronoun (whose consonant marking extends outside of the triangle), then a string of phonetic syllables, and ending with an [[i-Animacy & Certainty|animacy]] marking (`i` by default), but this may be omitted. For example my name (/niɻa/ or /naiɻa/) is said `nìrā'i` or `nìrāi`, depending on the emphasis on animacy that is desired.
+Names have a particular structure to them: the first syllable of a name is always a pronoun (whose consonant marking extends outside of the triangle), then a string of phonetic syllables, and ending with an [[i-Animacy & Certainty|animacy]] marking (`i` by default), but this may be omitted. For example my name (/nira/ or /naira/) is said `nìrā'i` or `nìrā`, depending on the emphasis on animacy that is desired.
 
 For those who desire a small amount of structure, the phonetic part of a name should be 1-2 syllables long and should only be your (chosen) personal name, not culture or family name. Additionally the pronoun part shouldn't start with `r`, `l`, `ř`.
 
-If for funsies you wanted more than a first name, then feel free to construct a name in the vein of `[name]išò[group name/kind]'ā(ì)šo[question important to you]'ì` e.g. for me, `nìrāišòmāšòtó`
+If for funsies you wanted more than a first name, then feel free to construct a name in the vein of `[name]išò([group name]'ā' | [ā word])šo[unknown important to you]'ì` e.g. for me, `nìrāšòmāšòzó'ì` or possibly `nìrāšòmāzó'i`. Again, have fun with it. I'm not attached to any specific convention.
 ### Name pronouns
 Name pronouns are just shortenings of the full name (e.g. the first syllable of the name), but if that isn't distinct enough, add a consonant to the end of the pronoun syllable from elsewhere in the name (so you could refer to me as `nì` or `nìr`). If not otherwise specified, the name pronoun inherits the last animacy attributed to the name (so in these notes I am animate, but if I were talking to you directly, I'm probably a person).
 

@@ -4,8 +4,8 @@ Double parenthetical (e.g. `ròrò […] ròrò`) indicates that the wording is 
 
 C | Meaning | Written form
 -|-|-
-m | carouche | -(
-n | counterfactual (if) cartouche | dotted curve
+m | parenthetical | -(
+n | counterfactual (if) parenthetical | dotted curve
 ŋ | dream/fairytale counterfactual | dot-dash curve
 b | cyclical | self-binding
 d | that cartouche | n/a
