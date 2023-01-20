@@ -15,7 +15,7 @@ d | chaos | be unordered | be chaotic but theoretically predictable | be truly c
 p | clear/permiable
 t | opaque/impermiable
 s | green, natural | land, a natural place | leaf, grass, a natural collector | tree, vine, a natural grower/grasper | mycilial network
-f | red, hurt | pained | burnt/one-off hurt | angry/long-term hurt | ?  
+f | red, hurt | pained | burnt/one-off hurt | angry/long-term hurt | A Wound Beyond Healing And Description  
 š | yellow, sick | cold, allergies | passive illness (feel sick but no spreading symptoms) | active illness (coughing) | spiritual illness
 ž | brown, autumn, cyclic death & rebirth | death part | growing part | mature part | that which is beyond the cycle
 v | blue, energetic |  |

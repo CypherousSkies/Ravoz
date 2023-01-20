@@ -13,56 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Rāvòtipábàbpi'ádi/Core Vocab/ó-Questions & Unknowns.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ]
-      },
-      {
-        "id": "d5d09d9cba6003ae",
-        "type": "split",
-        "children": [
-          {
-            "id": "0ec56aa693ae8c6f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ca014269c84f3256",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Rāvòtipábàbpi'ádi/Core Vocab/i-Animacy & Certainty.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "86cdeca07d3ad92f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "84807a51337d94c5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Rāvòtipábàbpi'ádi/Main Grammar Doc/Writing.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -120,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Rāvòtipábàbpi'ádi/Core Vocab/ó-Questions & Unknowns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,15 +106,15 @@
   },
   "active": "23964c29e81cc9c1",
   "lastOpenFiles": [
-    "Rāvòtipábàbpi'ádi/The Rāvòzò'ádi Project.md",
-    "README.md",
-    "Rāvòtipábàbpi'ádi/Main Grammar Doc/Grammar.md",
-    "Rāvòtipábàbpi'ádi/Main Grammar Doc/Writing.md",
-    "Rāvòtipábàbpi'ádi/Main Grammar Doc/Phonology.md",
-    "Rāvòtipábàbpi'ádi/Main Grammar Doc/full-table.png",
-    "Rāvòtipábàbpi'ádi/Core Vocab/ā-Collections.md",
-    "Rāvòtipábàbpi'ádi/Works/good-bad-things-exploded.svg",
+    "Rāvòtipábàbpi'ádi/Core Vocab/ō-Paths.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/ò-Grouping.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/o-Adjectives & Conjugation.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/í-States of Being.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/ī-Reflexive Relations.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/ì-Pronouns.md",
     "Rāvòtipábàbpi'ádi/Core Vocab/i-Animacy & Certainty.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/ī-Reflexive Relations.md"
+    "Rāvòtipábàbpi'ádi/Core Vocab/á-Nouns.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/a-Media.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/à-Domain Markers & Numbers.md"
   ]
 }

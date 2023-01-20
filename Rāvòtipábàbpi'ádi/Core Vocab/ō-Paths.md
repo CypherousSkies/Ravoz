@@ -17,6 +17,7 @@ b | easy travel | simple comparison
 d | clear (e.g. mapped path) travel | canonical comparison
 p | foretold/prophetic travel | prophetic comparison
 t | impeded travel | nuanced/difficult comparison
+s | ??? | ???
 f | change in animacy | animacy comparison
 š | travel between spirit/god-states | compare spirit/gods
 ž | travel between person-states | compare personality

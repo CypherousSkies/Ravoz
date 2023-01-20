@@ -1,5 +1,7 @@
 `ì` words are decorations which mostly encompass pronouns. It's usually written as a triangle with a line emitting from the middle of one of the sides with the consonant marking inside the triangle (unless it's a [[#Name pronouns|name pronoun]]), with the exception of `rì`, `lì`, and `řì` which are written with their [[Terminators#I you we|UNLWS]] counterparts.
 
+Names are written as a sequence of glyphs enclosed in a circular cartouche with a single line out of it, like `á` words.
+
 
 C | Inanimate | Animate | Person | Enigmatic
 -|-|-|-|-

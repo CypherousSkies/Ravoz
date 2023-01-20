@@ -8,7 +8,7 @@ m | parenthetical | -(
 n | counterfactual (if) parenthetical | dotted curve
 ŋ | dream/fairytale counterfactual | dot-dash curve
 b | cyclical | self-binding
-d | that cartouche | n/a
+d | that parenthetical | n/a
 p | that branch | n/a
 t | foreign word marker | double line interior curves
 s | path separator | n/a

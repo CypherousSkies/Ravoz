@@ -10,8 +10,8 @@ n | plural, many e.g. > 6 <= 36 (right angle j ligature) | make many (dot above)
 ŋ | plural, lots e.g. > 36 (right angle round P ligature) | make lots (dot above)
 b | celestial (three dots) | spiritual (trefoil)
 d | gestalt (floating bend towards rel) | social (floating figure 8)
-p | passive ranged/reversible (touching bend towards rel) | active ranged/partially reversible (`b` mark)
-t | passive touch/partially irreversible (bend away from rel) | active touch/irreversible (`b` mark)
+p | passive ranged/reversible (bend away from rel) | active ranged/partially reversible (`b` mark)
+t | passive touch/partially irreversible (touching bend on rel) | active touch/irreversible (`b` mark)
 s | 0 | none
 f | 1, a | the, usually 1
 š | 2 | double
@@ -32,4 +32,4 @@ x | addition point | b6 notation
 
 ## Numbers
 Hey so numbers are a thing. They're a special kind of adjective which can be animated to act as multiplication. In general, multiplication is the default as in spoken settings, making working logarithmically easiest.
-For numbers smaller than what would be called `ŋà`, you can either use base six (putting)
+For numbers smaller than what would be called `ŋà`, you can either use base six or multiplicitive notation.
