@@ -29,23 +29,23 @@ x |
 C | Undir Inanimate | Undir Animate | Undir Person | Undir Enigmatic | Directed | Term
 -|-|-|-|-|-|-
 m | dissonant without trying | semi-active/programatic dissonance | actively dissonant, nemeses | dissonant/antithetical god/spirit | | chaos/dissonant
-~~n | opposite but in the same way | different in a shared direction | intentionally different | | |  opposite~~
+n | | | | | |
 ŋ | consonant without trying | consonant by another's/passive action | consonant with active effort, acquaintance | consonant/patron god/spirit | idealize consonance | pastel/consonant
 b | coexist | coexist (host) | coexist (symbiote) | coexist (possession) | become | that which coexists
 d | object of belief/spiritual practice (totem) | tool of belief/practice | believer/practitioner | god/spirit worshiper? | that which is worshiped | belief
 p | connected part | | | | sum of the parts | component/central
 t | object of communication (text) | tool of communication (story, pen) | conversational participant | what was discussed | conversation
 r | bystander | animate observer | person observer | enigmatic observer | that which is perceived | that which can be perceived
-l | implicative bystander | implicative participant | one who makes the implication | enigmatic implicator (dream logic) | that which is implied | that which is formed of implication (reason) 
-ř | causal bystander | actor without free will | actor with free will | divine intervention | that which is caused | that which is causal from other things
+l | 
+ř | 
 
-## A note on Causation
-I'm choosing to make `řā` not apply to causing states (`í` words among others) but only nouns (as in to create), events, and situations. Specifically this is to make it difficult to speak of doing violence (specifically, causing harm), while preserving the ability to talk about the results of it (you can still say A is hurt and why, but without the baggage of an appearance of objectivity that causation implies).
+~~## A note on Causation
+I'm choosing to make `řā` not apply to causing states (`í` words among others) but only nouns (as in to create), events, and situations. Specifically this is to make it difficult to speak of doing violence (specifically, causing harm), while preserving the ability to talk about the results of it (you can still say A is hurt and why, but without the baggage of an appearance of objectivity that causation implies).~~
 
-### Talking about harm
-To work around this, I would personally use a `lā` construction, which for gets around a causal relationship and instead focuses on the results of a situation. For example, suppose A is in a situation S (like "A and B were angry with each-other") where A got hurt, then it would make sense to say:
+~~### Talking about harm
+To work around this, I would personally use a `lā` construction, which for gets around a causal relationship and instead focuses on the results of a situation. For example, suppose A is in a situation S (like "A and B were angry with each-other") where A got hurt, then it would make sense to say:~~
 
-S `vò rìpi lā bav` A `fí`
-(loosely: "According to me, A was forcibly hurt by being in the situation S")
+~~S `vò rìpi lā bav` A `fí`
+(loosely: "According to me, A was forcibly hurt by being in the situation S")~~
 
-The result of this structure (which is fairly clunky in english), is that responsibility and intent are not brought into the situation, while still getting across the important part, namely that A was hurt.
+~~The result of this structure (which is fairly clunky in english), is that responsibility and intent are not brought into the situation, while still getting across the important part, namely that A was hurt.~~

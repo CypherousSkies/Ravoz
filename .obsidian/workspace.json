@@ -13,13 +13,56 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rāvòtipábàbpi'ádi/Core Vocab/ó-Questions & Unknowns.md",
+                "file": "Rāvòtipábàbpi'ádi/Core Vocab/ā-Collections.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ]
+      },
+      {
+        "id": "942e263b67cef4b1",
+        "type": "split",
+        "children": [
+          {
+            "id": "e04c2dcd23c1d485",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ed20a09d75ea34a9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Rāvòtipábàbpi'ádi/Core Vocab/ī-Reflexive Relations.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "be733fe46bb54e59",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ac8955646cce6a33",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Rāvòtipábàbpi'ádi/Vocab Docs/TTRPG.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -77,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rāvòtipábàbpi'ádi/Core Vocab/ó-Questions & Unknowns.md",
+                "file": "Rāvòtipábàbpi'ádi/Core Vocab/ā-Collections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +149,15 @@
   },
   "active": "23964c29e81cc9c1",
   "lastOpenFiles": [
-    "Rāvòtipábàbpi'ádi/Core Vocab/ō-Paths.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/ò-Grouping.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/o-Adjectives & Conjugation.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/í-States of Being.md",
+    "Rāvòtipábàbpi'ádi/Vocab Docs/UNLWS-Ravoz Dictionary.md",
     "Rāvòtipábàbpi'ádi/Core Vocab/ī-Reflexive Relations.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/ì-Pronouns.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/i-Animacy & Certainty.md",
     "Rāvòtipábàbpi'ádi/Core Vocab/á-Nouns.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/a-Media.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/à-Domain Markers & Numbers.md"
+    "Rāvòtipábàbpi'ádi/Core Vocab/à-Domain Markers & Numbers.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/ò-Grouping.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/ó-Questions & Unknowns.md",
+    "Rāvòtipábàbpi'ádi/Vocab Docs/TTRPG.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/ō-Paths.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/o-Adjectives & Conjugation.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/í-States of Being.md"
   ]
 }
