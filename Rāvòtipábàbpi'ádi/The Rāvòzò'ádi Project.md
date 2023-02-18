@@ -15,7 +15,7 @@ The goals are as follows:
 - Make the core vocabulary and construction of the language to be ideologically/spiritually significant
 	- Gender may only be expressed in ranges
 	- Remove references to biological/intrinsic separations (e.g. sex, family, sentient/sapient) where possible
-	- While the results of violence should be easy to talk about, causing violence should not
+	- ~~While the results of violence should be easy to talk about, causing violence should not~~ This turned out to be extremely difficult to make happen; see [[On Removing Violence]] for my thoughts on why.
 	- Separate people and their characters
 	- Make spiritual topics easy to discuss
 	- Be poetic wherever possible

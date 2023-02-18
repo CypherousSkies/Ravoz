@@ -33,4 +33,4 @@ l | reflection | direct reflection | analogous reflection | that which is analog
 g | collocated | next to | intertwined with | a within b
 k | dispersed | connected, but not physically close | ranged connection | that which is connect with but isn't necessarily able to reciprocate (e.g. a radio that can only receive) 
 h | identical to | approximately the same as | intentionally similar to (e.g. impersonation) | that which is made to be like
-x | distinct from | possesses qualities distinct from | actively distinct from | that which is made distinct from
+x | distinct/opposite from | possesses qualities distinct from | actively distinct from | that which is made distinct from

@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rāvòtipábàbpi'ádi/Core Vocab/ā-Collections.md",
+                "file": "Rāvòtipábàbpi'ádi/The Rāvòzò'ádi Project.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff3a607810827fba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rāvòtipábàbpi'ádi/Works/On Removing Violence.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "942e263b67cef4b1",
@@ -35,7 +48,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Rāvòtipábàbpi'ádi/Core Vocab/ī-Reflexive Relations.md",
+                    "file": "Rāvòtipábàbpi'ádi/Core Vocab/ā-Collections.md",
                     "mode": "source",
                     "source": false
                   }
@@ -51,11 +64,9 @@
                 "id": "ac8955646cce6a33",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "image",
                   "state": {
-                    "file": "Rāvòtipábàbpi'ádi/Vocab Docs/TTRPG.md",
-                    "mode": "source",
-                    "source": false
+                    "file": "Rāvòtipábàbpi'ádi/Main Grammar Doc/full-table.png"
                   }
                 }
               }
@@ -91,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rememb",
+                "query": "opposite",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rāvòtipábàbpi'ádi/Core Vocab/ā-Collections.md",
+                "file": "Rāvòtipábàbpi'ádi/Works/On Removing Violence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,17 +158,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "23964c29e81cc9c1",
+  "active": "ff3a607810827fba",
   "lastOpenFiles": [
-    "Rāvòtipábàbpi'ádi/Vocab Docs/UNLWS-Ravoz Dictionary.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/ī-Reflexive Relations.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/ā-Collections.md",
+    "Rāvòtipábàbpi'ádi/Main Grammar Doc/Writing.md",
+    "Rāvòtipábàbpi'ádi/Works/On Removing Violence.md",
+    "Rāvòtipábàbpi'ádi/The Rāvòzò'ádi Project.md",
     "Rāvòtipábàbpi'ádi/Core Vocab/á-Nouns.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/à-Domain Markers & Numbers.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/ò-Grouping.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/ó-Questions & Unknowns.md",
-    "Rāvòtipábàbpi'ádi/Vocab Docs/TTRPG.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/ō-Paths.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/o-Adjectives & Conjugation.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/í-States of Being.md"
+    "Rāvòtipábàbpi'ádi/Core Vocab/i-Animacy & Certainty.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/í-States of Being.md",
+    "Rāvòtipábàbpi'ádi/Vocab Docs/UNLWS-Ravoz Dictionary.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/a-Media.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/ī-Reflexive Relations.md"
   ]
 }

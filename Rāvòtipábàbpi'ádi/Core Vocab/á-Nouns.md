@@ -16,7 +16,7 @@ b | Tapestry | Be an empty/damaged tapestry | Be a (story) tapestry, storytellin
 d | Story | Be a forgotten story | Be a story, tapestry of connected ideas | Be an interactive story, theater production, game | Be a non-narrative story, tapestry of difficult (if not impossible) to follow ideas
 p | thinking being (person-like) | fully passive thinker (e.g. analog circuit) | responsive thinker (e.g. computer, ml) | fully person-like being | enigmatic thinking being
 t | Art | Be an artwork | Be a art tool (needle, brush, pen) | Be an artist | Be a world-weaver, mage, priest 
-s |
+s | Ground | concept of a place, e.g. that valley | function of a place, e.g. forest | reality of a place | spirit of a place
 f |
 š |
 ž |

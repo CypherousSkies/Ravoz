@@ -4,7 +4,7 @@ Particle is unmarked, term is syllable final `f`, rel2rel is syllable final `v`,
 C | Particle | Term | Rel2Rel | short
 -|-|-|-|-
 m | symmetric hypothetical/uncertainty | hypothetical | uncertainty/hypothetical connection (co-hypothetical) | irrealis gap (- -)
-n | 
+n | causal | causality | direction of causation | ->-
 ŋ | possible explanation | explanation | source of explanation 
 b | inanimate | be inanimate | made inanimate by | triangle
 d | animate | be animate | activated/used by, with knowable/known cause | square
@@ -16,8 +16,8 @@ f | waffling | nonsense | by chance, without reason | -
 ž | from a trusted source | assumption (truth) | by the trusted source | -
 v | from an uncertain source | uncertainty | by the uncertain source | -
 z | from an mistrusted source | assumption (falsehood) | by the mistrusted source | -
-r | 
-l |
+r | nominally, by name | name | is called | -
+l | 
 ř |
 g |
 k |
