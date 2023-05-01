@@ -5,9 +5,9 @@ but vice versa,
 the bad things don’t always spoil the good things and make them unimportant.” 
 
 	rì siv, lomídi bā dàgo vò dàko:
-		mìz rò zòdàgo kořā mò dàkop žo go rò
+		mìz rò zòdàgo koniv mò dàkop žo go rò
 			mìv vò nìv āg rì favmo
-		nìz lò zòdàko kořā mò dàgop žo go lò
+		nìz lò zòdàko koniv mò dàgop žo go lò
 
 
 
