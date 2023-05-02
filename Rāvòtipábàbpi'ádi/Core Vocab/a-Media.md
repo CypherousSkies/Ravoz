@@ -16,10 +16,10 @@ f | emotional/social sense | emotional intuition | specific feeling | social int
 ž | internal/extrasensory sense | vague internal sense (e.g. when you're thirsty but your body says "I can't breathe") | direct internal sense (e.g. hunger) | passive extrasensory (e.g. feeling like you're being watched) | ?
 v | memory/space sense | instinctive self-memory (e.g. the whereabouts of your hands) | active self-memory (e.g. something that happened to you) | instinctive external memory (e.g. the size and shape of a room) | active external memory (e.g. the contents of a painting)
 z | light sense | short range heat sense | touch heat sense | sight | illuminated 
-r | paint
-l | ink/watercolor
-ř | needlepoint
+r | paint | i'm not providing these because i don't paint | - | ditto but spray paint | -
+l | ink/watercolor | ink/sketch | watercolor | - | dance
+ř | needlepoint | - | - | weaving | -
 g | protection medium | direct passive protection (door) | direct active protection (things piled against the door) | indirect passive protection (one-off prevention) | indirect active protection (brushing teeth)
-k |
-h |
-x |
+k | health (not necessarily in the illness sense, more as a neutral "state of being") medium | passive internal health (chronic health conditions, depression) | active internal health (migraine, active hallucinations) | passive external (or social) health (skin care, friendship upkeep) | active external (or social) health (coughing, planning a party) 
+h | container medium | contained by touching (bucket) | contained by exerting pressure ($O_2$ tanks) | contained by boundary (fence) | contained by action (patrols)
+x | 

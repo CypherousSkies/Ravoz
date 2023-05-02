@@ -18,7 +18,7 @@ f | 1, a | the, usually 1
 ž | 3 | triple
 v | 5 | quintuple
 z | 6 | 6^n (where n is syllable-final consonant)
-r | ?
+r | ordinal | numerical unit
 l | ?
 ř | ?
 g | -1, reverse (underline dash) | no, not, negate (slash)
@@ -26,10 +26,12 @@ k | seximal point | reciprocal
 h | raised to the power, continuous | repeated application, discrete
 x | addition point | b6 notation
 
-## Domain Markers
-
-## Range
-
 ## Numbers
 Hey so numbers are a thing. They're a special kind of adjective which can be animated to act as multiplication. In general, multiplication is the default as in spoken settings, making working logarithmically easiest.
-For numbers smaller than what would be called `ŋà`, you can either use base six or multiplicitive notation.
+For numbers smaller than what would be called `ŋà`, you can either use base six or multiplicative notation.
+I don't really like quantified measure words, but I also do need some numbers sometimes.
+## Ordinals
+Say like arabic numerals (e.g. 23b6 is said `xàbšàžà`) with the tones on the numbers following `xàb` being unimportant (and thus largely free) as it is unambiguous that you're talking about a number. If you want to get spicy about it, you could use the tones to indicate the change between sexits but that's not required.
+## Addition
+See UNLWS documentation for a better description of how to do that.
+

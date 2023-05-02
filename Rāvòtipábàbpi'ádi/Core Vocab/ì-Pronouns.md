@@ -7,8 +7,11 @@ C | Inanimate | Animate | Person | Enigmatic
 -|-|-|-|-
 r | This document, my physicality | I, the author/speaker | I, me the person beyond the text | I, a God/spirit
 l | You, the audience | You, the referent of the speaker | You, the person beyond the text | You, a God/spirit
-ř | Our physicality | Us, the speaker & referent (exclusive) | We, the people beyond the text (inclusive) | We Gods/spirits
+ř | Our physicality | We, the speaker & referent (inclusive) | We, the people beyond the text (inclusive) | We Gods/spirits
 name | physicality | character/aspect | person beyond the text | god/spirit
+
+## Exclusive We
+Written as `rì` with a measure word in its non-binding tail (e.g. `rìmà` meaning us few).
 
 ## Names
 Names have a particular structure to them: the first syllable of a name is always a pronoun (whose consonant marking extends outside of the triangle), then a string of phonetic syllables, and ending with an [[i-Animacy & Certainty|animacy]] marking (`i` by default), but this may be omitted. For example my name (/nira/ or /naira/) is said `nìrā'i` or `nìrā`, depending on the emphasis on animacy that is desired.

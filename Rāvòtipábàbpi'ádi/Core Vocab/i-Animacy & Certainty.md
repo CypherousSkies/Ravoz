@@ -17,8 +17,8 @@ f | waffling | nonsense | by chance, without reason | -
 v | from an uncertain source | uncertainty | by the uncertain source | -
 z | from an mistrusted source | assumption (falsehood) | by the mistrusted source | -
 r | nominally, by name | name | is called | -
-l | 
-ř |
+l | by presence | whose presence | -
+ř | by practice | what practice | -
 g |
 k |
 h |

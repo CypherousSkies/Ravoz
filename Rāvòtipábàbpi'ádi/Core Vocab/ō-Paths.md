@@ -37,5 +37,6 @@ Direction is a difficult concept and I'm going to make as little effort as possi
 2. Left & right are hard
 3. Rectilinear coordinate systems (x-y planes) don't work everywhere (i mean look at map projections)
 4. Distance + rotation (polar coordinates) always\* work  and are simple to keep track of (just remember the right hand rule and you're done)
+So! Use the right hand rule when dealing with rotations (so left is `nōf` and right is `gànōf`), and the rest are, I think fairly clear (e.g. away from you is `mōf` and towards you is `gàmōf`). As a note, ranges that are not directions do not necessarily have canonical "directions" (e.g. warm is `gōf`, but what would `kōf` mean?).
 
 \* technically it's geodesic coordinates that work for all manifolds, but you can parameterize those by polar coordinates and it still works, just be careful about where things fly off to

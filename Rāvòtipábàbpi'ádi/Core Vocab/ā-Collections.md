@@ -29,7 +29,7 @@ x |
 C | Undir Inanimate | Undir Animate | Undir Person | Undir Enigmatic | Directed | Term
 -|-|-|-|-|-|-
 m | dissonant without trying | semi-active/programatic dissonance | actively dissonant, nemeses | dissonant/antithetical god/spirit | | chaos/dissonant
-n | | | | | |
+n | gestalt of | | | | | gestalt
 ŋ | consonant without trying | consonant by another's/passive action | consonant with active effort, acquaintance | consonant/patron god/spirit | idealize consonance | pastel/consonant
 b | coexist | coexist (host) | coexist (symbiote) | coexist (possession) | become | that which coexists
 d | object of belief/spiritual practice (totem) | tool of belief/practice | believer/practitioner | god/spirit worshiper? | that which is worshiped | belief
