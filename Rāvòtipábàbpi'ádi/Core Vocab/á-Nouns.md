@@ -5,7 +5,7 @@
 
 This terminator covers most nouns, and usually takes an [[i-Animacy & Certainty|animacy]] marker.
 
-@@ Vowel story is a retelling of the Banner Saga from the perspective of weaver boy
+@@ Vowel story is a retelling of the [[á-Banner Saga|Banner Saga]] from the perspective of weaver-boy
 
 C | Unmarked | Inanimate | Animate | Person | Enigmatic
 -|-|-|-|-|-

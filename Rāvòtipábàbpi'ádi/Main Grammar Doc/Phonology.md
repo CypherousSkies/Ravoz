@@ -27,12 +27,14 @@ velar: `g k h x`
 
 ## Phonotactics
 Rules!
-1. Syllables are (C)(C)V(C)
+1. Syllables are (C)V(C)
+	1. While there is almost always a consonant to the left (which modifies the specific meaning of the syllable within the function of the vowel), only a few consonants may appear to the right
+	2. The only consonants which may appear to the right of every vowel are `p` (short for `pò`) and `z` (short for `zò`), which only appear in particular grammatical contexts, see [[ì-Pronouns#`pò`/`zò` construction]] and [[Grammar#Polysyllabic construction]] for more info
 2. Dipthongs are allowed but only as shortenings
 	1. If two vowels are next to each other and their distinction is desired, are pronounced separately and written as V`'`V.
 	2. Otherwise say VV.
 		1. If one of the vowels is non-tonal, say the dipthong with the tone of the tonal one
 3. a voiced consonant cannot occur next to its unvoiced pair and vice versa (e.g. no `pb`)
-4. Something something sonority hierarchy for onset
+4. Something something sonority hierarchy for onset (deprecated, there were originally plans for rāvòz to be CCVC, but I have long since abandoned those)
 	1. a>e>i>[r ř l]>[m n ŋ]>[v z ž x]>[f s š h]>[b d g]>[p t k]
 5. rules for replacing illegal strings with legal ones

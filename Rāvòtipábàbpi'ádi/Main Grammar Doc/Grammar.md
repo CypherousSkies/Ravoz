@@ -1,7 +1,7 @@
 # Grammar
 ## Non-Linear "Grammar"
 (images to come eventually)
-I'm going to call this grammar (even though this is closer to orthography) as it makes the most sense to do so. If you've read the [[00 UNLWS|UNLWS]] documentation, everything there is transferable to this, with very few changes (mostly removing sidedness because my brain doesn't like that feature).
+I'm going to call this grammar (even though this is closer to orthography) as it makes the most sense to do so. If you've read the [UNLWS](https://s.ai/nlws) documentation, everything there is transferable to this, with very few changes (mostly removing sidedness because my brain doesn't like that feature).
 ### Binding points on [[Writing#Glyphs|Glyphs]]
 Rāvòz combines glyphs in the same way UNLWS and Ouwi do: namely by joining "binding points" lines. In the UNLWS documentation, they use a green circle to denote a binding point, which while very useful, I'm too lazy to replicate. So! how do you know what's a binding point in Rāvòz? Usually, a cusp point or extended line. You'll need some clarification so let me go over the cases for each vowel:
 - `i` & `a` have two binding points: one on their "tails" and one below their "heads", not connected to anything else. The first binding point is usually a source, name, or type which modifies the glyph. The second one is what the glyph is modifying; which can be a relation, connection, or glyph. When the glyph has something in the second binding point, it shouldn't touch, but float nearby as it's modifying but not a full part of it.
@@ -36,12 +36,17 @@ Word order is largely free, as relation functions are marked fairly clearly, how
 - if the order of inputs to a relation is important (e.g. "inside of"), then it should go between its arguments, preferring to say the group with the most animate participant first.
 - if the order of inputs is not important, say the relation first (or last).
 - Try to keep related sections clustered, prioritizing the most animate sections first (e.g. "My girlfriend, who is especially beautiful in dim lighting, came to the (dimly lit) bar with me." is preferable to "My girlfriend came to the bar with me. The bar's dim lighting made her look especially beautiful." unless the observation of her beauty is being emphasized as caused by being in the bar)
+### Caps
+Caps change the function of a word (and are written as [[Writing#Polysyllabic Cartouches]]). Their format is suffixing the word with `'<vowel>`, with `<vowel>` being the new function (e.g. my discord nickname is `gànībòhò'ìdi`, which has the cap `ìdi`, marking it as an [[i-Animacy & Certainty|animate]] [[ì-Pronouns|name]]).
 ### Polysyllabic construction
+In most cases, all you'll need is `[conj]<root>[adj][animacy]['<cap>]`, with `conj` and `adj` being [[o-Adjectives & Conjugation|o words]], and animacy as a [[i-Animacy & Certainty|i word]].
+
+In the case where that is simply not enough, however, here are some rules for gluing a bunch of words together (though you'll likely want to reference [[Writing#Parts of "Speech"]])
 1. A "locus" centers around a root glyph and is either "simple" (e.g. just a root, possibly with a cap), or "complex":
-	- Complex relation loci form as follows: `[nested?]+[conj]+<root>+[medium]+[domain]+[animacy]+[certainty]+[adj]+<cap>`
-	- Complex terminator loci form as follows: `[nested?]+[conj]+<root>+[domain]+[animacy]+[number]+[adj]+<cap>`
+	- Complex relation loci form as follows: `[nested?]+[conj]+<root>+[adj]+[medium]+[domain]+[animacy]+[certainty]+<cap>`
+	- Complex terminator loci form as follows: `[nested?]+[conj]+<root>+[adj]+[domain]+[animacy]+[number]+<cap>`
 	- Complex conj (`o`) loci: `[nested?]+<root>+[adj]+<cap>`
-	- Complex media (`a`) loci form as follows: `[nested?]+<root>+([particle]+[kind] | [rel2rel]+[direction]+[mood])+[adj]+<cap>`
+	- Complex media (`a`) loci form as follows: `[nested?]+<root>+[adj]+([particle]+[kind] | [rel2rel]+[direction]+[mood])+<cap>`
 	- Complex animacy/domain (`à`/`i`) loci form as follows: `[nested?]+<root>+[adj/animacy/domain]+<cap>`
 		- repetitions of a root intensify (e.g. to distinguish a computer and a hammer one might refer to the former as "animate animate" or "animate person" and the second as "animate" or "animate inanimate")
 	- Complex certainty (`i`) loci form as follows: `<root>+[adj/certainty]+<cap>`

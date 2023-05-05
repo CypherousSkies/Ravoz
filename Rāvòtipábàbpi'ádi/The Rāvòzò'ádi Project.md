@@ -30,4 +30,5 @@ One document for a whole language is kinda restrictive so I've broken it into a 
 2. [[Phonology]]: The rules of pronunciation
 3. [[Grammar]]: How to say non-linear sentences
 4. [[Unmarked Poems]]: A language-specific artform which is an exercise in subjectivity
-5. [[Ceremonial Script]]: A calligraphic script for `rāvòzò'ádi`
+5. [[Ceremonial Script]]: A calligraphic script for `rāvòzò'ádi` (NYI)
+6. [[UNLWS-Ravoz Dictionary]]: For non-phonetic glyphs and those of you coming from UNLWS
