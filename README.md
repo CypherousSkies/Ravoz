@@ -1,12 +1,12 @@
 # The Rāvòtifsimpábàb'ádi Project
-**Rāvòtifsimpábàb'ádi Losim**
-> perceive-group_separator(directional emphasis)-\[enigmatic-terminator\]-\[\[personal_perception-reverse_rel\]-spiritual_domain-information\]-function_mark-noun-animate partial-personal_perception-reverse_rel
+**Rāvòtifsimpábàb'ádi Losi**
+> perceive-group_separator(directional emphasis)-\[enigmatic-terminator\]-\[\[personal_perception-reverse_rel\]-spiritual_domain-information\]-function_mark-noun-animate partial-personal_perception
 > "The partial experience (project) which is spiritual language (which is a tool) which allows (through personal experience) the perception of the enigmatic (unknowables, spirits, gods)"
 
 The `rāvòtifsimpábàb'ádi` project (or just `rāvòzò'ádi` or `rāvòz'ádi` for short, anglicized Rāvòz) is a spiritual artlang (also known by its autonym `tābòkò'afdi`) with a non-linear writing system.
 Rāvòz is the successor to Thék'ŋānòsh (itself a stylistic derivative of [Ouwi](https://ouwi.org/index.html) and functional derivative of [UNLWS](https://s.ai/nlws/)), which was simpler and more "complete" (having a closed set of "simple" words), but it didn't *sound* quite right. Also, after the Great Vowel Collapse (don't ask), it became kinda messy to work with. So we're restarting with mostly similar intentions, and hopefully better-fated ends.
 
-Rāvòz is a work-in-progress which I'm happy to watch it take on a life of its own among speakers and writers, but for now it's a deeply personal project designed to help me work through some spirituality feelings. That said, don't take it _too_ seriously. Much of it struggles with being the result of too-tight design decisions and a general lack of destination. I've made a discord to talk about/in the language and I'm more than happy to answer questions about it!
+Rāvòz is a work-in-progress which I'm happy to watch it take on a life of its own among speakers and writers, but for now it's a deeply personal project designed to help me work through some spirituality feelings. That said, don't take it _too_ seriously. Much of it struggles with being the result of too-tight design decisions and a general lack of destination. As such, I've made a discord to talk about/in the language and I'm more than happy to answer questions about it.
 
 Discord: https://discord.gg/GaP6X7YGUd
 
@@ -17,7 +17,7 @@ What follows is an outline of the highlights of my design documents.
 This repo represents my current, up-to-date notes about Ravoz and relevant topics in an [Obsidian](https://obsidian.md/) mind map/wiki. I've done my best to cite my sources and keep things up to date but most of the non-Ravoz sections (especially on UNLWS) haven't been updated since [[The Rāvòzò'ádi Project|Ravoz]] was [[Thek'nganosh|Thek'nganosh]].
 
 I'd recommend heading over to [[The Rāvòzò'ádi Project]](https://github.com/CypherousSkies/Ravoz/blob/main/R%C4%81v%C3%B2tip%C3%A1b%C3%A0bpi'%C3%A1di/The%20R%C4%81v%C3%B2z%C3%B2'%C3%A1di%20Project.md) to see a better version of this document. These notes are meant to be read non-linearly, but if you would like a suggestion as to how to read them, follow this:
-1.  [[Writing]], peak a [[Phonology]] while you're there
+1.  [[Writing]], peak at [[Phonology]] while you're there
 2. [[Grammar]]
 3. Jump around Core Vocab docs
 4. Jump around Works/Vocab Docs
@@ -27,7 +27,7 @@ You can also download one of the book forms of the documentation (see the releas
 - Build a non-linear, dyslexic-friendly writing system
 - Be fun to say (read: I want retroflex and tones because I'm Like That)
 - Have a featural consonant marking system
-- Look smooth and be fun to write (read: I want compatability with off-the-shelf graph-embedding algorithms)
+- Look smooth and be fun to write (read: I want compatibility with off-the-shelf graph-embedding algorithms)
 - Have a relatively small "simple"
 - Be polysynthetic to convey non-linear information efficiently and in a cool way when spoken (inspired by the kitchen-sink approach of [Ithkuil](https://ithkuil.place))
 - Make the core vocabulary and construction of the language to be ideologically/spiritually significant

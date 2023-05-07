@@ -17,12 +17,12 @@ f | waffling | nonsense | by chance, without reason | -
 v | from an uncertain source | uncertainty | by the uncertain source | -
 z | from an mistrusted source | assumption (falsehood) | by the mistrusted source | -
 r | nominally, by name | name | is called | -
-l | by presence | whose presence | -
-ř | by practice | what practice | -
-g |
+l | by presence | presence | whose presence | -
+ř | by practice | practice | what practice | -
+g | 
 k |
-h |
-x |
+h | by means too personal to share | highly personal/internal | from the internality | -
+x | by incommunicable means | belief/incommunicable | source of incommunicability | -
 
 certainty should be marked like [[Láadan#Evidence]] morphemes.
 (TODO: excitement/feeling? I'm half-remembering an idea i had about this)

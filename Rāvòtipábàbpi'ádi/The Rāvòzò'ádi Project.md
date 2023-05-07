@@ -1,5 +1,5 @@
-# Rāvòtifsimpábàb'ádi Losim
-> perceive-group_separator(directional emphasis)-\[enigmatic-terminator\]-\[\[personal_perception-reverse_rel\]-spiritual_domain-information\]-function_mark-noun-animate partial-personal_perception-reverse_rel
+# Rāvòtifsimpábàb'ádi Losi
+> perceive-group_separator(directional emphasis)-\[enigmatic-terminator\]-\[\[personal_perception-reverse_rel\]-spiritual_domain-information\]-function_mark-noun-animate partial-personal_perception
 > "The partial experience (project) which is spiritual language (which is a tool) which allows (through personal experience) the perception of the enigmatic (unknowables, spirits, gods)"
 
 The `rāvòtifsimpábàb'ádi` project (or just `rāvòzò'ádi` or `rāvòz'ádi` for short, anglicized Rāvòz) is a non-linear spiritual artlang (also known by its autonym `tābòkò'afdi`).
