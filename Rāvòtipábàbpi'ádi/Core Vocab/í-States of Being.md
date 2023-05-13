@@ -9,7 +9,7 @@ c | Unmarked | Inanimate | Animate | Person | Enigmatic
 -|-|-|-|-|-
 m | life-supporting-thing/celestial body | be incapable of supporting life | be capable of supporting life | be capable of raising (less to equally animate) life | be capable of creating life from nothing (genesis, stars)
 n | reality-fabric | be space | be time | be magic | be that which Is
-ŋ | water | ice | saltwater | freshwater | ???
+ŋ | water | ice | saltwater | freshwater | cloud
 b | state of matter | be a solid | be a liquid | be a gas | be a plasma
 d | chaos | be unordered | be chaotic but theoretically predictable | be truly chaotic | be Unkowable Beyond Names
 p | clear/permiable
