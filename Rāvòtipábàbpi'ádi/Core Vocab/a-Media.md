@@ -3,7 +3,7 @@ I'm glossing these by their [[à-Domain Markers & Numbers|range domains]] as tha
 
 C | Unmarked | Touch Passive | Touch Active | Ranged Passive | Ranged Active 
 -|-|-|-|-|-
-m | thinking medium | passively think specifically about | actively think specifically about | passively think generally about | actively think generally about
+m | - | - | - | - | -
 n | information medium | passive collected information (e.g. sherlock holmes's intuition) | active collected information (e.g. investigation) | general knowledge | specific (expert) knowledge
 ŋ | vibes medium | passively feel the specific vibes of | specific vibe check | passive general vibes feeling | general vibe check 
 b | coerce | personally told you should | personally forced | culturally expected | direct culturally forced
@@ -21,5 +21,5 @@ l | ink/watercolor | ink/sketch | watercolor | - | dance
 ř | needlepoint | - | - | weaving | -
 g | protection medium | direct passive protection (door) | direct active protection (things piled against the door) | indirect passive protection (one-off prevention) | indirect active protection (brushing teeth)
 k | health (not necessarily in the illness sense, more as a neutral "state of being") medium | passive internal health (chronic health conditions, depression) | active internal health (migraine, active hallucinations) | passive external (or social) health (skin care, friendship upkeep) | active external (or social) health (coughing, planning a party) 
-h | container medium | contained by touching (bucket) | contained by exerting pressure ($O_2$ tanks) | contained by boundary (fence) | contained by action (patrols)
+h | - | - | - | - | -
 x | 
