@@ -1,7 +1,8 @@
 # Phonology
 ## Vowels
 There are 3 vowels — `a`, `i`, `o` — and three tones — rising (first, `á`), constant (second, `ā`), falling (third, `à`), and no tone (zeroth, unstressed, `a` or `ȧ`). They can be written as either vowel-number (e.g. `a1` meaning /a/ with rising tone, with `a` meaning /a/ with no tone) or with their pinyin equivalents (e.g. `á` meaning /a/ with rising tone, `ȧ` or `a` for no tone).
-All vowel-tone pairs are represented by [[#Glyphs]] (unit of written information) and is modified by at least one consonant. In general, changing tone corresponds to terminators, constant tone to relations, and no tone to particles.
+All vowel-tone pairs are represented by [[#Glyphs]] (unit of written information) and is modified by at most one consonant in the onset marking meaning and sometimes a syllable-final consonant to mark for grammar.
+In general, changing tone corresponds to terminators, constant tone to relations, and no tone to particles. (edit 5/15/23: yeah this was from an old version of the language in which i planned to have three tones total: )
 Additionally, in transliteration it is also acceptable to write in the direction of the changing tones with acute and grave markings, though this has makes no semantic difference (except perhaps as a meta-textual spoken-only way to emphasize a reversal of time). (edit 5/12/22: i have no idea what this paragraph means so feel free to discard it)
 
 ### Atonal dialect
