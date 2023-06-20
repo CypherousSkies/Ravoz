@@ -27,12 +27,16 @@ x | by incommunicable means | belief/incommunicable | source of incommunicabilit
 certainty should be marked like [[Láadan#Evidence]] morphemes.
 (TODO: excitement/feeling? I'm half-remembering an idea i had about this)
 
-Mushroom is "Land animate"
-Plant is "Sun animate"
-Herbivore is "Plant animate"
-Carnivore is "animate (reflexive)"
-Omnivore is "Plant, reflexive animate"
-Ideas are animate 
+## Compositional Categories
+One can construct "families" of things by ascribing what they are animated/controlled by. These may be applied as decorations as would any animacy category; and may be constructed as cartouches.
+
+- Mushroom is "Land animate" (`sá div`)
+- Plant is "Sun animate" (`ríbà zapà div`)
+- Herbivore is "Plant animate" (`ríbàzapàdi div` or `nábi div`)
+- Carnivore is "animate (reflexive)" (`bòdiv`)
+- Omnivore is "Plant, reflexive animate" (`ríbàzapàdi ā bò div` or `nábi ā bò div`)
+- Computer is "Thinking-being compute animate" (`pápadiv`)
+- All Ideas are animate 
 
 ## Person-animate-inanimate-enigmatic distinction (Animacy)
 Animacy is a property of nouns and collections, and like all properties is not intrinsic.
@@ -41,10 +45,13 @@ Broadly, an animate object is something can do something, while inanimate object
 
 A person is then something that can do something *with intent*. So a cat is a person in this way (a cat can mean to push a mug off the table), but an oven is not (it must operate on someone else's authority, not its own).
 
-To sidestep the inevitable conversation of free will, it's fair to assume that if it can do something without input from another person, it's a person -- the main exception being that abstractions (cultures, governments, etc.) are always at most animate as they are ultimately tools for the people they represent/service.
+To sidestep the inevitable conversation of free will, it's fair to assume that if it can do something without input from another person, it's a person — the main exception being that abstractions (cultures, governments, etc.) are always at most animate as they are ultimately tools for the people they represent/service.
 In an interesting turn of events, this also means that some objects are *sometimes* people: like a computer suddenly doing its own thing is a person, but when being used to write, it's just animate.
 
 The enigmatic category is somewhat less tangible. Something is enigmatic if there is either no clear way to place it into the former categories (even as a passing member) or assigning person-esc agency would be reductive (e.g. a god). As with person-hood, something can be given enigmatic status only in certain contexts; for example, the Sun, when being referred to in a cosmic sense is enigmatic (solar flares are unpredictable, it may grow hotter or colder on inhumanly long timescales or on an unknowable whim), but as a part of the sky (e.g. the day-night cycle) is animate.
+
+### Grammatical Implications of Animacy
+Action is always implied to flow from more animate to less. This is most notable in the case of `ī` words, as it is grammatically equivalent to say `* *ī *bi` and `* *īn *bi`, as the inanimate marking indicates it as not reciprocating. While less grammatically notable in the other cases, this is a useful model. For example, let's imagine that a camera (`zí'or zaf`, you (`lì`), and I (`rì`) watch a building (`ŋádi`). While it's completely valid to say `rì vò lì vò zí'or zaf rā ŋádi`, one can use animacy to add nuance to the situation. Perhaps I'm doing a stake-out and by contrast, you just happened to look at it for a while to appreciate its architecture, then it might make sense to say `rìpi vò zí'or zafdi vò lìbi rā ŋádi`; implying a certain amount of activity on my part, a control on the camera's part, and an incidental nature on your part.
 
 ### An Analysis from a Semiotics Perspective Because I'm Like This
 I also roughly mean to use animacy as a native expression what kinds of *signs* you mean when talking about something. (for this analysis, it's useful to think of animacy as a sliding scale or ranks, but keep in mind that's not the only way to conceptualize it, and that there may be cases in which the sliding scale interpretation is especially unhelpful)

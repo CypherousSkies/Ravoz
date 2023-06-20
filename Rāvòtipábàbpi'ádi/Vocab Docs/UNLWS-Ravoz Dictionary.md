@@ -1,6 +1,7 @@
 The relationship between UNLWS and Rāvòz is somewhat like the relationship between (written) Chinese and Japanese. Yes you can understand the spoken language just fine, and there's even a nice way of writing it down phonetically which works well for the language, but sometimes it's nice to abbreviate or otherwise reference a different canonical character. So! As a Rāvòz user, it's fairly useful to be able to work interchangeably between the two languages.
 
 It should be noted that the "sidedness" of relations (as in the inside/outside glyphs) is not really something that Ravoz supports. Works in Ravoz should be the same up to 3D rotations/translations/stretches, which in 2D means that if glyph A and glyph B are the same up to being mirrored, they must mean the same thing.
+
 UNLWS | Ravoz | Gloss
 -|-|-
 ![](https://docs.google.com/drawings/d/sFN_KPFLcZSW0WPVPSZAYUw/image?parent=e/2PACX-1vSj8D-SWskhAUDuhm6mIFehpJ7TQN4NVXFbi86GF1n2DoXg_ODN3jdLWyL_mPq23ukTEux1bhkyk44u&rev=1&drawingRevisionAccessToken=GfcE69JDkY4y6A&h=43&w=79&ac=1) | X `rò` \[A rel B\] `rò` | X rel \[A rel B\]

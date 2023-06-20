@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rāvòtipábàbpi'ádi/Main Grammar Doc/Writing.md",
+                "file": "Rāvòtipábàbpi'ádi/Core Vocab/i-Animacy & Certainty.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Rāvòtipábàbpi'ádi/Core Vocab/ò-Grouping.md",
+                    "file": "Rāvòtipábàbpi'ádi/Core Vocab/ā-Collections.md",
                     "mode": "source",
                     "source": false
                   }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rāvòtipábàbpi'ádi/Main Grammar Doc/Writing.md",
+                "file": "Rāvòtipábàbpi'ádi/Core Vocab/i-Animacy & Certainty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,21 +153,22 @@
   },
   "active": "a61d9190434fead1",
   "lastOpenFiles": [
+    "Rāvòtipábàbpi'ádi/Core Vocab/ā-Collections.md",
+    "Rāvòtipábàbpi'ádi/Vocab Docs/UNLWS-Ravoz Dictionary.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/i-Animacy & Certainty.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/á-Nouns.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/í-States of Being.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/ī-Reflexive Relations.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/ò-Grouping.md",
+    "Rāvòtipábàbpi'ádi/Works/Mothself Wall Art/Mothself.md",
+    "Rāvòtipábàbpi'ádi/Main Grammar Doc/Writing.md",
     "Rāvòtipábàbpi'ádi/Main Grammar Doc/Grammar.md",
     "Rāvòtipábàbpi'ádi/Main Grammar Doc/Phonology.md",
-    "Rāvòtipábàbpi'ádi/Main Grammar Doc/Writing.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/ā-Collections.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/ò-Grouping.md",
-    "Rāvòtipábàbpi'ádi/Vocab Docs/UNLWS-Ravoz Dictionary.md",
     "Rāvòtipábàbpi'ádi/Core Vocab/à-Domain Markers & Numbers.md",
     "Rāvòtipábàbpi'ádi/Works/Linguistics for Spiders.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/ī-Reflexive Relations.md",
     "Rāvòtipábàbpi'ádi/Core Vocab/ì-Pronouns.md",
     "Rāvòtipábàbpi'ádi/Core Vocab/a-Media.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/á-Nouns.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/i-Animacy & Certainty.md",
     "Rāvòtipábàbpi'ádi/Core Vocab/ō-Paths.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/í-States of Being.md",
     "README.md",
     "Rāvòtipábàbpi'ádi/The Rāvòzò'ádi Project.md",
     "Rāvòtipábàbpi'ádi/Works/Litany Against Fear/Litany Against Fear Translation Notes.md",
@@ -180,7 +181,6 @@
     "Rāvòtipábàbpi'ádi/Core Vocab/o-Adjectives & Conjugation.md",
     "UNLWS/UNLWS to Ravoz Primer.md",
     "Rāvòtipábàbpi'ádi/Main Grammar Doc/full-table.png",
-    "Thek'nganosh/Thek'nganosh.md",
     "Rāvòtipábàbpi'ádi/Images/good-bad-things-exploded.svg",
     "Rāvòtipábàbpi'ádi/Images/good-bad-things.svg"
   ]
