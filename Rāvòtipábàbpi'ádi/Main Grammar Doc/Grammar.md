@@ -18,8 +18,26 @@ Sometimes, you want to express something in a way that needs more connections th
 ### Grouping & Rel gaps
 Okay great! You can now write phrases with arbitrarily many glyphs, connecting them into a beautiful web of meaning. So what happens if you want to relate to a collection of glyphs? Or better yet, what if you have a clause which references an entire web of glyphs? Or maybe you just want to refer to a particular glyph in context of an extant phrase; well my inquisitive friend, do I have some grammatical structures for you.
 As with everything in language, there are many ways of doing the same thing, which, in this case means a couple of neat structures:
-First, and the easiest to understand, are Parentheticals (Cartouches in UNLWS): these are curved lines that float above a glyph or group of glyphs and allow glyphs to bind the whole group, usually said `mò` (e.g. `pìpīno'ìpi zi mò lì pō tòšírī'ábi sò tòmòrodōri'ábi sò tòšírī`, roughly: "Pipin told \[me\] that you fulfilled the prophecy, going from the Shire to Mordor and back, but \[I\] don't believe him"). You can construct "if" statements this way by indicating possible scenarios/worlds with `nò` parentheticals, as well as indicate dream events with `ŋò` parentheticals.
+First, and the easiest to understand, are Parentheticals (called Cartouches in UNLWS): these are curved lines that float above a glyph or group of glyphs and allow glyphs to bind the whole group, usually said `mò` (e.g. `pìpīno'ìpi zi mò lì pō tòšírī'ábi sò tòmòrodōri'ábi sò tòšírī`, roughly: "Pipin told \[me\] that you fulfilled the prophecy, going from the Shire to Mordor and back, but \[I\] don't believe him"). You can construct "if" statements this way by indicating possible scenarios/worlds with `nò` parentheticals, as well as indicate dream events with `ŋò` parentheticals.
 Second is the Rel Gap (written like - |). This option is almost equivalent to using `mò`, and can be said the same or with `miv/m`, depending if one means it as a simple connection, or if the phrase attached to `miv/m` depends on the results of that connection (e.g. in `fomáŋà mi pó mim forī mi fómáŋàmo`, roughly: "Who were they? What did they value?", to whom the "they" in "What did they value?" refers depends on the answer to "Who were they?"). The exact why of this complication is inherited from UNLWS's (ir)rel gaps, although Rāvòz does not inherit the "sidedness" property of rel gaps. As with parentheticals, where this is placed may change its meaning (e.g. `rì fī miv nádiŋí'ádi fogā` would read as "I remember the fish that was prepared" and `rì fī miv fogāg nádiŋí'ádi` would read as "I remember the preparation of the fish").
+### Decoration Sidedness (feat. Language Tape)
+This isn't critical to understand as it usually won't make a difference, but I claim its useful. Consider the following:
+```
+  di    pi
+A----rā----B
+```
+This would read very roughly as "A and B perceive; A is an animate observer, B is a person observer." In this case, `di` and `pi` are unrelated, meaning that the animate-ness of A is not related to the person-ness of B. So it would be reasonable to assume that A and B are separate (e.g. a camera and a person walking by) (This meaning doesn't change when flipped vertically)
+By contrast:
+```
+  di
+A----rā----B
+        pi
+```
+Would read roughly as "A animately as B personly perceive." Notably the `di` and `pi` here are correlated to eachother, implying something like A was more bystandery because B was more directly involved, or equivalently, B was more directly involved because A was more bystandery (a distinction only being possible with clarifying relations or decorations).
+
+The way my brain decided to explain this to me in my dream was as people asking for/having tape.
+So for the former case, imagine person A has a 1" wide roll of tape, and person B wants any kind of tape, then A offers the tape in one hand, and B takes with opposite right (meaning the tape passes to the left or right of the people).
+In the latter case, imagine person A has a 1" wide roll of tape, and person B wants a particular size of tape (not necessarily 1"), then they would pass the tape across them (like shaking hands), (mis)matching the two desires.
 ### The Implicit Author/Speaker
 In some places, you'll notice that an "I/me" shows up in a translation where there isn't a `rì`. This is because, in many cases, it's not necessary to reiterate the subjectivity of the statement (e.g. in `pìpīno'ìpi zi mò lì pō tòšírī'ábi sò tòmòrodōri'ábi sò tòšírī`, `zi` is understood to mean that the source is untrustworthy *to me*). In general, when expressing things like animacy, certainty, feelings, and honestly most statements, it is assumed that the speaker means it as their opinion/experience, unless it is marked explicitly (e.g. if I instead wanted to say that it was Dinodas that doesn't trust Pipin, then I would say `dì'or zi` instead of just `zi`). As an extension, when speaking, it's not always necessary to say `rì` when it would be written, if it is clear from the context that it is me who is the subject.
 ### Putting it all together!
