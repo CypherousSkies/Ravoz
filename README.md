@@ -10,20 +10,27 @@ Rāvòz is a work-in-progress which I'm happy to watch it take on a life of its 
 
 Discord: https://discord.gg/GaP6X7YGUd
 
-What follows is an outline of the highlights of my design documents.
+## Other Languages in the Non-Linear Family
+- As mentioned above, [UNLWS](https://s.ai/nlws/) (Unker Non-Linear Writing System, `tòtābòkò'afdi` or `tòánīlā'afdi`) was critical to the inception of this language, really pushing the bounds of what is possible in a 2d language. It has no spoken form, is somewhat loglang-y, and does distinguish things that are mirrored, but otherwise is very functionally similar to Rāvòz. It has a growing community (possibly the largest non-linear language community) and is the hub for a lot of the discussion around non-linear languages.
+- [Ouwi](https://ouwi.org/index.html) (`tòòì'afdi` or `dorāto'afdi`) is similarly important, formalizing flow charts into language in a beautiful speakable angular language. Its vowel stories, while aspirationally very cool to me, are a bit edgy for my tastes, but the language that comes from it is incredibly unique. If you are interested in making your own non-linear writing system, there are some very informative technical guiding documents [here](https://ouwi.org/apology.html) (though if that is your goal, it is definitely worth checking out Sai of UNLWS's foundational essay/manifesto on the same topic [here](https://s.ai/essays/nlf2dws))
+- Cesia's NLWS (no link, but see the UNLWS discord) is/will be a relative of UNLWS with a grid aesthetic. I confess I don't follow much of what is there by way of lack of information, but it's still very cool! 
+- [Untitled 2D Writing System](https://platonia.net/2d/) is a fusional language in the UNLWS family which, like Rāvòz encloses glyphs in cartouches to indicate their function (though notable only distinguishing nouns and verbs in this way) with a mayan hieroglyphic aesthetic. Interestingly, verbs arguments are distinguished rotationally (except in the case of abbreviative 'relations') which is a fascinating development. The way that glyphs combine graphically is very satisfying, though I, personally, am not fond of the requirement for person things (e.g. builder) to be declined for gender.
+- [Orthona](https://www.orthona.net/index.html) is an ortholinear NLWS with 35 glyphs, designed to be easy to input on phones. Its intended structure usage is, interestingly, proverbs. With no crossing-resolution mechanism it is not designed for hyper-complex texts, but gives a similar energy as ancient chinese poetry with complexity from breadth of possible interpretation.
 
 ## How to use this Repo
 
 This repo represents my current, up-to-date notes about Ravoz and relevant topics in an [Obsidian](https://obsidian.md/) mind map/wiki. I've done my best to cite my sources and keep things up to date but most of the non-Ravoz sections (especially on UNLWS) haven't been updated since [[The Rāvòzò'ádi Project|Ravoz]] was [[Thek'nganosh|Thek'nganosh]].
 
-I'd recommend heading over to [[The Rāvòzò'ádi Project]](https://github.com/CypherousSkies/Ravoz/blob/main/R%C4%81v%C3%B2tip%C3%A1b%C3%A0bpi'%C3%A1di/The%20R%C4%81v%C3%B2z%C3%B2'%C3%A1di%20Project.md) to see a better version of this document. These notes are meant to be read non-linearly, but if you would like a suggestion as to how to read them, follow this:
+I'd recommend heading over to [[The Rāvòzò'ádi Project]](https://github.com/CypherousSkies/Ravoz/blob/main/R%C4%81v%C3%B2tip%C3%A1b%C3%A0bpi'%C3%A1di/The%20R%C4%81v%C3%B2z%C3%B2'%C3%A1di%20Project.md) to see a better version of this introduction document. These notes are meant to be read non-linearly, but if you would like a suggestion as to how to read them, follow this:
 1.  [[Writing]], peak at [[Phonology]] while you're there
 2. [[Grammar]]
 3. Jump around Core Vocab docs
 4. Jump around Works/Vocab Docs
 You can also download one of the book forms of the documentation (see the releases tab) and learn that way (NOTE: the current release is well out of date; i'm working on a new one as there are people who are not me learning the language)
 
-## Goals
+## Highlights of Design Documents
+
+### Goals
 - Build a non-linear, dyslexic-friendly writing system
 - Be fun to say (read: I want retroflex and tones because I'm Like That)
 - Have a featural consonant marking system
@@ -42,14 +49,15 @@ You can also download one of the book forms of the documentation (see the releas
 - Easily facilitate [garden-stream](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)-style conversations and note-taking
 - Accommodate Unmarked Poems, where you write something without consonant markings! It wouldn't really be possible to say and are more an exercise in subjectivity than a poem but wow would that be cool.
 
-## Phonology
+### Phonology
 
-### Vowels
+#### Vowels
 There are 3 vowels — `a`, `i`, `o` — and four tones: rising (first, `á`), constant (second, `ā`), falling (third, `à`), and no tone (zeroth, unstressed, `a` or `ȧ`), which are the same as in Mandarin Chinese. They can be written as either vowel-number (e.g. `a1` meaning /a/ with rising tone, with `a` meaning /a/ with no tone) or with their pinyin equivalents (e.g. `á` meaning /a/ with rising tone, `ȧ` or `a` for no tone).
 Each vowel-tone pair is represented by a glyph (unit of written information) and is modified by at least one consonant. In general, changing tone corresponds to terminators, constant tone to relations, and no tone to particles.
 
 #### Glyphs
 Glyphs are written like this:
+
 type | triangle (i) | circle (a) | irregular (o) 
 -|-|-|-
 particle ( )| curl-tri | 6 | V 
@@ -58,6 +66,7 @@ relation (-) | A | /o\ | $\gamma$ˇ
 decorations (\\) | pronouns | numbers/domains | grouping
 
 And function like this:
+
 type | i | a | o
 -|-|-|-
 . | i-Animacy & Certainty | a-Media | o-Adjectives & Conjugation
@@ -65,8 +74,9 @@ type | i | a | o
 \- | ī-Reflexive Relations | ā-Collections | ō-Paths
 \\ | ì-Pronouns | à-Domain Markers & Numbers | ò-Grouping
 
-##### Unmarked Glyphs
+###### Unmarked Glyphs
 If, however, a glyph is not marked it may take on a new meaning, usually following what the glyph already stands for:
+
 type | triangle | circle | irregular
 -|-|-|-
 particle | animate | medium | adj/conj
@@ -77,7 +87,7 @@ It should be noted that as the decorations can't really avoid being marked, and 
 
 There are many reasons to leave a glyph unmarked (especially for `ā` which is vital to managing the flow of complex graphs), so don't be shy to use them!
 
-### Consonants
+#### Consonants
 \- | labial |  coronal | retroflex |  velar 
 -|-|-|-|-
 plosive| `p`/p/ `b`/b/ | `t`/t/ `d`/d/ |  | `k`/k/ `g`/g/ 
@@ -87,7 +97,7 @@ approximants| | `r`/r,ɾ/ `l` /l/ | `ř`/ɻ/ |
 
 Consonants are written as modifying a vowel (which should make sense, as the vowel determines the function of a root).
 
-### Phonotactics
+#### Phonotactics
 Rules!
 1. Syllables are (C)(C)V(C)
 2. Dipthongs are allowed but only as shortenings
@@ -99,9 +109,9 @@ Rules!
 	1. a>e>i>\[r ř l\]>\[m n ŋ\]>\[v z ž x\]>\[f s š h\]>\[b d g\]>\[p t k\]
 5. \[NYI\] rules for replacing illegal strings with legal ones
 
-## Grammar
+### Grammar
 
-### Parts of Speech:
+#### Parts of Speech:
 - **Terminators**: These are intransitive verbs and nouns, things which (generally) form the beginning or end of a sentence.
 
 - **Relations**: These (as the name suggests) are verbs which form a relation between two (or more) loci (so things like "A loves B")
@@ -119,7 +129,7 @@ Rules!
 	- `ò` syllables are grouping words (including prepositions, parentheses, and [[#Cartouches]]) with a various ways of being written
 
 
-### Word order
+#### Word order
 Word order is largely free, as relation functions are marked fairly clearly, however there are a few conventions:
 - try to start and end sentences with terminators.
 - if the order of inputs to a relation is important (e.g. "inside of"), then it should go between its arguments, preferring to say the group with the most animate participant first.

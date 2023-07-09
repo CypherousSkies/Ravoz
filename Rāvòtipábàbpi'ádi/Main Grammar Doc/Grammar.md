@@ -38,6 +38,7 @@ Would read roughly as "A animately as B personly perceive." Notably the `di` and
 The way my brain decided to explain this to me in my dream was as people asking for/having tape.
 So for the former case, imagine person A has a 1" wide roll of tape, and person B wants any kind of tape, then A offers the tape in one hand, and B takes with opposite right (meaning the tape passes to the left or right of the people).
 In the latter case, imagine person A has a 1" wide roll of tape, and person B wants a particular size of tape (not necessarily 1"), then they would pass the tape across them (like shaking hands), (mis)matching the two desires.
+
 ### The Implicit Author/Speaker
 In some places, you'll notice that an "I/me" shows up in a translation where there isn't a `rì`. This is because, in many cases, it's not necessary to reiterate the subjectivity of the statement (e.g. in `pìpīno'ìpi zi mò lì pō tòšírī'ábi sò tòmòrodōri'ábi sò tòšírī`, `zi` is understood to mean that the source is untrustworthy *to me*). In general, when expressing things like animacy, certainty, feelings, and honestly most statements, it is assumed that the speaker means it as their opinion/experience, unless it is marked explicitly (e.g. if I instead wanted to say that it was Dinodas that doesn't trust Pipin, then I would say `dì'or zi` instead of just `zi`). As an extension, when speaking, it's not always necessary to say `rì` when it would be written, if it is clear from the context that it is me who is the subject.
 ### Putting it all together!
