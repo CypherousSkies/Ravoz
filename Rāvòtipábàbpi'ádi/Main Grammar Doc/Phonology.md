@@ -9,12 +9,14 @@ Additionally, in transliteration it is also acceptable to write in the direction
 I am also considering making an [[Ouwi]]-style dialect which replaces tones with a variety of non-tonal vowels. I'm also considering giving alternatives for the retroflex sounds for those that find them difficult. I'm happy to hear feedback/suggestions on this, but the spoken part of the language was never really going to be the most important feature of the language. 
 
 ## Consonants
+
 \- | labial |  coronal | retroflex |  velar 
 -|-|-|-|-
-plosive| `p`/p/ `b`/b/ | `t`/t/ `d`/d/ |  | `k`/k/ `g`/g/ 
-nasal| `m`/m/ |  `n`/n/ | | `ŋ`/ŋ/
-fricative| `f`/f/ `v`/v/ | `s`/s/ `z`/z/ | `š`/ʂ/ `ž`/ʐ/ | `h`/x/ `x`/ɣ/ 
-approximants| | `r`/r,ɾ/ `l` /l/ | `ř`/ɻ/ | 
+plosive | `p`/p/ `b`/b/ | `t`/t/ `d`/d/ |  | `k`/k/ `g`/g/ 
+nasal | `m`/m/ |  `n`/n/ | | `ŋ`/ŋ/
+fricative | `f`/f/ `v`/v/ | `s`/s/ `z`/z/ | `š`/ʂ/ `ž`/ʐ/ | `h`/x/ `x`/ɣ/ 
+approximants | | `r`/r,ɾ/ `l` /l/ | `ř`/ɻ/ | 
+
 ![[full-table.png]]
 Consonants are [[Writing#Consonant Markings|written]] as modifying a vowel (which should make sense, as the vowel determines the function of a root). 
 
