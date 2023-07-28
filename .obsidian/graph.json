@@ -1,6 +1,6 @@
 {
   "collapse-filter": true,
-  "search": "path:Rāvòtipábàbpi'ádi",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -42,10 +42,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 9.05982905982906,
-  "linkStrength": 0.401709401709402,
-  "linkDistance": 250,
-  "scale": 0.4885459780778634,
+  "centerStrength": 0.635416666666667,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.14475436387492246,
   "close": false
 }

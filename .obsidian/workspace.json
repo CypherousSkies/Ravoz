@@ -14,12 +14,51 @@
               "type": "markdown",
               "state": {
                 "file": "Rāvòtipábàbpi'ádi/Core Vocab/ò-Grouping.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ]
+      },
+      {
+        "id": "efe2f4904c8a4fc4",
+        "type": "split",
+        "children": [
+          {
+            "id": "c2e68a0912691c7a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "dac8698dd6ced4a1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Rāvòtipábàbpi'ádi/Core Vocab/ò-Grouping.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "129d52eab80f8e71",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e71c3e645934479d",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -112,8 +151,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a61d9190434fead1",
+  "active": "dac8698dd6ced4a1",
   "lastOpenFiles": [
+    "Rāvòtipábàbpi'ádi/Core Vocab/ò-Grouping.md",
+    "lu12759wyr.tmp",
+    "lu12759wyg.tmp",
     "Rāvòz Quick Reference.pdf",
     "lu131349if.tmp",
     "Rāvòz Quick Reference.odt",
@@ -131,7 +173,6 @@
     "Rāvòtipábàbpi'ádi/Core Vocab/i-Animacy & Certainty.md",
     "Rāvòtipábàbpi'ádi/Main Grammar Doc/Writing.md",
     "Rāvòtipábàbpi'ádi/Main Grammar Doc/Phonology.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/ò-Grouping.md",
     "README.md",
     "Rāvòtipábàbpi'ádi/Vocab Docs/UNLWS-Ravoz Dictionary.md",
     "Rāvòtipábàbpi'ádi/The Rāvòzò'ádi Project.md",
