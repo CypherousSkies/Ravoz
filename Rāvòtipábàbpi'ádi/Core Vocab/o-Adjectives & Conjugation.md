@@ -2,15 +2,15 @@ This particle can also be a terminator, single-intersecting particle, or a doubl
 
 **Terminating (intransitive)**:
 @@ŋo A
-Read as `ŋo A` meaning ""
+Read as `ŋo A` meaning "A is weak"
 
 **Single-intersection (adv/adj)**: (a special kind of decoration)
 @@A ŋo
-Read as `Aŋo` or `A ŋor` or `ŋor A` meaning ""
+Read as `Aŋo` or `A ŋom` or `ŋom A` meaning "The weak/unimportant A" or "weakly/unimportantly A"
 
 **Double-intersection (tense/mood)**:
 @@ŋoA
-Read as `ŋoA` or `A ŋol` or `ŋol A` meaning ""
+Read as `ŋoA` or `A ŋov` or `ŋov A` meaning "A never happened (even if it could)"
 
 C | Term, SI | DI
 -|-|-

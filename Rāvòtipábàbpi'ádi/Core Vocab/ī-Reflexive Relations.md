@@ -1,16 +1,16 @@
 `ī` words are order-2 relations with a directed and undirected presentations, generally representing reflexive relationships. Directed is said with a syllable-final `n`
 
 @@example undirected
-`@@` meaning "@@"
+`A nī B` meaning "A and B understand eachother"
 
 @@example directed
-`@@` meaning "@@"
+`A nīn B` meaning "A understands B but B doesn't (necessarily) understand A"
 
 The meaning of this relation depends on the animacy of the participants. While this relation has a directed and undirected version. A natural consequence of animacy is then that directed and undirected relations with exactly one inanimate participant are fully equivalent as an inanimate participant is always being acted upon by its more animate counterpart.
 
 When both participants are inanimate, directed information becomes somewhat nonsensical, with cogent analogies being things like doors which when passed through, don't lead back to where they started; so while a directed inanimate-inanimate `ī` relation is potentially understandable, it is usually non-physical, with more information being conveyed by ascribing some animacy to at least one of the participants (e.g. the impossible door is animately, or perhaps enigmatically, changing).
 
-Additionally, the enigmatic forms are not glossed here as they either follow from the others by analogy or are difficult (for me) to conceptualize. There are a small number of exceptions, however: `nī` means "fully unknowable to"; `ŋī` means something like existential horror; and `zī` usually refers to the notion of a personal soul (see [[ì-Pronouns#You and your soul]]).
+Additionally, the enigmatic forms are not glossed here as they either follow from the others by analogy or are difficult (for me) to conceptualize. There are a small number of exceptions, however: `nī *ti` means "fully unknowable to"; `ŋī *ti` means something like existential horror; and `zī *ti` usually refers to the notion of a (personal) soul (see [[ì-Pronouns#You and your soul]]).
 
 C | Inanimate | Animate | Person | Directed 
 -|-|-|-|- 

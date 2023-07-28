@@ -1,7 +1,7 @@
 `í` words are terminators with one presentation:
 
 @@example
-`@@` meaning "@@"
+`A mí` meaning "A is life supporting"
 
 This terminator covers most states of being, color, and categories of things; usually taking an [[i-Animacy & Certainty|animacy]] or [[à-Domain Markers & Numbers|domain]] marker.
 
