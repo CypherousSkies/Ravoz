@@ -11,7 +11,7 @@ Rāvòz is a work-in-progress which I'm happy to watch take on a life of its own
 
 Discord: https://discord.gg/GaP6X7YGUd
 
-## Featured Work: [[Softleather Journal]](https://raw.githubusercontent.com/CypherousSkies/Ravoz/b2fddeffb0c036c954591255bdb4ad354e05f218/R%C4%81v%C3%B2tip%C3%A1b%C3%A0bpi'%C3%A1di/Works/Softleather%20Journal.md)
+## Featured Work: [[Softleather Journal]](https://github.com/CypherousSkies/Ravoz/blob/main/R%C4%81v%C3%B2tip%C3%A1b%C3%A0bpi'%C3%A1di/Works/Softleather%20Journal.md)
 ![[softleatherjournal.svg]](https://raw.githubusercontent.com/CypherousSkies/Ravoz/b2fddeffb0c036c954591255bdb4ad354e05f218/R%C4%81v%C3%B2tip%C3%A1b%C3%A0bpi'%C3%A1di/Works/softleatherjournal.svg)
 ## Other Languages in the Non-Linear Family
 - As mentioned above, [UNLWS](https://s.ai/nlws/) (Unker Non-Linear Writing System, `tòtābòkò'afdi` or `tòánīlā'afdi`) was critical to the inception of this language, really pushing the bounds of what is possible in a 2d language. It has no spoken form, is somewhat loglang-y, and does distinguish things that are mirrored, but otherwise is very functionally similar to Rāvòz. It has a growing community (possibly the largest non-linear language community) and is the hub for a lot of the discussion around non-linear languages.
