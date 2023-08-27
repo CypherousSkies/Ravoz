@@ -51,6 +51,7 @@ While order is not terribly important, I am limited to linear lists when writing
 
 ### Unmarked Glyphs
 If, however, a glyph is not marked it may take on a new meaning, usually following what the glyph already stands for:
+
 type | triangle | circle | irregular
 -|-|-|-
 particle | ambiguous animacy\* | natural medium | naturally/now

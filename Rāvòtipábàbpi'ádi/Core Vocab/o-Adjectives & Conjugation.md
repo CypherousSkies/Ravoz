@@ -2,7 +2,7 @@ This particle can also be a terminator, single-intersecting particle, or a doubl
 
 **Terminating (intransitive)**:
 @@ŋo A
-Read as `ŋo A` meaning "A is weak"
+Read as `ŋo A` or `A ŋo` or `Aŋof` meaning "A is weak"
 
 **Single-intersection (adv/adj)**: (a special kind of decoration)
 @@A ŋo
