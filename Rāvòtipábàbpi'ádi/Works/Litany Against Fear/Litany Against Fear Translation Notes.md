@@ -1,6 +1,7 @@
 I'm thinking a line-by-line translation here, as it's meant to be a linearly said meditation. That said, I think it would *look* pretty if "fear" were the central word and each line spiraled in and out of it.
 
 Key vocab:
+
 Rāvòz | English | Literal
 -|-|-
 `ŋī'í` | Fear | that which is scary

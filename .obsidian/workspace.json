@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Rāvòtipábàbpi'ádi/Core Vocab/i-Animacy & Certainty.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "2b214454f94919f3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
               }
             }
           }
@@ -35,7 +45,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Rāvòtipábàbpi'ádi/Core Vocab/i-Animacy & Certainty.md",
+                    "file": "Rāvòtipábàbpi'ádi/Core Vocab/ō-Paths.md",
                     "mode": "source",
                     "source": false
                   }
@@ -124,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Rāvòtipábàbpi'ádi/Core Vocab/i-Animacy & Certainty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,38 +163,38 @@
   },
   "active": "a61d9190434fead1",
   "lastOpenFiles": [
-    "Rāvòtipábàbpi'ádi/The Rāvòzò'ádi Project.md",
-    "Rāvòtipábàbpi'ádi/Works/Softleather Journal.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/i-Animacy & Certainty.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/o-Adjectives & Conjugation.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/ì-Pronouns.md",
-    "Rāvòtipábàbpi'ádi/Main Grammar Doc/Writing.md",
-    "Rāvòtipábàbpi'ádi/Main Grammar Doc/Phonology.md",
-    "Rāvòtipábàbpi'ádi/Main Grammar Doc/Grammar.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/ò-Grouping.md",
-    "Rāvòtipábàbpi'ádi/Works/Doctor Who Quotes.md",
-    "README.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/ī-Reflexive Relations.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/í-States of Being.md",
+    "Rāvòtipábàbpi'ádi/Vocab Docs/UNLWS-Ravoz Dictionary.md",
     "Rāvòtipábàbpi'ádi/Core Vocab/ō-Paths.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/ó-Questions & Unknowns.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/o-Adjectives & Conjugation.md",
+    "Rāvòtipábàbpi'ádi/Vocab Docs/TTRPG.md",
+    "Rāvòtipábàbpi'ádi/Vocab Docs/Spiritual Practices.md",
+    "Rāvòtipábàbpi'ádi/Vocab Docs/Discord Names.md",
+    "Rāvòtipábàbpi'ádi/Vowel Stories/á-Banner Saga.md",
+    "Rāvòtipábàbpi'ádi/Works/Softleather Journal.md",
+    "Rāvòtipábàbpi'ádi/Works/On Removing Violence.md",
+    "Rāvòtipábàbpi'ádi/Works/Doctor Who Quotes.md",
+    "Rāvòtipábàbpi'ádi/Works/The Sound and the Fury/The Sound and the Fury Translation Notes.md",
+    "Rāvòtipábàbpi'ádi/Works/The Egg/The Egg Translation Notes.md",
+    "Rāvòtipábàbpi'ádi/Works/The Egg/Egg Text.md",
+    "Rāvòtipábàbpi'ádi/Works/The Chant/The Chant Translation Notes.md",
+    "Rāvòtipábàbpi'ádi/Works/The Chant/The Chant Text.md",
+    "Rāvòtipábàbpi'ádi/Works/Oedipus Rex/Oedipus Translation Notes.md",
+    "Rāvòtipábàbpi'ádi/Works/Oedipus Rex/Oedipus Text.md",
+    "Rāvòtipábàbpi'ádi/Works/Mothself Wall Art/Mothself.md",
+    "Rāvòtipábàbpi'ádi/Works/Litany Against Fear/Litany Against Fear Translation Notes.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/à-Domain Markers & Numbers.md",
+    "UNLWS/UNLWS to Ravoz Primer.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/a-Media.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/ò-Grouping.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/i-Animacy & Certainty.md",
+    "Rāvòtipábàbpi'ádi/Core Vocab/í-States of Being.md",
+    "README.md",
     "lu12759wyr.tmp",
     "lu12759wyg.tmp",
     "Rāvòz Quick Reference.pdf",
     "lu131349if.tmp",
     "Rāvòz Quick Reference.odt",
     "lu131349i3.tmp",
-    "Rāvòtipábàbpi'ádi/Core Vocab/à-Domain Markers & Numbers.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/ā-Collections.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/á-Nouns.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/a-Media.md",
-    "Rāvòtipábàbpi'ádi/Vocab Docs/UNLWS-Ravoz Dictionary.md",
-    "Rāvòtipábàbpi'ádi/Works/On Removing Violence.md",
-    "UNLWS/Lexicon/Line Decorations.md",
-    "Rāvòtipábàbpi'ádi/Works/Mothself Wall Art/Mothself.md",
-    "Rāvòtipábàbpi'ádi/Works/Linguistics for Spiders.md",
-    "Rāvòtipábàbpi'ádi/Works/Litany Against Fear/Litany Against Fear Translation Notes.md",
-    "Rāvòtipábàbpi'ádi/Works/Litany Against Fear/Litany Against Fear Text.md",
     "Rāvòtipábàbpi'ádi/Works/Ravotisopabsiv'adi.svg",
     "Rāvòtipábàbpi'ádi/Main Grammar Doc/full-table.png",
     "Rāvòtipábàbpi'ádi/Images/good-bad-things-exploded.svg",

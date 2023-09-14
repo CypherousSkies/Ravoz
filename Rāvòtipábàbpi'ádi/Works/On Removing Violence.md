@@ -1,4 +1,4 @@
-Note: This essay is very bad. I don't really know why I wrote it this way, but I'll fix it later. The point that I attempted to get across and didn't here is that it feels possible to remove violence from a language but because of the way Rāvòz was designed, I don't think it can be removed from this language.
+Note: This essay is very bad. I don't really know why I wrote it this way, but I'll fix it later. The point that I attempted to get across and didn't here is that it feels possible to remove violence from a language but because of the way Rāvòz was designed, I don't think it can be removed from *this* language.
 
 
 # A Lesson in Linguistic Antimemetics

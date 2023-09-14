@@ -4,7 +4,7 @@ I'm glossing these by their [[à-Domain Markers & Numbers|range domains]] as tha
 C | Unmarked | Touch Passive | Touch Active | Ranged Passive | Ranged Active 
 -|-|-|-|-|-
 m | - | - | - | - | -
-n | information medium | passive collected information (e.g. sherlock holmes's intuition) | active collected information (e.g. investigation) | general knowledge | specific (expert) knowledge
+n | information medium | passive embodied information (e.g. sherlock holmes's intuition) | active embodied information (e.g. investigation) | general encoded information (e.g. language, dna) | specific encoded information (e.g. book)
 ŋ | vibes medium | passively feel the specific vibes of | specific vibe check | passive general vibes feeling | general vibe check 
 b | coerce | personally told you should | personally forced | culturally expected | direct culturally forced
 d | permission medium | indirect permission (e.g. they usually let me) | direct permission (e.g. they said i could) | indirect cultural permission (e.g. stuff on the table is usually communal) | direct cultural permission (e.g. it's on the shelf for communal things)

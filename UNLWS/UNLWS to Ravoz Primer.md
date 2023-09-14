@@ -3,7 +3,7 @@ Hi! I'm sure you're curious what all this about an UNLWS derivative is, so this 
 The big TL;DR is that Ravoz is to UNLWS as Japanese is to Chinese: Their writing systems are deeply intertwined and very much compatible, but they are different paradigms in expression and assumption.
 
 ## Important things going in
-1. Much like how UNLWS is Alex & Sai's, Ravoz is mine. I won't claim "ownership" and I'm happy to watch it live its own life, but I'm also using it to work through specific things that I'm feeling as a person, so it has a bunch of idiosyncrasies which are personal. 
+1. Much like how [[00 UNLWS|UNLWS]] is Alex & Sai's, Ravoz is mine. I won't claim "ownership" and I'm happy to watch it live its own life, but I'm also using it to work through specific things that I'm feeling as a person, so it has a bunch of idiosyncrasies which are personal. 
 2. Ravoz is fully compatible with UNLWS!\*
 3. Ravoz has a spoken version! it's polysynthetic, tonal, and has retroflex consonants because i'm Like This but it exists!
 4. Ravoz is a spiritual art/englang, and so many of the works are related to spiritual experience (if that's not your vibe that's okay!)
