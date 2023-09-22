@@ -85,7 +85,8 @@ In the case where that is simply not enough, however, here are some rules for gl
 		- `míbàtišoŋōhnōxfosòvovòŋōfsozo'íbi` (roughly, the path the sun traces through the sky) shortens to `míbàtiŋōhzò'íbi`
 
 \* for canonical poly-locus words, there may be a preferred order, though this is not grammatically mandatory.
-
+### Internal caps and VV structures
+@@ I have thoughts but am not sure what to do with them
 ### Compound Roots
 
 ## Mythical Grammar
