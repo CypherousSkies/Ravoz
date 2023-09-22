@@ -81,7 +81,7 @@ In the case where that is simply not enough, however, here are some rules for gl
 4. Shortenings
 	- Have a long word? shorten it by omitting clarifying information with `zò`, then capping it by restating the vowel (so for nouns use `á`) and the usual cap.
 	- Examples:
-		- `rāvòtipábábpi'ádi` can be shortened to `rāvòzò'ádi`
+		- `rāvòtifsimpábáb'ádi` can be shortened to `rāvòzò'ádi` or `rāvòz'ádi`
 		- `míbàtišoŋōhnōxfosòvovòŋōfsozo'íbi` (roughly, the path the sun traces through the sky) shortens to `míbàtiŋōhzò'íbi`
 
 \* for canonical poly-locus words, there may be a preferred order, though this is not grammatically mandatory.

@@ -1,4 +1,4 @@
-![[Rāvòtipábàbpi'ádi/Images/Ravotisopabsiv'adi.svg]](https://raw.githubusercontent.com/CypherousSkies/Ravoz/b2fddeffb0c036c954591255bdb4ad354e05f218/R%C4%81v%C3%B2tip%C3%A1b%C3%A0bpi'%C3%A1di/Images/Ravotisopabsiv'adi.svg)
+![[Rāvòtifsimpábàb'ádi/Images/Ravotisopabsiv'adi.svg]](https://raw.githubusercontent.com/CypherousSkies/Ravoz/b2fddeffb0c036c954591255bdb4ad354e05f218/R%C4%81v%C3%B2tip%C3%A1b%C3%A0bpi'%C3%A1di/Images/Ravotisopabsiv'adi.svg)
 # The Rāvòtifsimpábàb'ádi Project
 **Rāvòtifsimpábàb'ádi Losi**
 > perceive-group_separator(directional emphasis)-\[enigmatic-terminator\]-\[\[personal_perception-reverse_rel\]-spiritual_domain-information\]-function_mark-noun-animate partial-personal_perception

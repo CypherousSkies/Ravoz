@@ -61,3 +61,7 @@ Glyph | English
 -|-
 ![](https://docs.google.com/drawings/d/sSBBREkEM9wyYhr3ONXtsFA/image?parent=e/2PACX-1vSj8D-SWskhAUDuhm6mIFehpJ7TQN4NVXFbi86GF1n2DoXg_ODN3jdLWyL_mPq23ukTEux1bhkyk44u&rev=1&drawingRevisionAccessToken=nqAkp4BHJXgg0g&h=30&w=53&ac=1) | Be stone, rock
 ![](https://docs.google.com/drawings/d/saetTNkMafkQrrkYasHLSeA/image?parent=e/2PACX-1vSj8D-SWskhAUDuhm6mIFehpJ7TQN4NVXFbi86GF1n2DoXg_ODN3jdLWyL_mPq23ukTEux1bhkyk44u&rev=1&drawingRevisionAccessToken=oBinv7F7eZbYRA&h=26&w=52&ac=1) | Be water (mass)
+
+## Emotions
+These follow a 2d family with curl for valence and turn strength for arousal.
+![](https://lh4.googleusercontent.com/g3wxsqBiS4Nb6X46TBoXhydLfA0QJ2cZ2UbyrJfd0SZTSnrfYe99drGiDtrNI6KJ-erPPDbsJzu7PiwA-2It1TARCd-obtGB_f7U5cb2zd90kHVREc5TLcIVeYdrHCDHgdo26loChwHaVZaQ)

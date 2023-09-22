@@ -19,7 +19,7 @@ z | from an mistrusted source | assumption (falsehood) | by the mistrusted sourc
 r | nominally, by name | name | is called | -
 l | by presence | presence | whose presence | -
 ř | by practice | practice | what practice | -
-g | 
+g | by dream, subconscious | a dream | dreamed by | -
 k |
 h | by means too personal to share | highly personal/internal | from the internality | -
 x | by incommunicable means | belief/incommunicable | source of incommunicability | -

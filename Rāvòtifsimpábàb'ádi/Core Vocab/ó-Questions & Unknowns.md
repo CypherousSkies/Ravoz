@@ -1,4 +1,4 @@
-`ó` words are, by themselves, just unknowns; lacking the power of a question and more akin to words like "someone". To give them the power of a question, combine it with an [[i-Animacy & Certainty|irrealis]] gap at the point of uncertainty (e.g. "Is there anyone you trust?" vs "Who do you trust?").
+`ó` words are, by themselves, just unknowns; lacking the power of a question and more akin to words like "someone". To give them the power of a question, combine it with an [[i-Animacy & Certainty|irrealis]] gap/particle at the point of uncertainty (e.g. "Is there anyone you trust?" vs "Who do you trust?").
 
 C | unknown | question
 -|-|-
@@ -22,3 +22,6 @@ g | some specific place | where (specific)
 k | somewhere | where (general)
 h | some general time | when (general)
 x | some specific time | when (specific)
+
+## Unbound BPs
+If there's a binding point left open which is intended for meaning, this can be read as `só`.

@@ -1,7 +1,7 @@
 `á` words are terminators with only one presentation:
 
 @@example
-`@@` meaning "@@"
+`má A` meaning "A is an entity"
 
 This terminator covers most nouns, and usually takes an [[i-Animacy & Certainty|animacy]] marker.
 

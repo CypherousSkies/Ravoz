@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rāvòtipábàbpi'ádi/Core Vocab/i-Animacy & Certainty.md",
+                "file": "Rāvòtifsimpábàb'ádi/Core Vocab/ī-Reflexive Relations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1231cc1a2c79250b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNLWS/Lexicon/Terminators.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,6 +38,16 @@
               "type": "release-notes",
               "state": {
                 "currentVersion": "1.4.5"
+              }
+            }
+          },
+          {
+            "id": "8e2bcaa79db82872",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
               }
             }
           }
@@ -45,7 +67,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Rāvòtipábàbpi'ádi/Core Vocab/ō-Paths.md",
+                    "file": "Rāvòtifsimpábàb'ádi/Core Vocab/ō-Paths.md",
                     "mode": "source",
                     "source": false
                   }
@@ -134,6 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Rāvòtifsimpábàb'ádi/Core Vocab/ī-Reflexive Relations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +164,16 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d352721d0a2d9531",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -160,37 +193,38 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e71c3e645934479d",
+  "active": "a61d9190434fead1",
   "lastOpenFiles": [
-    "Rāvòtipábàbpi'ádi/Works/Softleather Journal/Softleather Journal.md",
-    "Rāvòtipábàbpi'ádi/Works/Softleather Journal",
-    "Rāvòtipábàbpi'ádi/Works/Doctor Who/good-bad-things.png",
-    "Rāvòtipábàbpi'ádi/Works/Doctor Who",
-    "Rāvòtipábàbpi'ádi/Works/Essays",
+    "Rāvòtifsimpábàb'ádi/Core Vocab/ì-Pronouns.md",
+    "Rāvòtifsimpábàb'ádi/Core Vocab/i-Animacy & Certainty.md",
+    "Rāvòtifsimpábàb'ádi/Core Vocab/á-Nouns.md",
+    "Rāvòtifsimpábàb'ádi/Core Vocab/a-Media.md",
+    "Rāvòtifsimpábàb'ádi/Core Vocab/à-Domain Markers & Numbers.md",
+    "Rāvòtifsimpábàb'ádi/Core Vocab/ā-Collections.md",
+    "Rāvòtifsimpábàb'ádi/Main Grammar Doc/Grammar.md",
+    "README.md",
+    "Rāvòtifsimpábàb'ádi/The Rāvòzò'ádi Project.md",
+    "Rāvòtifsimpábàb'ádi/Core Vocab/ō-Paths.md",
+    "Rāvòtifsimpábàb'ádi/Core Vocab/ó-Questions & Unknowns.md",
+    "UNLWS/Lexicon/Terminators.md",
+    "Rāvòtifsimpábàb'ádi/Works/Softleather Journal/Softleather Journal.md",
+    "Rāvòtifsimpábàb'ádi/Works/Softleather Journal",
+    "Rāvòtifsimpábàb'ádi/Works/Doctor Who/good-bad-things.png",
+    "Rāvòtifsimpábàb'ádi/Works/Doctor Who",
+    "Rāvòtifsimpábàb'ádi/Works/Essays",
     "Rāvòtipábàbpi'ádi/Works/Untitled.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/i-Animacy & Certainty.md",
-    "Rāvòtipábàbpi'ádi/Vocab Docs/UNLWS-Ravoz Dictionary.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/ō-Paths.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/o-Adjectives & Conjugation.md",
-    "Rāvòtipábàbpi'ádi/Vocab Docs/TTRPG.md",
-    "Rāvòtipábàbpi'ádi/Vocab Docs/Spiritual Practices.md",
-    "Rāvòtipábàbpi'ádi/Vocab Docs/Discord Names.md",
-    "Rāvòtipábàbpi'ádi/Vowel Stories/á-Banner Saga.md",
-    "Rāvòtipábàbpi'ádi/Works/Essays/On Removing Violence.md",
-    "Rāvòtipábàbpi'ádi/Works/Doctor Who/Doctor Who Quotes.md",
-    "Rāvòtipábàbpi'ádi/Works/The Sound and the Fury/The Sound and the Fury Translation Notes.md",
-    "Rāvòtipábàbpi'ádi/Works/The Egg/The Egg Translation Notes.md",
-    "Rāvòtipábàbpi'ádi/Works/The Egg/Egg Text.md",
-    "Rāvòtipábàbpi'ádi/Works/The Chant/The Chant Translation Notes.md",
-    "Rāvòtipábàbpi'ádi/Works/The Chant/The Chant Text.md",
-    "Rāvòtipábàbpi'ádi/Works/Oedipus Rex/Oedipus Translation Notes.md",
-    "Rāvòtipábàbpi'ádi/Works/Oedipus Rex/Oedipus Text.md",
-    "Rāvòtipábàbpi'ádi/Works/Mothself Wall Art/Mothself.md",
-    "Rāvòtipábàbpi'ádi/Works/Litany Against Fear/Litany Against Fear Translation Notes.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/à-Domain Markers & Numbers.md",
-    "UNLWS/UNLWS to Ravoz Primer.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/a-Media.md",
-    "Rāvòtipábàbpi'ádi/Core Vocab/ò-Grouping.md",
+    "Rāvòtifsimpábàb'ádi/Vocab Docs/UNLWS-Ravoz Dictionary.md",
+    "Rāvòtifsimpábàb'ádi/Core Vocab/o-Adjectives & Conjugation.md",
+    "Rāvòtifsimpábàb'ádi/Vocab Docs/TTRPG.md",
+    "Rāvòtifsimpábàb'ádi/Vocab Docs/Spiritual Practices.md",
+    "Rāvòtifsimpábàb'ádi/Vocab Docs/Discord Names.md",
+    "Rāvòtifsimpábàb'ádi/Vowel Stories/á-Banner Saga.md",
+    "Rāvòtifsimpábàb'ádi/Works/Essays/On Removing Violence.md",
+    "Rāvòtifsimpábàb'ádi/Works/Doctor Who/Doctor Who Quotes.md",
+    "Rāvòtifsimpábàb'ádi/Works/The Sound and the Fury/The Sound and the Fury Translation Notes.md",
+    "Rāvòtifsimpábàb'ádi/Works/The Egg/The Egg Translation Notes.md",
+    "Rāvòtifsimpábàb'ádi/Works/The Egg/Egg Text.md",
+    "Rāvòtifsimpábàb'ádi/Works/The Chant/The Chant Translation Notes.md",
     "lu12759wyr.tmp",
     "lu12759wyg.tmp",
     "Rāvòz Quick Reference.pdf",
@@ -198,7 +232,7 @@
     "Rāvòz Quick Reference.odt",
     "lu131349i3.tmp",
     "Rāvòtipábàbpi'ádi/Works/Ravotisopabsiv'adi.svg",
-    "Rāvòtipábàbpi'ádi/Main Grammar Doc/full-table.png",
+    "Rāvòtifsimpábàb'ádi/Main Grammar Doc/full-table.png",
     "Rāvòtipábàbpi'ádi/Images/good-bad-things-exploded.svg",
     "Rāvòtipábàbpi'ádi/Images/good-bad-things.svg"
   ]
