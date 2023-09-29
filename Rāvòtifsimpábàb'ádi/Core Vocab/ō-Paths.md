@@ -17,7 +17,7 @@ b | easy travel | simple comparison
 d | clear (e.g. mapped path) travel | canonical comparison
 p | foretold/prophetic travel | prophetic comparison
 t | impeded travel | nuanced/difficult comparison
-s | ??? | ???
+s | state  (e.g. solid -> gas) change | state comparison
 f | change in animacy | animacy comparison
 š | travel between spirit/god-states | compare spirit/gods
 ž | travel between person-states | compare personality
@@ -40,3 +40,6 @@ Direction is a difficult concept and I'm going to make as little effort as possi
 So! Use the right hand rule when dealing with rotations (so left is `nōf` and right is `gànōf`), and the rest are, I think fairly clear (e.g. away from you is `mōf` and towards you is `gàmōf`). As a note, ranges that are not directions do not necessarily have canonical "directions" (e.g. warm is `gōf`, but what would `kōf` mean?).
 
 \* technically it's geodesic coordinates that work for all manifolds, but you can parameterize those by polar coordinates and it still works, just be careful about where things fly off to
+
+## Time Travel
+So you want to time travel. 

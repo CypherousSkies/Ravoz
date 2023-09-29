@@ -23,10 +23,12 @@ z | metallic, artificial |  |
 r | white, everything | bright | be full | be the extent of thinkable things | be All That Is
 l | gray, cluttered | 
 ř | black, nothingness | dark | be a vacuum | be personified nothingness | be that which Is Not
-g | ranged interactor | be an incoherent reflector (moon, wall) | be a coherent reflector (mirror) | be an emitter (star, speaker) | ? 
-k | touch interactor | be a surface | be a touch interactable (button) | radiative/motive touch | ?
+g | interactor | be an incoherent/passive interactor (moon, surface) | be a coherent/active interactor (mirror, button) | be an emitter (star, speaker) | ? 
+k | that which is too much of what it is to be anything else | - | - | - | -
 h | sound | be a noise | be music | be speech | ?
 x | edible | spices | stew/sauce/bread | main veg/protein | ?
 
 ## Is, Is Not, and Could Be (ríti, říti, níti)
-This is an odd theology to put in here but it's helpful to me so it's here. To begin, I do not believe in some pantheon of beings who are representative of Is, Is Not, and Could Be; rather I coin words for them in an attempt to get at the unknowable and vaguely eldritch feeling of trying to think about, well, Everything, Nothing, and what Could Be. The terminology of Is and Is Not comes from the SCP universe in which the universe began when the twin serpents Is and Is Not were separated; though that depiction involved Is hosting a multiverse-spanning library upon its back
+This is an odd theology to put in here but it's helpful to me so it's here. To begin, I do not believe in some pantheon of beings who are representative of Is, Is Not, and Could Be; rather I coin words for them in an attempt to get at the unknowable and vaguely eldritch feeling of trying to think about, well, Everything, Nothing, and what Could Be. The terminology of Is and Is Not comes from an SCP universe in which the universe began when the twin serpents Is and Is Not were separated, but I found it to be a useful terminology generally. For example, one who aims to Know and bring things with no precedents into existence is of Is; one destroys or conceals is of Is Not; and one who trades in predicting what the former groups will do are of Could Be.
+These are also three models of knowledge: to understand by positive definition is to know by Is, to have theory is to know by Could Be, and to understand by negative is to know by Is Not.
+Also these are a-moral constructions — Is is not Good and Is Not is not Bad. These are just useful things for me.

@@ -17,18 +17,18 @@ d | Story | Be a forgotten story | Be a story, tapestry of connected ideas | Be 
 p | thinking being (person-like) | fully passive thinker (e.g. analog circuit) | responsive thinker (e.g. computer, ml) | fully person-like being | enigmatic thinking being
 t | Art | Be an artwork | Be a art tool (needle, brush, pen) | Be an artist | Be a world-weaver, mage, priest 
 s | Ground | concept of a place, e.g. that valley | function of a place, e.g. forest | reality of a place | spirit of a place
-f | Physicality | Be a material (e.g. metal) | Be a functional thing (e.g. gears) | Be a decision-maker (e.g. brain) | ???
+f | Physicality | Be a material (e.g. metal) | Be a functional thing (e.g. gears) | Be the physical manifestation of a decision-maker (e.g. brain) | ???
 š |
 ž |
 v |
-z |
+z | form | shape/indexical | idea/icon | abstraction/symbol | ???
 r | (2d) shape | triangle | square | hex | circle
 l | (3d) shape | tetrahedron | cube | rhombic dodecahedron | sphere
 ř | (4d) shape | 4-simplex | hypercube | 24-cell | hyper-sphere
 g | 
 k | 
 h | 
-x | 
+x | unnamable thing (see below) | something without a name | something with shifting name (geek/nerd) | something which to name it would make it not that | something which cannot be named
 
 ## Author/Me distinction
 Something that's useful to note here is that the author of a document (the "I" in most statements) is distinct from the being that continues on after writing it. That is to say that if I wrote a book and then a letter two years later, those are two distinct authors, but "I" am continuous between them. It's a kinda weird quirk but I claim the difference is important.
@@ -37,3 +37,8 @@ As a point of comparison, natural languages also have this distinction in poetic
 
 ## A note on the choices of shapes
 I only picked shapes which tessellate/honeycomb space (and spheres) — yes it's a little obtuse but they are the most fundamental shapes in a real sense. To give a non-mathematical intuition for why these shapes are important, consider that Rāvòz is a language which attempts to fully use the space it is written in, so dividing 2d or 3d space into units is an important function. I include 4d words mostly as a curiosity, but also as a gateway to talking about somewhat enigmatic shapes which sit tantalizingly at the edge of what's imaginable.
+
+## Unnamable things
+This might need to be explained. This is a category of thing that is somewhat prompted by the *Magnus Archives* episode "Upon the Stair" (ep. 85), and is best described in terms of it. Particularly, the principal character of that Statement is someone who isn't there, someone who does not exist, and yet is telling this story. At one point in their ceasing to be, his parents visit him, and his father says that the character is no son of his, to which he tries to agree, but if he could, he would be wrong.
+Another example is the Geek vs. Nerd distinction. A possible definition of being a nerd is knowing the difference between a geek and a nerd, so insisting that I'm not a nerd but a geek makes the statement false.
+This is the category of things for which naming simply shifts rather than describes (like a lot of emotions) and attempts at further categorization leads to long strings of playful nonsense statements.

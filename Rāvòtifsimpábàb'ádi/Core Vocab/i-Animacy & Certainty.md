@@ -1,9 +1,9 @@
 This particle marks animacy, assigns actions, mood, and certainty.
-Particle is unmarked, term is syllable final `f`, rel2rel is syllable final `v`, reverse rel2rel is `m`(?)
+Particle is unmarked, term is syllable final `f`, rel2rel is syllable final `v`, reverse rel2rel is `m`
 
 C | Particle | Term | Rel2Rel | short
 -|-|-|-|-
-m | symmetric hypothetical/uncertainty | hypothetical | uncertainty/hypothetical connection (co-hypothetical) | irrealis gap (- -)
+m | symmetric hypothetical/uncertainty (irrealis) | hypothetical | uncertainty/hypothetical connection (co-hypothetical) | - - and - \|
 n | causal | causality | direction of causation | ->-
 ŋ | possible explanation | explanation | source of explanation 
 b | inanimate | be inanimate | made inanimate by | triangle
@@ -25,7 +25,6 @@ h | by means too personal to share | highly personal/internal | from the interna
 x | by incommunicable means | belief/incommunicable | source of incommunicability | -
 
 certainty should be marked like [[Láadan#Evidence]] morphemes.
-(TODO: excitement/feeling? I'm half-remembering an idea i had about this)
 
 ## Compositional Categories
 One can construct "families" of things by ascribing what they are animated/controlled by. These may be applied as decorations as would any animacy category; and may be constructed as cartouches.
@@ -38,6 +37,18 @@ One can construct "families" of things by ascribing what they are animated/contr
 - Computer is "Thinking-being compute animate" (`pápadiv`)
 - All Ideas are animate 
 
+## Causation & Intention
+I don't like time. It's silly. I don't really like causation. It's very linear language. Unfortunately I have trouble making myself use other words. So. Here's a quick primer on what word to use for what kinds of causation and where instead to use intent words.
+### ŋiv: explanation/situational causality
+If your causation is the answer to a "why" question, then this is a good option. For example: "Being tired makes me sad" could be translated as `rìpi žatà gàbví nomimŋiv rìpi kofa` (roughly: "Me sometimes not being energetic (by internal sense) is an explanation for the fact that I feel sad", see [[Grammar#*(i a)m *(i a)v Construction]] for how `nomimŋiv` is interpreted).
+### div: mechanical intent/procedural causality
+This is for situations like "pushing buttons makes words appear" (`naf zō nó dim gítàb`) and "submitting the necessary paperwork makes me a notary". Laws of physics, knowable processes, and ideological functions fit into this category of causality.
+### piv: personal intent
+Similarly to `div`, this is for situations like "I can make you understand a story" (`rì dopiv lì(mi) nī dá`; the `mi` isn't strictly necessary here, but I like having some redundancy for `dov`). So things where you intend and (usually) cause something.
+### tiv: incomprehensible intent/causation without reason
+This is both "God wills it" and "there is no way that was supposed to work". *Usually* this will be used as a particle, but in some cases it's a nice thing to have, e.g. `rìbi fádi tiv zapà fížatàpi` (roughly: "the functional physicality of my body makes seeing painful for some indiscernible reason").
+### niv: generic causality
+If it's not an explanation and can't be broken into a different kind of causation, you can use `niv`. It's easy and can be qualified later with particle versions of the above (this is to support UNLWS causality) but I'd advise against it generally; the purpose of much of this language is to make me think more carefully about things and `niv` is an easy way to not explain what I mean when I say that A causes B.
 ## Person-animate-inanimate-enigmatic distinction (Animacy)
 Animacy is a property of nouns and collections, and like all properties is not intrinsic.
 
