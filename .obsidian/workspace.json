@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rāvòtifsimpábàb'ádi/Core Vocab/i-Animacy & Certainty.md",
+                "file": "Rāvòtifsimpábàb'ádi/Core Vocab/ō-Paths.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Rāvòtifsimpábàb'ádi/Main Grammar Doc/Grammar.md",
+                    "file": "Rāvòtifsimpábàb'ádi/Works/The Chant/The Chant Translation Notes.md",
                     "mode": "source",
                     "source": false
                   }
@@ -101,7 +101,8 @@
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           },
           {
             "id": "129d52eab80f8e71",
@@ -245,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rāvòtifsimpábàb'ádi/Core Vocab/ā-Collections.md",
+                "file": "Rāvòtifsimpábàb'ádi/Core Vocab/ō-Paths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,8 +283,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2d60a684e97b7d45",
+  "active": "a61d9190434fead1",
   "lastOpenFiles": [
+    "Rāvòtifsimpábàb'ádi/Core Vocab/í-States of Being.md",
+    "Rāvòtifsimpábàb'ádi/Core Vocab/i-Animacy & Certainty.md",
+    "Rāvòtifsimpábàb'ádi/Works/The Chant/The Chant Translation Notes.md",
+    "Rāvòtifsimpábàb'ádi/Main Grammar Doc/Grammar.md",
+    "Rāvòtifsimpábàb'ádi/Core Vocab/ā-Collections.md",
+    "Physical Documentation/Rāvòz Quick Reference.epub",
+    "Physical Documentation/lu2426500j1.tmp",
     "Physical Documentation/Rāvòz Quick Reference.pdf",
     "Physical Documentation/Rāvòz Quick Reference.odt",
     "Physical Documentation/Ravoz-letter.pdf",
@@ -294,12 +302,8 @@
     "Rāvòtifsimpábàb'ádi/Core Vocab/ō-Paths.md",
     "Rāvòtifsimpábàb'ádi/Core Vocab/à-Domain Markers & Numbers.md",
     "Rāvòtifsimpábàb'ádi/Core Vocab/á-Nouns.md",
-    "Rāvòtifsimpábàb'ádi/Core Vocab/i-Animacy & Certainty.md",
     "Rāvòtifsimpábàb'ádi/Core Vocab/a-Media.md",
-    "Rāvòtifsimpábàb'ádi/Core Vocab/í-States of Being.md",
     "Rāvòtifsimpábàb'ádi/Core Vocab/o-Adjectives & Conjugation.md",
-    "Rāvòtifsimpábàb'ádi/Main Grammar Doc/Grammar.md",
-    "Rāvòtifsimpábàb'ádi/Core Vocab/ā-Collections.md",
     "Rāvòtifsimpábàb'ádi/Core Vocab/ó-Questions & Unknowns.md",
     "Rāvòtifsimpábàb'ádi/Main Grammar Doc/Writing.md",
     "UNLWS/Lexicon/Terminators.md",
@@ -310,7 +314,6 @@
     "Rāvòtifsimpábàb'ádi/Works/Softleather Journal",
     "Rāvòtifsimpábàb'ádi/Works/Doctor Who/good-bad-things.png",
     "Rāvòtifsimpábàb'ádi/Works/Doctor Who",
-    "Rāvòtifsimpábàb'ádi/Works/Essays",
     "Rāvòtipábàbpi'ádi/Works/Untitled.md",
     "Rāvòtifsimpábàb'ádi/Vocab Docs/UNLWS-Ravoz Dictionary.md",
     "Rāvòtifsimpábàb'ádi/Vocab Docs/TTRPG.md",
@@ -319,8 +322,6 @@
     "Rāvòtifsimpábàb'ádi/Vowel Stories/á-Banner Saga.md",
     "Rāvòtifsimpábàb'ádi/Works/Essays/On Removing Violence.md",
     "Rāvòtifsimpábàb'ádi/Works/Doctor Who/Doctor Who Quotes.md",
-    "lu12759wyr.tmp",
-    "lu12759wyg.tmp",
     "Rāvòtipábàbpi'ádi/Works/Ravotisopabsiv'adi.svg",
     "Rāvòtifsimpábàb'ádi/Main Grammar Doc/full-table.png",
     "Rāvòtipábàbpi'ádi/Images/good-bad-things-exploded.svg",

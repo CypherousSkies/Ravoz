@@ -24,7 +24,7 @@ r | white, everything | bright | be full | be the extent of thinkable things | b
 l | gray, cluttered | 
 ř | black, nothingness | dark | be a vacuum | be personified nothingness | be that which Is Not
 g | interactor | be an incoherent/passive interactor (moon, surface) | be a coherent/active interactor (mirror, button) | be an emitter (star, speaker) | ? 
-k | that which is too much of what it is to be anything else | - | - | - | -
+k | - | - | - | - | -
 h | sound | be a noise | be music | be speech | ?
 x | edible | spices | stew/sauce/bread | main veg/protein | ?
 

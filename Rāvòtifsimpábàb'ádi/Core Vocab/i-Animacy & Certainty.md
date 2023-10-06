@@ -20,7 +20,7 @@ r | nominally, by name | name | is called | -
 l | by presence | presence | whose presence | -
 ř | by practice | practice | what practice | -
 g | by dream, subconscious | a dream | dreamed by | -
-k |
+k | by its nature | be too much of what it is to be anything else | said nature | -
 h | by means too personal to share | highly personal/internal | from the internality | -
 x | by incommunicable means | belief/incommunicable | source of incommunicability | -
 
