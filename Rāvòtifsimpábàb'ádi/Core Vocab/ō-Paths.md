@@ -1,6 +1,6 @@
 This relation is order 2+, generally representing comparisons and journeys.
 
-@@Loop for journeys, hourglass for comparison
+@@Loop for journeys, hourglass for comparison, multiple zigzags for multiple dimensions
 
 Journeys (written with a loop) has no syllable-final consonant (except in suffixes, in which case use an `h`), comparison (written with an hourglass) `x`, units (written with a dash above either an hourglass or loop and without any "destination" points) are a final `f`
 
@@ -11,7 +11,7 @@ Journeys (written with a loop) has no syllable-final consonant (except in suffix
 C | Loop | Hourglass
 -|-|-
 m | radial travel | distance comparison (depth)
-n | vertical/time travel (e.g. fall, experience time) | vertical/time comparison
+n | vertical travel (e.g. fall) | vertical comparison
 ŋ | tangential travel | tangential comparison
 b | easy travel | simple comparison
 d | clear (e.g. mapped path) travel | canonical comparison
@@ -36,10 +36,17 @@ Direction is a difficult concept and I'm going to make as little effort as possi
 1. Everything is relative! Not just in a physics way, but in a useful-talking way! 
 2. Left & right are hard
 3. Rectilinear coordinate systems (x-y planes) don't work everywhere (i mean look at map projections)
-4. Distance + rotation (polar coordinates) always\* work  and are simple to keep track of (just remember the right hand rule and you're done)
-So! Use the right hand rule when dealing with rotations (so left is `nōf` and right is `gànōf`), and the rest are, I think fairly clear (e.g. away from you is `mōf` and towards you is `gàmōf`). As a note, ranges that are not directions do not necessarily have canonical "directions" (e.g. warm is `gōf`, but what would `kōf` mean?).
+4. Distance + rotation (polar coordinates) always\* work  and are simple to keep track of (just remember the left hand rule and you're good)
+So! Use the left hand rule when dealing with rotations (so right is `nōf` and left is `gànōf`), and the rest are, I think fairly clear (e.g. away from you is `mōf` and towards you is `gàmōf`). As a note, ranges that are not directions do not necessarily have canonical "directions" (e.g. warm is `gōf`, but what would `kōf` mean?).
 
 \* technically it's geodesic coordinates that work for all manifolds, but you can parameterize those by polar coordinates and it still works, just be careful about where things fly off to
 
-## Time Travel
-So you want to time travel. 
+## Talking About Time (Travel)
+So you want to time travel (or just the passage of time i guess). That's fine I guess. I'm going to distinguish some notions of time here, to provide some axes to make them more understandable.
+1. Causal time (`nōni`) or "time as the stone falls" (`nōfni ŋimhīmiv mábisá nō šo sò žo`) is the time which the sun and clocks give us. When you are thinking of "linear" time, this is probably what you mean.
+2. Branching time (`ŋōni`) or "time as the river flows" (`ŋōfni ŋimhīmiv ŋísá pō so sò zo`) is the dimension of time which the many worlds hypothesis gives us, or more usually, time branching time of choice.
+3. Experiential time (`mōsiŋi`) or "time as memory is woven" (`mōfsiŋi ŋimhīmiv báva zō ní`) is the feeling of time passing with your now at the center of it. There is no obligation for this to be linear, but that's what multi-dimensional range construction is for.
+These are just the ones I'm going to canonize, but I'm sure you can think of other compositional time-expressions to satisfy your needs, and I encourage you to use them.
+
+## Comparison direction
+*Usually*, a range will be expressed with some direction (e.g. doesn't end in an `ō` word) and should be read as travelling in the order the zigzags present. \[TODO: Finish this part because i think i need to think about this\]

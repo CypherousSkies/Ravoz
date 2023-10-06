@@ -71,7 +71,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Rāvòtifsimpábàb'ádi/Works/The Chant/The Chant Translation Notes.md",
+                    "file": "Rāvòtifsimpábàb'ádi/Core Vocab/i-Animacy & Certainty.md",
                     "mode": "source",
                     "source": false
                   }
@@ -96,6 +96,18 @@
                   "type": "markdown",
                   "state": {
                     "file": "Rāvòtifsimpábàb'ádi/Core Vocab/a-Media.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "93bccc6e948efce2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Rāvòtifsimpábàb'ádi/Main Grammar Doc/Grammar.md",
                     "mode": "source",
                     "source": false
                   }
@@ -170,14 +182,14 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Rāvòtifsimpábàb'ádi/Core Vocab/ā-Collections.md",
+                    "file": "Rāvòtifsimpábàb'ádi/Core Vocab/ò-Grouping.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
             ],
-            "currentTab": 5
+            "currentTab": 4
           }
         ],
         "direction": "horizontal"
@@ -209,7 +221,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "explanation",
+                "query": "stone",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -285,11 +297,17 @@
   },
   "active": "a61d9190434fead1",
   "lastOpenFiles": [
+    "Rāvòtifsimpábàb'ádi/Core Vocab/ī-Reflexive Relations.md",
+    "Rāvòtifsimpábàb'ádi/Core Vocab/ō-Paths.md",
     "Rāvòtifsimpábàb'ádi/Core Vocab/í-States of Being.md",
     "Rāvòtifsimpábàb'ádi/Core Vocab/i-Animacy & Certainty.md",
-    "Rāvòtifsimpábàb'ádi/Works/The Chant/The Chant Translation Notes.md",
-    "Rāvòtifsimpábàb'ádi/Main Grammar Doc/Grammar.md",
+    "Rāvòtifsimpábàb'ádi/Core Vocab/o-Adjectives & Conjugation.md",
+    "Rāvòtifsimpábàb'ádi/Core Vocab/a-Media.md",
+    "Rāvòtifsimpábàb'ádi/Core Vocab/ò-Grouping.md",
+    "Rāvòtifsimpábàb'ádi/Vocab Docs/UNLWS-Ravoz Dictionary.md",
     "Rāvòtifsimpábàb'ádi/Core Vocab/ā-Collections.md",
+    "Rāvòtifsimpábàb'ádi/Main Grammar Doc/Grammar.md",
+    "Rāvòtifsimpábàb'ádi/Works/The Chant/The Chant Translation Notes.md",
     "Physical Documentation/Rāvòz Quick Reference.epub",
     "Physical Documentation/lu2426500j1.tmp",
     "Physical Documentation/Rāvòz Quick Reference.pdf",
@@ -298,12 +316,8 @@
     "Physical Documentation",
     "lu15744nz2a.tmp",
     "lu15744nz1z.tmp",
-    "Rāvòtifsimpábàb'ádi/Core Vocab/ī-Reflexive Relations.md",
-    "Rāvòtifsimpábàb'ádi/Core Vocab/ō-Paths.md",
     "Rāvòtifsimpábàb'ádi/Core Vocab/à-Domain Markers & Numbers.md",
     "Rāvòtifsimpábàb'ádi/Core Vocab/á-Nouns.md",
-    "Rāvòtifsimpábàb'ádi/Core Vocab/a-Media.md",
-    "Rāvòtifsimpábàb'ádi/Core Vocab/o-Adjectives & Conjugation.md",
     "Rāvòtifsimpábàb'ádi/Core Vocab/ó-Questions & Unknowns.md",
     "Rāvòtifsimpábàb'ádi/Main Grammar Doc/Writing.md",
     "UNLWS/Lexicon/Terminators.md",
@@ -315,13 +329,11 @@
     "Rāvòtifsimpábàb'ádi/Works/Doctor Who/good-bad-things.png",
     "Rāvòtifsimpábàb'ádi/Works/Doctor Who",
     "Rāvòtipábàbpi'ádi/Works/Untitled.md",
-    "Rāvòtifsimpábàb'ádi/Vocab Docs/UNLWS-Ravoz Dictionary.md",
     "Rāvòtifsimpábàb'ádi/Vocab Docs/TTRPG.md",
     "Rāvòtifsimpábàb'ádi/Vocab Docs/Spiritual Practices.md",
     "Rāvòtifsimpábàb'ádi/Vocab Docs/Discord Names.md",
     "Rāvòtifsimpábàb'ádi/Vowel Stories/á-Banner Saga.md",
     "Rāvòtifsimpábàb'ádi/Works/Essays/On Removing Violence.md",
-    "Rāvòtifsimpábàb'ádi/Works/Doctor Who/Doctor Who Quotes.md",
     "Rāvòtipábàbpi'ádi/Works/Ravotisopabsiv'adi.svg",
     "Rāvòtifsimpábàb'ádi/Main Grammar Doc/full-table.png",
     "Rāvòtipábàbpi'ádi/Images/good-bad-things-exploded.svg",
