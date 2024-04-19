@@ -8,38 +8,45 @@ Journeys (written with a loop) has no syllable-final consonant (except in suffix
 
 @@Potentially re-order the elements of each group for significance
 
-C | Loop | Hourglass
--|-|-
-m | radial travel | distance comparison (depth)
-n | vertical travel (e.g. fall) | vertical comparison
-ŋ | tangential travel | tangential comparison
-b | easy travel | simple comparison
-d | clear (e.g. mapped path) travel | canonical comparison
-p | foretold/prophetic travel | prophetic comparison
-t | impeded travel | nuanced/difficult comparison
-s | state  (e.g. solid -> gas) change | state comparison
-f | change in animacy | animacy comparison
-š | travel between spirit/god-states | compare spirit/gods
-ž | travel between person-states | compare personality
-v | transition between operating-modes | compare functions
-z | con/de-struction | compare things
-r | travel between emotions | emotional comparison
-l | training | experience comparison
-ř | spiritual journey | spiritual comparison (e.g. islam-witchy)
-g | cooling/heating/weather | temperature range
-k | change in texture | texture range (e.g. soft-rough)
-h | gender transition | gender (static)
-x | sensory/linguistic translation | sensory/linguistic comparison (e.g. sight-sound, ithkuil-toki pona)
-
+| C   | Loop                               | Hourglass                                                           | Natural Units |
+| --- | ---------------------------------- | ------------------------------------------------------------------- | ------------- |
+| m   | radial travel                      | distance comparison (depth)                                         | paces         |
+| n   | angular height travel (e.g. fall)  | vertical comparison                                                 | hands         |
+| ŋ   | tangential travel                  | tangential comparison                                               | hands         |
+| b   | easy travel                        | simple comparison                                                   | ?             |
+| d   | clear (e.g. mapped path) travel    | canonical comparison                                                | ?             |
+| p   | foretold/prophetic travel          | prophetic comparison                                                | ?             |
+| t   | impeded travel                     | nuanced/difficult comparison                                        | ?             |
+| s   | state  (e.g. solid -> gas) change  | state comparison                                                    | ?             |
+| f   | change in animacy                  | animacy comparison                                                  | n/a           |
+| š   | travel between spirit/god-states   | compare spirit/gods                                                 | ?             |
+| ž   | travel between person-states       | compare personality                                                 | ?             |
+| v   | transition between operating-modes | compare functions                                                   | ?             |
+| z   | con/de-struction                   | compare things                                                      | ?             |
+| r   | travel between emotions            | emotional comparison                                                | ?             |
+| l   | training                           | experience comparison                                               | ?             |
+| ř   | spiritual journey                  | spiritual comparison (e.g. islam-witchy)                            | ?             |
+| g   | cooling/heating/weather            | temperature range                                                   | wamth?        |
+| k   | change in texture                  | texture range (e.g. soft-rough)                                     | ?             |
+| h   | gender transition                  | gender (static)                                                     | ?             |
+| x   | sensory/linguistic translation     | sensory/linguistic comparison (e.g. sight-sound, ithkuil-toki pona) | ?             |
+change: šō, žō, vō all into different animacy-conjugations of vō 
 ## Direction, Coordinate systems, and You('ìpi)
 Direction is a difficult concept and I'm going to make as little effort as possible to make something that works in most cases. Here's some things to keep in mind:
 1. Everything is relative! Not just in a physics way, but in a useful-talking way! 
 2. Left & right are hard
 3. Rectilinear coordinate systems (x-y planes) don't work everywhere (i mean look at map projections)
 4. Distance + rotation (polar coordinates) always\* work  and are simple to keep track of (just remember the left hand rule and you're good)
-So! Use the left hand rule when dealing with rotations (so right is `nōf` and left is `gànōf`), and the rest are, I think fairly clear (e.g. away from you is `mōf` and towards you is `gàmōf`). As a note, ranges that are not directions do not necessarily have canonical "directions" (e.g. warm is `gōf`, but what would `kōf` mean?).
+So! Use the left hand rule when dealing with rotations (so right is `nōf` and left is `gànōf`, down is `nōf`, up is `gànōf`), and the rest are, I think fairly clear (e.g. away from you is `mōf` and towards you is `gàmōf`). As a note, ranges that are not directions do not necessarily have canonical "directions" (e.g. warm is `gōf`, but what would `kōf` mean?).
 
-\* technically it's geodesic coordinates that work for all manifolds, but you can parameterize those by polar coordinates and it still works, just be careful about where things fly off to
+\* technically it's geodesic polar coordinates that work for all manifolds, which is locally the same, one just has to be careful about where things fly off to.
+
+## Units & Measurement
+Along the unit line attached to the path glyph, one can specify how many and what kind of units are being measured. If no unit is specified, then whatever natural units fit are used. To specify a unit, attach the name/description of it at the end of the unit line. To specify the amount add a number to the side of the unit line.
+
+### Natural Rotational Units
+I don't like measurement, but it is useful. So, instead of degrees or radians, I propose hands. As justification, most arms are 3 hands long, and a splayed hand is about as wide as it is tall, so the angular width/height of a splayed hand at arm's length is vaguely constant for most people.
+
 
 ## Talking About Time (Travel)
 So you want to time travel (or just the passage of time i guess). That's fine I guess. I'm going to distinguish some notions of time here, to provide some axes to make them more understandable.

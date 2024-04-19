@@ -2,23 +2,24 @@
 ## Vowels
 There are 3 vowels — `a`, `i`, `o` — and three tones — rising (first, `á`), constant (second, `ā`), falling (third, `à`), and no tone (zeroth, unstressed, `a` or `ȧ`). They can be written as either vowel-number (e.g. `a1` meaning /a/ with rising tone, with `a` meaning /a/ with no tone) or with their pinyin equivalents (e.g. `á` meaning /a/ with rising tone, `ȧ` or `a` for no tone).
 All vowel-tone pairs are represented by [[#Glyphs]] (unit of written information) and is modified by at most one consonant in the onset marking meaning and sometimes a syllable-final consonant to mark for grammar.
-In general, changing tone corresponds to terminators, constant tone to relations, and no tone to particles. (edit 5/15/23: yeah this was from an old version of the language in which i planned to have three tones total: )
-Additionally, in transliteration it is also acceptable to write in the direction of the changing tones with acute and grave markings, though this has makes no semantic difference (except perhaps as a meta-textual spoken-only way to emphasize a reversal of time). (edit 5/12/22: i have no idea what this paragraph means so feel free to discard it)
-
-### Atonal dialect
-I am also considering making an [[Ouwi]]-style dialect which replaces tones with a variety of non-tonal vowels. I'm also considering giving alternatives for the retroflex sounds for those that find them difficult. I'm happy to hear feedback/suggestions on this, but the spoken part of the language was never really going to be the most important feature of the language. 
 
 ## Consonants
 
-\- | labial |  coronal | retroflex |  velar 
--|-|-|-|-
-plosive | `p`/p/ `b`/b/ | `t`/t/ `d`/d/ |  | `k`/k/ `g`/g/ 
-nasal | `m`/m/ |  `n`/n/ | | `ŋ`/ŋ/
-fricative | `f`/f/ `v`/v/ | `s`/s/ `z`/z/ | `š`/ʂ/ `ž`/ʐ/ | `h`/x/ `x`/ɣ/ 
-approximants | | `r`/r,ɾ/ `l` /l/ | `ř`/ɻ/ | 
+| \-           | labial        | coronal          | retroflex     | velar         |
+| ------------ | ------------- | ---------------- | ------------- | ------------- |
+| plosive      | `p`/p/ `b`/b/ | `t`/t/ `d`/d/    |               | `k`/k/ `g`/g/ |
+| nasal        | `m`/m/        | `n`/n/           |               | `ŋ`/ŋ/        |
+| fricative    | `f`/f/ `v`/v/ | `s`/s/ `z`/z/    | `š`/ʂ/ `ž`/ʐ/ | `h`/x/ `x`/ɣ/ |
+| approximants |               | `r`/r,ɾ/ `l` /l/ | `ř`/ɻ/        |               |
 
 ![[full-table.png]]
 Consonants are [[Writing#Consonant Markings|written]] as modifying a vowel (which should make sense, as the vowel determines the function of a root). 
+
+### Rhotic Accessibility
+It has been brought to my attention that having three different r-like sounds is not good for everybody. So! Instead of trying to distinguish /r/, /l/, /ɻ/, I invite you to pronounce `ř` as /ð/ (voiced th for English speakers), `r` as /B/ (a trilled b), and `l` as /l~ɻ/ (any sound between r and l, like Japanese).
+
+### Other Accessibility
+I am also considering making an [[Ouwi]]-style dialect which replaces tones with a variety of non-tonal vowels. I'm also considering giving alternatives for the retroflex sounds for those that find them difficult. I'm happy to hear feedback/suggestions on this, but the spoken part of the language was never really going to be the most important feature of the language. 
 
 ### Consonant Groupings
 Some consonants sound similar and so have clustered meanings:

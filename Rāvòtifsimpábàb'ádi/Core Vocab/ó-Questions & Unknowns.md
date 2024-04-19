@@ -1,27 +1,28 @@
-`ó` words are, by themselves, just unknowns; lacking the power of a question and more akin to words like "someone". To give them the power of a question, combine it with an [[i-Animacy & Certainty|irrealis]] gap/particle at the point of uncertainty (e.g. "Is there anyone you trust?" vs "Who do you trust?").
+`ó` words are, by themselves, just unknowns; lacking the power of a question and more akin to words like "someone". To give them the power of a question, combine it with an [[i-Animacy & Certainty|irrealis]] gap/particle at the point of uncertainty (e.g. "Is there anyone you trust?" vs "Who do you trust?"). There are two ways to answer a question: with a rel-gap (`-( )-`, said `óg`), meaning something like "a possible answer to `ó` might be" or "one such `ó` thing is"; or with a line connecting them (`-(-)-`, said `ók`) which means something like "*the* answer is" or "the particular thing which satisfies this is".
 
-C | unknown | question
--|-|-
-m | some story/text | what/which story/text
-n | some word | what/which word
-ŋ | some language | what/which lanugage
-b | some animacy | how animate?
-d | some individual thing | what/which individual thing
-p | some group | what/which group
-t | some gestalt thing | what/which gestalt
-s | some unknown | what?
-f | some idea | what/which idea?
-š | some approximate quantity | how many (approximate)
-ž | some quality | what quality
-v | some branch | which branch?
-z | some unknowable | if it can be so, what is its name?
-r | for some reason (intent) | why, for what reason?
-l | some process | how (process, causal web) as in "how did you make that"
-ř | some cause | how (immediate cause) as in "how did this happen"
-g | some specific place | where (specific)
-k | somewhere | where (general)
-h | some general time | when (general)
-x | some specific time | when (specific)
+
+| C   | unknown touch                | unknown ranged           | question                                                                                                  |
+| --- | ---------------------------- | ------------------------ | --------------------------------------------------------------------------------------------------------- |
+| m   | some character/story element | some complete text       | what/which story/text                                                                                     |
+| n   | some word                    | some language            | what/which word/language                                                                                  |
+| ŋ   |                              |                          |                                                                                                           |
+| b   | some animacy                 |                          | how animate?                                                                                              |
+| d   | some individual thing        |                          | what/which individual thing                                                                               |
+| p   | some group                   | some gestalt thing       | what/which group                                                                                          |
+| t   |                              |                          |                                                                                                           |
+| s   | some idea                    | some unknown             | what?                                                                                                     |
+| f   |                              |                          |                                                                                                           |
+| š   | some approximate quantity    | some exact quantity      | how many (approximate)                                                                                    |
+| ž   | some quality                 |                          | what quality                                                                                              |
+| v   | some node                    | some branch              | which node/branch?                                                                                        |
+| z   | some unknowable              |                          | if it can be so, what is its name?                                                                        |
+| r   | for some reason (intent)     |                          | why, for what reason?                                                                                     |
+| l   | some (immediate) cause       | some process, causal web | how (immediate cause) as in "how did this happen"/how (process, causal web) as in "how did you make that" |
+| ř   |                              |                          |                                                                                                           |
+| g   | some specific place          | somewhere                | where?                                                                                                    |
+| k   |                              |                          |                                                                                                           |
+| h   |                              |                          |                                                                                                           |
+| x   | some specific time           | some general time        | when?                                                                                                     |
 
 ## Unbound BPs
-If there's a binding point left open which is intended for meaning, this can be read as `só`.
+If there's a binding point left open which is intended for meaning, this can be read as `vó`.
