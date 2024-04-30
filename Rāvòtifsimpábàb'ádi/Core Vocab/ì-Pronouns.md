@@ -3,12 +3,13 @@
 Names are written as a sequence of glyphs enclosed in a circular cartouche with a single line out of it, like `á` words.
 
 
-C | Inanimate | Animate | Person | Enigmatic
--|-|-|-|-
-r | This document, my physicality | I, the author/speaker | I, me the person beyond the text | I, a God/spirit
-l | You, the audience | You, the referent of the speaker | You, the person beyond the text | You, a God/spirit
-ř | Our physicality | We, the speaker & referent (inclusive) | We, the people beyond the text (inclusive) | We Gods/spirits
-name | physicality | character/aspect | person beyond the text | god/spirit
+| C          | Inanimate                     | Animate                                | Person                                     | Enigmatic         |
+| ---------- | ----------------------------- | -------------------------------------- | ------------------------------------------ | ----------------- |
+| r          | This document, my physicality | I, the author/speaker                  | I, me the person beyond the text           | I, a God/spirit   |
+| l          | You, the audience             | You, the referent of the speaker       | You, the person beyond the text            | You, a God/spirit |
+| ř          | Our physicality               | We, the speaker & referent (inclusive) | We, the people beyond the text (inclusive) | We Gods/spirits   |
+| x (poetic) | One                           |                                        |                                            |                   |
+| name       | physicality                   | character/aspect                       | person beyond the text                     | god/spirit        |
 
 ## Exclusive We
 Written as `rì` with a measure word in its non-binding tail (e.g. `rìmà` meaning us few).

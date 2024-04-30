@@ -15,7 +15,7 @@ c | Undir | Dir | Term
 
 | C   | Undir Inanimate                             | Undir Animate                         | Undir Person                               | Undir Enigmatic                   | Directed                | Term                        |            |
 | --- | ------------------------------------------- | ------------------------------------- | ------------------------------------------ | --------------------------------- | ----------------------- | --------------------------- | ---------- |
-| m   | dissonant without trying                    | semi-active/programatic dissonance    | actively dissonant, nemeses                | dissonant/antithetical god/spirit |                         | chaos/dissonant             |            |
+| m   | dissonant without trying                    | semi-active/programatic dissonance    | actively dissonant, nemeses                | dissonant/antithetical god/spirit | result of dissonance    | chaos/dissonant             |            |
 | n   | gestalt of                                  |                                       |                                            |                                   |                         | gestalt                     |            |
 | ŋ   | consonant without trying                    | consonant by another's/passive action | consonant with active effort, acquaintance | consonant/patron god/spirit       | idealize consonance     | pastel/consonant            |            |
 | b   | coexist                                     | coexist (host)                        | coexist (symbiote)                         | coexist (possession)              | become                  | that which coexists         |            |
@@ -29,7 +29,7 @@ c | Undir | Dir | Term
 | v   | see below                                   |                                       |                                            |                                   |                         |                             |            |
 | z   | see below                                   |                                       |                                            |                                   |                         |                             |            |
 | r   | bystander                                   | animate observer                      | person observer                            | enigmatic observer                | that which is perceived | that which can be perceived |            |
-| l   | storytell                                   |                                       |                                            |                                   |                         |                             |            |
+| l   |                                             |                                       |                                            |                                   |                         |                             |            |
 | ř   | structure                                   |                                       |                                            |                                   |                         |                             |            |
 
 | c   | Undir Inanimate                           | Undir Animate                 | Undir Person                          | Undir Enigmatic              | Dir Inanimate                                 | Dir Animate                | Dir Person                                | Dir Enigmatic                                                        | Term                          |
@@ -40,4 +40,12 @@ c | Undir | Dir | Term
 | g   | raw food                                  | cooking tool                  | chef                                  | ???                          | cooked food                                   | cutlery                    | person who eats the prepared food         | ???                                                                  | food/drink/feast/cook         |
 | k   | social gather                             |                               |                                       |                              |                                               |                            |                                           |                                                                      |                               |
 | h   | sample                                    |                               |                                       |                              |                                               |                            |                                           |                                                                      |                               |
-| x   |                                           |                               |                                       |                              |                                               |                            |                                           |                                                                      |                               |
+| x   | Cartesian product                         |                               |                                       |                              |                                               |                            |                                           |                                                                      |                               |
+## xā: The Cartesian Product
+I'm borrowing this from math as it's useful for making shapes with a small number of words. I think it's best illustrated by some examples (X is the Cartesian product):
+- Circle X Line = Cylinder (extrude the circle along the line)
+- Circle X Circle = Torus = Doughnut (extrude the circle along the circle)
+- Line X Line = rectangle
+- Hexagon X Line = hexagonal prism (same as cylinder)
+- Rectangle X Line = rectangular prism (if the rectangle is curved, this may result in a twisting thing)
+An unfortunate side-effect is that (without further specification), the extrusion is at a right angle from the other things. Specify this with ŋō\*à'o where \* is some angular distance (see [[ō-Paths#Natural Rotational Units]]).

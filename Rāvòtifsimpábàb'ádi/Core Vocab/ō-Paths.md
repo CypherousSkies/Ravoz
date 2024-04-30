@@ -19,7 +19,7 @@ Journeys (written with a loop) has no syllable-final consonant (except in suffix
 | t   | impeded travel                     | nuanced/difficult comparison                                        | ?             |
 | s   | state  (e.g. solid -> gas) change  | state comparison                                                    | ?             |
 | f   | change in animacy                  | animacy comparison                                                  | n/a           |
-| š   | travel between spirit/god-states   | compare spirit/gods                                                 | ?             |
+| š   | give                               | compare posession                                                   | ?             |
 | ž   | travel between person-states       | compare personality                                                 | ?             |
 | v   | transition between operating-modes | compare functions                                                   | ?             |
 | z   | con/de-struction                   | compare things                                                      | ?             |
