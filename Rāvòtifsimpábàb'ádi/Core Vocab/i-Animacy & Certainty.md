@@ -1,28 +1,28 @@
 This particle marks animacy, assigns actions, mood, and certainty.
 Particle is unmarked, term is syllable final `f`, rel2rel is syllable final `v`, reverse rel2rel is `m`
 
-C | Particle | Term | Rel2Rel | short
--|-|-|-|-
-m | symmetric hypothetical/uncertainty (irrealis) | hypothetical | uncertainty/hypothetical connection (co-hypothetical) | - - and - \|
-n | causal | causality | direction of causation | ->-
-ŋ | possible explanation | explanation | source of explanation 
-b | inanimate | be inanimate | made inanimate by | triangle
-d | animate | be animate | activated/used by, with knowable/known cause | square
-p | person | be person | intend, with difficult (but not impossible) to understand cause | hex
-t | enigmatic | be enigmatic | by enigmatic will (e.g. by God's will), with unknowable cause | circle
-s | personal experience | experience | by the experience of | -
-f | waffling | nonsense | by chance, without reason | -
-š | self-evident | self-evident | follows from | -
-ž | from a trusted source | assumption (truth) | by the trusted source | -
-v | from an uncertain source | uncertainty | by the uncertain source | -
-z | from an mistrusted source | assumption (falsehood) | by the mistrusted source | -
-r | nominally, by name | name | is called | -
-l | by presence | presence | whose presence | -
-ř | by practice | practice | what practice | -
-g | by dream, subconscious | a dream | dreamed by | -
-k | by its nature | be too much of what it is to be anything else | said nature | -
-h | by means too personal to share | highly personal/internal | from the internality | -
-x | by incommunicable means | belief/incommunicable | source of incommunicability | -
+| C   | Particle                                      | Term                                          | Rel2Rel                                                         | short        |
+| --- | --------------------------------------------- | --------------------------------------------- | --------------------------------------------------------------- | ------------ |
+| m   | symmetric hypothetical/uncertainty (irrealis) | hypothetical                                  | unbalanced uncertainty/hypothetical connection                  | - - and - \| |
+| n   | causal                                        | causality                                     | direction of causation                                          | ->-          |
+| ŋ   | possible explanation                          | explanation                                   | source of explanation                                           |              |
+| b   | inanimate                                     | be inanimate                                  | made inanimate by                                               | triangle     |
+| d   | animate                                       | be animate                                    | activated/used by, with knowable/known cause                    | square       |
+| p   | person                                        | be person                                     | intend, with difficult (but not impossible) to understand cause | hex          |
+| t   | enigmatic                                     | be enigmatic                                  | by enigmatic will (e.g. by God's will), with unknowable cause   | circle       |
+| s   | personal experience                           | experience                                    | by the experience of                                            | -            |
+| f   | waffling                                      | nonsense                                      | by chance, without reason                                       | -            |
+| š   | self-evident                                  | self-evident                                  | follows from                                                    | -            |
+| ž   | from a trusted source                         | assumption (truth)                            | by the trusted source                                           | -            |
+| v   | from an uncertain source                      | uncertainty                                   | by the uncertain source                                         | -            |
+| z   | from an mistrusted source                     | assumption (falsehood)                        | by the mistrusted source                                        | -            |
+| r   | nominally, by name                            | name                                          | is called                                                       | -            |
+| l   | by presence                                   | presence                                      | whose presence                                                  | -            |
+| ř   | by practice                                   | practice                                      | what practice                                                   | -            |
+| g   | by dream, subconscious                        | a dream                                       | dreamed by                                                      | -            |
+| k   | by its nature                                 | be too much of what it is to be anything else | said nature                                                     | -            |
+| h   | by means too personal to share                | highly personal/internal                      | from the internality                                            | -            |
+| x   | by incommunicable means                       | belief/incommunicable                         | source of incommunicability                                     | -            |
 
 certainty should be marked like [[Láadan#Evidence]] morphemes.
 

@@ -1,11 +1,11 @@
 This particle can also be a terminator, single-intersecting particle, or a double intersecting decoration:
 
 **Terminating (intransitive)**:
-@@ŋo A
-Read as `ŋo A` or `A ŋo` or `Aŋof` meaning "A is weak"
+@@ŋof A
+Read as `ŋof A` or `A ŋo` meaning "A is weak"
 
 **Single-intersection (adv/adj)**: (a special kind of decoration)
-@@A ŋo
+@@Aŋo
 Read as `Aŋo` or `A ŋom` or `ŋom A` meaning "The weak/unimportant A" or "weakly/unimportantly A"
 
 **Double-intersection (tense/mood)**:
