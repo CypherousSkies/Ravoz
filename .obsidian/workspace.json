@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f05d8afee152ee79",
-        "type": "split",
+        "id": "d64b002af4d4d23f",
+        "type": "tabs",
         "children": [
           {
-            "id": "d64b002af4d4d23f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a61d9190434fead1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Rāvòtifsimpábàb'ádi/Core Vocab/o-Adjectives & Conjugation.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "a61d9190434fead1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rāvòtifsimpábàb'ádi/Core Vocab/ō-Paths.md",
+                "mode": "source",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "81de3cd42afa9365",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a52ec85bfe1e4e43",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Rāvòtifsimpábàb'ádi/Core Vocab/ó-Questions & Unknowns.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "5c5d48c1650ae9bb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Rāvòtifsimpábàb'ádi/Main Grammar Doc/Grammar.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rāvòtifsimpábàb'ádi/Core Vocab/o-Adjectives & Conjugation.md",
+                "file": "Rāvòtifsimpábàb'ádi/Core Vocab/ō-Paths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,12 +126,12 @@
   },
   "active": "a61d9190434fead1",
   "lastOpenFiles": [
+    "Rāvòtifsimpábàb'ádi/Core Vocab/ò-Grouping.md",
+    "Rāvòtifsimpábàb'ádi/Core Vocab/o-Adjectives & Conjugation.md",
     "Rāvòtifsimpábàb'ádi/Core Vocab/ā-Collections.md",
     "Rāvòtifsimpábàb'ádi/Core Vocab/á-Nouns.md",
     "Rāvòtifsimpábàb'ádi/Core Vocab/ó-Questions & Unknowns.md",
     "Rāvòtifsimpábàb'ádi/Core Vocab/ō-Paths.md",
-    "Rāvòtifsimpábàb'ádi/Core Vocab/ò-Grouping.md",
-    "Rāvòtifsimpábàb'ádi/Core Vocab/o-Adjectives & Conjugation.md",
     "Rāvòtifsimpábàb'ádi/Core Vocab/í-States of Being.md",
     "Rāvòtifsimpábàb'ádi/Core Vocab/ī-Reflexive Relations.md",
     "Rāvòtifsimpábàb'ádi/Core Vocab/ì-Pronouns.md",
