@@ -6,7 +6,7 @@
 @@example directed
 `A nīn B` meaning "A understands B but B doesn't (necessarily) understand A"
 
-The meaning of this relation depends on the animacy of the participants. While this relation has a directed and undirected version. A natural consequence of animacy is then that directed and undirected relations with exactly one inanimate participant are fully equivalent as an inanimate participant is always being acted upon by its more animate counterpart.
+The meaning of this relation depends on the animacy of the participants. A natural consequence of animacy in this situation is that in the case where one of the participants is inanimate the relation is read as if it is directed towards it, even if it is written as undirected.
 
 When both participants are inanimate, directed information becomes somewhat nonsensical, with cogent analogies being things like doors which when passed through, don't lead back to where they started; so while a directed inanimate-inanimate `ī` relation is potentially understandable, it is usually non-physical, with more information being conveyed by ascribing some animacy to at least one of the participants (e.g. the impossible door is animately, or perhaps enigmatically, changing).
 

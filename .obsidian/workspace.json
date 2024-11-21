@@ -4,22 +4,78 @@
     "type": "split",
     "children": [
       {
-        "id": "d64b002af4d4d23f",
-        "type": "tabs",
+        "id": "a8b141e30bff9929",
+        "type": "split",
         "children": [
           {
-            "id": "a61d9190434fead1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rāvòtifsimpábàb'ádi/Core Vocab/ō-Paths.md",
-                "mode": "source",
-                "source": false
+            "id": "d64b002af4d4d23f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a61d9190434fead1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Rāvòtifsimpábàb'ádi/Core Vocab/ā-Collections.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "ā-Collections"
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "1fc234b50fb676d4",
+            "type": "split",
+            "children": [
+              {
+                "id": "1ff30ef0458ccb88",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "bb6e0448a05cdf64",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Rāvòtifsimpábàb'ádi/Core Vocab/à-Domain Markers & Numbers.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "à-Domain Markers & Numbers"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "fa3baead2c059701",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "bc7dd8be02aaf13c",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Rāvòtifsimpábàb'ádi/Core Vocab/o-Adjectives & Conjugation.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "o-Adjectives & Conjugation"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical"
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -39,7 +95,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -48,13 +106,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "intent",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,14 +122,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 200
   },
   "right": {
     "id": "2fbd7f4accba6a66",
@@ -85,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rāvòtifsimpábàb'ádi/Core Vocab/ō-Paths.md",
+                "file": "Rāvòtifsimpábàb'ádi/Core Vocab/ā-Collections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +155,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ā-Collections"
             }
           },
           {
@@ -105,7 +169,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -124,21 +190,22 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a61d9190434fead1",
+  "active": "bb6e0448a05cdf64",
   "lastOpenFiles": [
-    "Rāvòtifsimpábàb'ádi/Core Vocab/ò-Grouping.md",
-    "Rāvòtifsimpábàb'ádi/Core Vocab/o-Adjectives & Conjugation.md",
-    "Rāvòtifsimpábàb'ádi/Core Vocab/ā-Collections.md",
-    "Rāvòtifsimpábàb'ádi/Core Vocab/á-Nouns.md",
-    "Rāvòtifsimpábàb'ádi/Core Vocab/ó-Questions & Unknowns.md",
-    "Rāvòtifsimpábàb'ádi/Core Vocab/ō-Paths.md",
-    "Rāvòtifsimpábàb'ádi/Core Vocab/í-States of Being.md",
     "Rāvòtifsimpábàb'ádi/Core Vocab/ī-Reflexive Relations.md",
-    "Rāvòtifsimpábàb'ádi/Core Vocab/ì-Pronouns.md",
-    "Rāvòtifsimpábàb'ádi/Core Vocab/i-Animacy & Certainty.md",
-    "Rāvòtifsimpábàb'ádi/Core Vocab/a-Media.md",
     "Rāvòtifsimpábàb'ádi/Core Vocab/à-Domain Markers & Numbers.md",
+    "Rāvòtifsimpábàb'ádi/Core Vocab/ā-Collections.md",
+    "Rāvòtifsimpábàb'ádi/Core Vocab/o-Adjectives & Conjugation.md",
+    "Rāvòtifsimpábàb'ádi/Core Vocab/a-Media.md",
+    "Rāvòtifsimpábàb'ádi/Core Vocab/i-Animacy & Certainty.md",
     "Rāvòtifsimpábàb'ádi/Main Grammar Doc/Grammar.md",
+    "Rāvòtifsimpábàb'ádi/Core Vocab/ò-Grouping.md",
+    "Rāvòtifsimpábàb'ádi/Core Vocab/í-States of Being.md",
+    "Rāvòtifsimpábàb'ádi/Core Vocab/ō-Paths.md",
+    "Rāvòtifsimpábàb'ádi/Core Vocab/á-Nouns.md",
+    "Nominally/Nominally.md",
+    "Rāvòtifsimpábàb'ádi/Core Vocab/ó-Questions & Unknowns.md",
+    "Rāvòtifsimpábàb'ádi/Core Vocab/ì-Pronouns.md",
     "Rāvòtifsimpábàb'ádi/The Rāvòzò'ádi Project.md",
     "Thek'nganosh/Thek'nganosh.md",
     "Physical Documentation/Rāvòz Quick Reference.pdf",
@@ -146,7 +213,6 @@
     "Physical Documentation/lu18565z37.tmp",
     "Physical Documentation/lu18565z33.tmp",
     "Rāvòtifsimpábàb'ádi/Vocab Docs/UNLWS-Ravoz Dictionary.md",
-    "Nominally/Nominally.md",
     "Nominally",
     "Physical Documentation/lu25891ke0u.tmp",
     "Physical Documentation/lu25891ke0q.tmp",

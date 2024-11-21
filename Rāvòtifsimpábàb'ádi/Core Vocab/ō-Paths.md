@@ -8,28 +8,28 @@ Journeys (written with a loop) has no syllable-final consonant (except in suffix
 
 @@Potentially re-order the elements of each group for significance
 
-| C   | Loop                              | Hourglass                                                           | Natural Units |
-| --- | --------------------------------- | ------------------------------------------------------------------- | ------------- |
-| m   | radial travel                     | distance comparison (depth)                                         | paces         |
-| n   | angular height travel (e.g. fall) | vertical comparison                                                 | hands         |
-| ŋ   | tangential travel                 | tangential comparison                                               | hands         |
-| b   | easy travel                       | simple comparison                                                   | ?             |
-| d   | clear (e.g. mapped path) travel   | canonical comparison                                                | ?             |
-| p   | foretold/prophetic travel         | prophetic comparison                                                | ?             |
-| t   | impeded travel                    | nuanced/difficult comparison                                        | ?             |
-| s   | state  (e.g. solid -> gas) change | state comparison                                                    | ?             |
-| f   | change in animacy                 | animacy comparison                                                  | n/a           |
-| š   | give                              | compare posession                                                   | ?             |
-| ž   |                                   |                                                                     | ?             |
-| v   | `[`animacy`]`-travel              | compare `[`animacy`]`                                               | ?             |
-| z   |                                   |                                                                     | ?             |
-| r   | travel between emotions           | emotional comparison                                                | ?             |
-| l   | training                          | experience comparison                                               | ?             |
-| ř   | spiritual journey                 | spiritual comparison (e.g. islam-witchy)                            | ?             |
-| g   | cooling/heating/weather           | temperature range                                                   | wamth?        |
-| k   | change in texture                 | texture range (e.g. soft-rough)                                     | ?             |
-| h   | gender transition                 | gender (static)                                                     | ?             |
-| x   | sensory/linguistic translation    | sensory/linguistic comparison (e.g. sight-sound, ithkuil-toki pona) | ?             |
+| C   | Loop                              | Hourglass                                      | Natural Units |
+| --- | --------------------------------- | ---------------------------------------------- | ------------- |
+| m   | radial travel                     | distance comparison (depth)                    | paces         |
+| n   | angular height travel (e.g. fall) | vertical comparison                            | hands         |
+| ŋ   | tangential travel                 | tangential comparison                          | hands         |
+| b   | easy travel                       | simple comparison                              | ?             |
+| d   | clear (e.g. mapped path) travel   | canonical comparison                           | ?             |
+| p   | foretold/prophetic travel         | foretold/prophetic comparison                  | ?             |
+| t   | impeded travel                    | nuanced/difficult comparison                   | ?             |
+| s   | state  (e.g. solid -> gas) change | state comparison                               | ?             |
+| f   | change in animacy                 | animacy comparison                             | n/a           |
+| š   | give                              | compare posession                              | ?             |
+| ž   | language translation              | linguistic comparison (e.g. ithkuil-toki pona) | ?             |
+| v   | `[`animacy`]`-state travel        | compare `[`animacy`]`-state                    | ?             |
+| z   |                                   |                                                | ?             |
+| r   | travel between emotions           | emotional comparison                           | ?             |
+| l   | training                          | experience comparison                          | ?             |
+| ř   | spiritual journey                 | spiritual comparison (e.g. islam-witchy)       | ?             |
+| g   | cooling/heating/weather           | temperature range                              | wamth?        |
+| k   | change in texture                 | texture range (e.g. soft-rough)                | ?             |
+| h   | gender transition                 | gender (static)                                | ?             |
+| x   | sensory translation               | sensory comparison (e.g. sight-sound)          | ?             |
 
 | `vō` variations | loop                               | hourglass           |
 | --------------- | ---------------------------------- | ------------------- |
