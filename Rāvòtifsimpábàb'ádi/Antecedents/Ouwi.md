@@ -1,0 +1,2 @@
+# [Ouwi](https://ouwi.org/index.html)
+As documented [[Thek'nganosh/Ouwi|elsewhere]], Ouwi's relationship to the language that would become Rāvòz is somewhat tenuous. There is much aesthetic similarity, and the structure of speech is lifted almost whole-cloth (such is the case of alphabets), but much structure is imposed by grammatical compatibility with [[UNLWS]] which is not otherwise present.

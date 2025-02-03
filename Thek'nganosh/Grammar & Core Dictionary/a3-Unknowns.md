@@ -10,7 +10,7 @@ Read as `A da3` or `da3 A` (whichever is more convenient) meaning "What (object)
 Read as `ngo1 da3 A` or `A da3 ngo1` (as above) meaning "You don't know A" or "A is some (unknown to you) object". Note that the glyph intersecting `a3` must be able to "wonder" about it (so must be a person in this context).
 
 No story can be written of this vowel as each word forms a question, though it's still prudent to include it for the purposes of dictionary.
-(As a note, the title is chosen in opposition to [[Ouwi]]'s comparable story "Unknown" to accentuate the fact that this story is not only unknown but also *not possible* to know)
+(As a note, the title is chosen in opposition to [[Thek'nganosh/Ouwi]]'s comparable story "Unknown" to accentuate the fact that this story is not only unknown but also *not possible* to know)
 
 C | Literal
 -|-

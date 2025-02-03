@@ -33,4 +33,4 @@ Read as `ŋoA` or `A ŋov` or `ŋov A` meaning "A never happened (even if it cou
 | g   | good/happy                    | simultaneous                    |
 | k   | bad/sad                       | defective (almost)              |
 | h   | unthinkable                   | presumptive (might do)          |
-| x   | labor/work (as in hard work)  | command                         |
+| x   |                               | command                         |

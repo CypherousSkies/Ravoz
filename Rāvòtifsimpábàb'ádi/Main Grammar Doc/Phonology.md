@@ -19,7 +19,7 @@ Consonants are [[Writing#Consonant Markings|written]] as modifying a vowel (whic
 It has been brought to my attention that having three different r-like sounds is not good for everybody. So! Instead of trying to distinguish /r/, /l/, /ɻ/, I invite you to pronounce `ř` as /ð/ (voiced th for English speakers), `r` as /B/ (a trilled b), and `l` as /l~ɻ/ (any sound between r and l, like Japanese).
 
 ### Other Accessibility
-I am also considering making an [[Ouwi]]-style dialect which replaces tones with a variety of non-tonal vowels. I'm also considering giving alternatives for the retroflex sounds for those that find them difficult. I'm happy to hear feedback/suggestions on this, but the spoken part of the language was never really going to be the most important feature of the language. 
+I am also considering making an [[Thek'nganosh/Ouwi]]-style dialect which replaces tones with a variety of non-tonal vowels. I'm also considering giving alternatives for the retroflex sounds for those that find them difficult. I'm happy to hear feedback/suggestions on this, but the spoken part of the language was never really going to be the most important feature of the language. 
 
 ### Consonant Groupings
 Some consonants sound similar and so have clustered meanings:

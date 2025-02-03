@@ -2,7 +2,7 @@
 `The3tknga1no2sh` (anglicized "Thek'nganosh") translates as "Understanding all of infinity through belief/on no authority".
 This is spiritual artlang with a non-linear writing system, primarily about telling stories and using them to communicate ideas in a spiritually significant way.
 
-Each vowel with a tone forms a glyph and (in keeping with its [[Ouwi]] roots) saying the consonants in order recovers a story for each vowel, which forms the core vocabulary of the language.
+Each vowel with a tone forms a glyph and (in keeping with its [[Thek'nganosh/Ouwi]] roots) saying the consonants in order recovers a story for each vowel, which forms the core vocabulary of the language.
 
 The goals are as follows:
 - Build a non-linear dyslexic-friendly writing system

@@ -66,4 +66,4 @@ There are many reasons to leave a glyph unmarked (especially for `ā` which is v
 ## Linear Script
 WIP: this isn't done but I'm working on it
 ## Linear Creole
-If you like the look of Ravoz but don't want the commitment of translation, then I have good news for you! Just use Ravoz like [[Ouwi]] and write in words in whatever linear script over their unmarked functional counterparts. When speaking in this way, proceed the foreign word with `tò` and end it with the relevant affixes, for example, if I wanted to talk about roses, I could say "`tò`rose`'ádi`".
+If you like the look of Ravoz but don't want the commitment of translation, then I have good news for you! Just use Ravoz like [[Thek'nganosh/Ouwi]] and write in words in whatever linear script over their unmarked functional counterparts. When speaking in this way, proceed the foreign word with `tò` and end it with the relevant affixes, for example, if I wanted to talk about roses, I could say "`tò`rose`'ádi`".

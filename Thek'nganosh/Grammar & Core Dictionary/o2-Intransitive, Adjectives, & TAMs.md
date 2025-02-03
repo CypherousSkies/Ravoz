@@ -41,7 +41,7 @@ x| deep (cave) | far future
 (tk)| grouping symbol/quotation (parenthetical, etc.)
 
 ## Conjugation
-These can be written either the [[05 Tense, Aspect, Modality#Tense Aspect|UNLWS]] way (with an `'o2` marked with the UNLWS tense marker) or the [[Ouwi]] way (an `o2` word double intersecting).
+These can be written either the [[05 Tense, Aspect, Modality#Tense Aspect|UNLWS]] way (with an `'o2` marked with the UNLWS tense marker) or the [[Thek'nganosh/Ouwi]] way (an `o2` word double intersecting).
 Most verbs should be left unmarked (for convenience), letting tense be inferred from context.
 By default, all verbs are understood to mean now (at time of speaking or writing).
 If conjugating the UNLWS way, either include the marking on the "root" (where the consonant particle goes) or off the point of a DI `'o2`.
