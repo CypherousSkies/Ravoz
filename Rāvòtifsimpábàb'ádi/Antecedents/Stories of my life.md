@@ -39,5 +39,5 @@ granted it didn't render right on my ereader so i was working exclusively from m
 i blinked in the light, seeing the concepts i had imagined as the hollow projections that they were, and as my eyes adjusted, i knew i wanted more
 
 ## thek'nganosh, ravoz, and the current day
-the rest of the story is well documented at this point between this server and my own
+the rest of the story is well documented at this point between \[the UNLWS discord\] and my own
 the only notable thing is that my first try at spoken unlws (thek'nganosh) was largely a failure (it suffered from bloat and generally poor linguistic aesthetics, and was pretty much an Ouwi clone with weird modifications) and while i'm happy to talk about it, all the lessons i learnt in doing so are apparent in ravoz

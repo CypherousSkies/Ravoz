@@ -19,8 +19,8 @@ numbers are written the [[Numbers|UNLWS]] way
 | v   | 5                                                           | quintuple                                     |
 | z   | 6                                                           | 6^n (where n is syllable-final consonant)     |
 | r   | ordinal                                                     | numerical unit                                |
-| l   | change ($\nabla$)                                           |                                               |
-| ř   | stack                                                       |                                               |
+| w   | change ($\nabla$)                                           |                                               |
+| j   | stack                                                       |                                               |
 | g   | -1, reverse (underline dash)                                | no, not, negate (slash)                       |
 | k   | seximal point                                               | reciprocal                                    |
 | h   | raised to the power, continuous                             | repeated application, discrete                |

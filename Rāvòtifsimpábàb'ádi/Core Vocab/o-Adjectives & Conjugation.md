@@ -28,8 +28,8 @@ Read as `ŋoA` or `A ŋov` or `ŋov A` meaning "A never happened (even if it cou
 | v   | deep, below (cave)            | far future                      |
 | z   | far                           | unexpected, new, about to start |
 | r   | total, complete               | completed                       |
-| l   | some, partial                 | each, partially, discretely     |
-| ř   | exclusive, incomplete         | incomplete                      |
+| w   | some, partial                 | each, partially, discretely     |
+| j   | exclusive, incomplete         | incomplete                      |
 | g   | good/happy                    | simultaneous                    |
 | k   | bad/sad                       | defective (almost)              |
 | h   | unthinkable                   | presumptive (might do)          |

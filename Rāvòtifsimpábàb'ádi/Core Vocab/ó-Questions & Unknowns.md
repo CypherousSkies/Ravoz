@@ -17,8 +17,8 @@
 | v   | x                            |                           |                                                                                                         |
 | z   | some unknowable              |                           | if it can be so, what is its name?                                                                      |
 | r   |                              |                           |                                                                                                         |
-| l   | some (immediate) process     | some process, system      | how (immediate process) as in "how did this happen"/how (process, system) as in "how did you make that" |
-| ř   |                              |                           |                                                                                                         |
+| w   | some (immediate) process     | some process, system      | how (immediate process) as in "how did this happen"/how (process, system) as in "how did you make that" |
+| j   |                              |                           |                                                                                                         |
 | g   | some specific place          | somewhere                 | where?                                                                                                  |
 | k   |                              |                           |                                                                                                         |
 | h   |                              |                           |                                                                                                         |

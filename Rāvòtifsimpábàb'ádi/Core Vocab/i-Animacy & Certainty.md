@@ -17,8 +17,8 @@ Particle is unmarked, term is syllable final `f`, rel2rel is syllable final `v`,
 | v   | from an uncertain source                      | uncertainty                                   | by the uncertain source                                         | -            |
 | z   | from an mistrusted source                     | assumption (falsehood)                        | by the mistrusted source                                        | -            |
 | r   | nominally, by name                            | name                                          | is called                                                       | -            |
-| l   | by presence                                   | presence                                      | whose presence                                                  | -            |
-| ř   | by practice                                   | practice                                      | what practice                                                   | -            |
+| w   | by presence                                   | presence                                      | whose presence                                                  | -            |
+| j   | by practice                                   | practice                                      | what practice                                                   | -            |
 | g   | by dream, subconscious                        | a dream                                       | dreamed by                                                      | -            |
 | k   | by its nature                                 | be too much of what it is to be anything else | said nature                                                     | -            |
 | h   | by means too personal to share                | highly personal/internal                      | from the internality                                            | -            |

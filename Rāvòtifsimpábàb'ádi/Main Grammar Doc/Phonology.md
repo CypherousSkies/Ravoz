@@ -4,13 +4,14 @@ There are 3 vowels — `a`, `i`, `o` — and three tones — rising (first, `á`
 All vowel-tone pairs are represented by [[#Glyphs]] (unit of written information) and is modified by at most one consonant in the onset marking meaning and sometimes a syllable-final consonant to mark for grammar.
 
 ## Consonants
+When two pronunciations are listed, the left is what I've historically envisioned, the right is what I've moved toward as I've tried to get people to learn the language. I'm making an effort to use the 'more modern' romanization, but I provide it both as historical reference and because I've almost certainly missed places.
 
-| \-           | labial        | coronal          | retroflex     | velar         |
-| ------------ | ------------- | ---------------- | ------------- | ------------- |
-| plosive      | `p`/p/ `b`/b/ | `t`/t/ `d`/d/    |               | `k`/k/ `g`/g/ |
-| nasal        | `m`/m/        | `n`/n/           |               | `ŋ`/ŋ/        |
-| fricative    | `f`/f/ `v`/v/ | `s`/s/ `z`/z/    | `š`/ʂ/ `ž`/ʐ/ | `h`/x/ `x`/ɣ/ |
-| approximants |               | `r`/r,ɾ/ `l` /l/ | `ř`/ɻ/        |               |
+| \-           | labial        | coronal                | retroflex          | velar         |
+| ------------ | ------------- | ---------------------- | ------------------ | ------------- |
+| plosive      | `p`/p/ `b`/b/ | `t`/t/ `d`/d/          |                    | `k`/k/ `g`/g/ |
+| nasal        | `m`/m/        | `n`/n/                 |                    | `ŋ`/ŋ/        |
+| fricative    | `f`/f/ `v`/v/ | `s`/s/ `z`/z/          | `š`/ʂ~ʃ/ `ž`/ʐ~dʒ/ | `h`/x/ `x`/ɣ/ |
+| approximants |               | `r`/r,ɾ/ `l`~`w` /l~ʋ/ | `ř`~`j`/ɻ~j/       |               |
 
 ![[full-table.png]]
 Consonants are [[Writing#Consonant Markings|written]] as modifying a vowel (which should make sense, as the vowel determines the function of a root). 

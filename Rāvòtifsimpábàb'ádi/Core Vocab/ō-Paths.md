@@ -24,8 +24,8 @@ Journeys (written with a loop) has no syllable-final consonant (except in suffix
 | v   | `[`animacy`]`-state travel        | compare `[`animacy`]`-state                    | ?             |
 | z   |                                   |                                                | ?             |
 | r   | travel between emotions           | emotional comparison                           | ?             |
-| l   | training                          | experience comparison                          | ?             |
-| ř   | spiritual journey                 | spiritual comparison (e.g. islam-witchy)       | ?             |
+| w   | training                          | experience comparison                          | ?             |
+| j   | spiritual journey                 | spiritual comparison (e.g. islam-witchy)       | ?             |
 | g   | cooling/heating/weather           | temperature range                              | wamth?        |
 | k   | change in texture                 | texture range (e.g. soft-rough)                | ?             |
 | h   | gender transition                 | gender (static)                                | ?             |
