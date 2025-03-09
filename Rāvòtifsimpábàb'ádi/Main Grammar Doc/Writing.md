@@ -21,7 +21,7 @@ type | i | a | o
 \\ | [[ì-Pronouns]] | [[à-Domain Markers & Numbers]] | [[ò-Grouping]]
 
 #### Polysyllabic Cartouches
-Their polysyllabic cartouches are formed as follows: (these are written around a collection of glyphs to indicate that they are to be read as a combined unit and have resulting binding points)
+Their polysyllabic cartouches are formed as follows: (these are written around a collection of glyphs to indicate that they are to be read as a combined unit and have resulting binding points) (I have drawings of these that I have yet to digitize)
 
 type | i | a | o
 -|-|-|-
@@ -30,6 +30,8 @@ type | i | a | o
 \- | ? | ? | ?
 \\ | o- or -\|> | n/a | n/a
 I haven't had need of the ones marked `?` yet so I'll fill them in as is useful
+
+You may also apply consonant markers to these to specify that the construct inside is of the class of that thing (e.g. putting a `n` on an `á` cartouche would indicate that the thing is a creature).
 
 ### Parts of "Speech"
 These categories bare some explaining so lets pick them apart:

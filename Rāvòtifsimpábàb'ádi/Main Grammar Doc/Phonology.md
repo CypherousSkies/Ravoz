@@ -4,7 +4,7 @@ There are 3 vowels — `a`, `i`, `o` — and three tones — rising (first, `á`
 All vowel-tone pairs are represented by [[#Glyphs]] (unit of written information) and is modified by at most one consonant in the onset marking meaning and sometimes a syllable-final consonant to mark for grammar.
 
 ## Consonants
-When two pronunciations are listed, the left is what I've historically envisioned, the right is what I've moved toward as I've tried to get people to learn the language. I'm making an effort to use the 'more modern' romanization, but I provide it both as historical reference and because I've almost certainly missed places.
+When two pronunciations are listed, the left is what I've historically envisioned, the right is what I've moved toward as I've tried to get people to learn the language. I'm making an effort to use the 'more modern' romanization, but I provide it both as historical reference and because I've almost certainly missed places. 
 
 | \-           | labial        | coronal                | retroflex          | velar         |
 | ------------ | ------------- | ---------------------- | ------------------ | ------------- |
@@ -16,18 +16,15 @@ When two pronunciations are listed, the left is what I've historically envisione
 ![[full-table.png]]
 Consonants are [[Writing#Consonant Markings|written]] as modifying a vowel (which should make sense, as the vowel determines the function of a root). 
 
-### Rhotic Accessibility
-It has been brought to my attention that having three different r-like sounds is not good for everybody. So! Instead of trying to distinguish /r/, /l/, /ɻ/, I invite you to pronounce `ř` as /ð/ (voiced th for English speakers), `r` as /B/ (a trilled b), and `l` as /l~ɻ/ (any sound between r and l, like Japanese).
-
-### Other Accessibility
-I am also considering making an [[Thek'nganosh/Ouwi]]-style dialect which replaces tones with a variety of non-tonal vowels. I'm also considering giving alternatives for the retroflex sounds for those that find them difficult. I'm happy to hear feedback/suggestions on this, but the spoken part of the language was never really going to be the most important feature of the language. 
+### Vowel Accessibility?
+I am also considering making an [[Thek'nganosh/Ouwi]]-style dialect which replaces tones with a variety of non-tonal vowels. I'm happy to hear feedback/suggestions on this, but the spoken part of the language was never really going to be the most important feature of the language. 
 
 ### Consonant Groupings
 Some consonants sound similar and so have clustered meanings:
 nasals: `m n ŋ`
 stops: `b d p t`
 fricatives: `s f š ž v z`
-approx: `r l ř`
+approx: `r w j`
 velar: `g k h x`
 
 ## Phonotactics
